@@ -1,0 +1,124 @@
+Lesson_28	Together	Say in English «вместе».
+Lesson_28	We’re going to Washington.	Say «мы едем в Вашингтон».
+Lesson_28	Where are you going?	Ask «куда вы едите?»
+Lesson_28	We’re going to Washington.	Say again that you are going to Washington.
+Lesson_28	We’re going to leave.	And how do you say «мы собираемся уехать».
+Lesson_28	We are going to leave together.	Now say «мы собираемся уехать вместе».
+Lesson_28	Maybe	Может быть 
+Lesson_28	Are you going to see your friends?	Ask me if I’m going to see my friends.
+Lesson_28	I’m going to see my friend in Washington.	Now say «я собираюсь увидеть своего друга в Вашингтоне».
+Lesson_28	Does he live there?	Ask is he lives there.
+Lesson_28	Yes, and he works there too.	Да, и он работает тоже там.
+Lesson_28	I’m going to see my friend in Washington.	Say again «я собираюсь увидеть своего друга в Вашингтоне».
+Lesson_28	Then I’m going to work.	Потом я буду работать.
+Lesson_28	I think I’m going to work.	Я думаю, что я буду работать.
+Lesson_28	How much money do you have?	Ask the woman how much money she has.
+Lesson_28	I have one hundred dollars.	Answer «у меня есть сто долларов».
+Lesson_28	I don’t have anything.	Say «у меня ничего нет».
+Lesson_28	Please give me ninety dollars.	Вежливо попросите ее дать вам 90 долларов.
+Lesson_28	I don’t want to.	Как ей коротко ответить, что она не хочет давать вам деньги?
+Lesson_28	I want to leave.	Я хочу уехать.
+Lesson_28	I’m going to Boston.	Я еду в Бостон.
+Lesson_28	With my friends.	Co своими друзьями.
+Lesson_28	Maybe	Может быть 
+Lesson_28	I think I’m going to Boston.	Say «я думаю, что я еду в Бостон».
+Lesson_28	I want to see my friends there.	Try to say «я хочу увидеть свих друзей там».
+Lesson_28	Then I’m going to work.	Потом я собираюсь поработать.
+Lesson_28	My wife wants to buy something.	Say «моя жена хочет кое‐что купить».
+Lesson_28	But she doesn’t have any money.	Но у нее нет денег.
+Lesson_28	She doesn’t need anything.	And how do you say «ей ничего не нужно».
+Lesson_28	We don’t need anything.	Нам ничего не нужно.
+Lesson_28	But she’d like to buy something.	Но она хотела бы купить что‐нибудь.
+Lesson_28	For our children.	Для наших детей.
+Lesson_28	Please give me ninety five dollars.	Try to say «пожалуйста дайте мне 95 долларов».
+Lesson_28	Here’s one hundred dollars.	Вот 100 долларов.
+Lesson_28	You can leave now.	Сейчас вы можете уехать.
+Lesson_28	What does that mean?	«Что это означает?» Listen and repeat.
+Lesson_28	What does that mean?	Ask again «что это означает?»
+Lesson_28	The word shoot.	Слово «shoot». Listen and repeat.
+Lesson_28	Word	Say again «слово».
+Lesson_28	The word shoot.	Now say «слово shoot».
+Lesson_28	What does that mean?	Ask «что это означает?»
+Lesson_28	It’s an English word.	«Это английское слово». Listen and repeat.
+Lesson_28	It’s an English word.	Say again «это английское слово».
+Lesson_28	Is it an English word?	Ask if it’s an English word.
+Lesson_28	Yes, I think so.	Say «да, я так думаю».
+Lesson_28	I think it’s an English word.	А как сказать «я думаю, что это английское слово».
+Lesson_28	What does it mean?	Что это означает?
+Lesson_28	Are you American?	Now ask «вы американец?»
+Lesson_28	Yes, we’re American.	Она говорит «да, мы американцы». Только слушайте.
+Lesson_28	Yes, we’re American.	Try to say «да, мы американцы».
+Lesson_28	We have an American car.	Now try to say «у нас есть американская машина».
+Lesson_28	We have an American car.	Скажите еще раз «у нас есть американская машина».
+Lesson_28	Word	In English how do you say «слово»?
+Lesson_28	Shoot	Say the word «shoot».
+Lesson_28	What does that mean?	Ask what that means.
+Lesson_28	We are here.	Say «мы здесь».
+Lesson_28	Days	Дней 
+Lesson_28	A few days	Say again «несколько дней».
+Lesson_28	We’re here for a few days.	«Мы здесь на несколько дней». Listen and repeat.
+Lesson_28	We’re here for a few days.	Скажите еще раз «мы здесь на несколько дней».
+Lesson_28	How many days?	Try to ask «сколько дней?»
+Lesson_28	For three or four days.	Say «на три или четыре дня».
+Lesson_28	How long?	«Как долго?» Listen and repeat.
+Lesson_28	How long?	Ask again «как долго?»
+Lesson_28	For a few days.	На несколько дней.
+Lesson_28	What does that mean?	How long are you going to stay? Ask what that means.
+Lesson_28	The word «stay».	Слово «stay».
+Lesson_28	That means «остаться».	«Это означает «остаться»». Listen and repeat.
+Lesson_28	I know what that means.	Попробуйте сказать «я знаю, что это означает».
+Lesson_28	What does that mean?	А как спросить, что это означает?
+Lesson_28	That means «остаться».	Say again «это означает «остаться»».
+Lesson_28	Oh‐h‐h, I understand now.	А‐а‐а, теперь я понимаю.
+Lesson_28	Are you going to stay?	Try to ask «вы собираетесь остаться?»
+Lesson_28	How long?	Ask «как долго?»
+Lesson_28	For a few days.	На несколько дней.
+Lesson_28	Are you going to stay?	Ask me again if I’m going to stay.
+Lesson_28	Yes, I think so.	Do you remember how to say «да, я так думаю».
+Lesson_28	I think I’m going to stay.	And how do you say «я думаю, что я собираюсь остаться».
+Lesson_28	How long are you going to stay?	Try to ask «как долго вы собираетесь остаться?»
+Lesson_28	For a few days.	На несколько дней.
+Lesson_28	We are going to stay.	Мы собираемся остаться.
+Lesson_28	For a few days.	На несколько дней.
+Lesson_28	We don’t have much time.	«У нас немного времени». Listen and repeat.
+Lesson_28	We don’t have much time.	Скажите еще раз, что у вас немного времени.
+Lesson_28	What time is it?	Вы помните, как спросить «который час?»
+Lesson_28	We don’t have much time.	Скажите еще раз «у нас немного времени».
+Lesson_28	We’re going to Boston.	Мы едем в Бостон.
+Lesson_28	We’re going to leave tomorrow.	Мы собираемся уехать завтра.
+Lesson_28	Together	Вместе 
+Lesson_28	Our friend lives in Boston.	Наш друг живет в Бостоне.
+Lesson_28	He works there too.	Он работает там тоже.
+Lesson_28	He doesn’t have a car.	У него нет машины.
+Lesson_28	Does he need a car?	Try to ask «ему нужна машина?»
+Lesson_28	I don’t think so.	Я так не думаю.
+Lesson_28	He doesn’t need a car.	Now say «ему не нужна машина».
+Lesson_28	He wants to buy a car.	Он хочет купить машину.
+Lesson_28	He wants to buy an American car.	Try to say «он хочет купить американскую машину».
+Lesson_28	But he needs a lot of money.	Но ему нужно много денег.
+Lesson_28	We don’t need anything.	Нам ничего не нужно.
+Lesson_28	We’re going to see our friend.	Мы собираемся увидеть своего друга.
+Lesson_28	We’d like to see our friend.	Now say «мы хотели бы увидеть своего друга».
+Lesson_28	We’d like to stay in Boston.	Мы бы хотели остаться в Бостоне.
+Lesson_28	For three days.	На три дня.
+Lesson_28	How long are you going to stay?	Ask how long he is going to stay.
+Lesson_28	How long are you going to stay in Boston?	Ask how long he is going to stay in Boston.
+Lesson_28	We’d like to stay for three days.	Мы хотели бы остаться на 3 дня.
+Lesson_28	We don’t have much time.	У нас немного времени.
+Lesson_28	We can’t stay.	Мы не можем остаться.
+Lesson_28	We can’t stay for five days.	Мы не можем остаться на пять дней.
+Lesson_28	What does that mean?	Ask what that means.
+Lesson_28	The word «shoot».	Слово «shoot».
+Lesson_28	I don’t know what that means.	Say «я не знаю, что это означает».
+Lesson_28	We’d like to stay.	Say «мы хотели бы остаться».
+Lesson_28	But we don’t have much time.	Но у нас немного времени.
+Lesson_28	I’d like to stay in America.	Now say «я хотел бы остаться в Америке».
+Lesson_28	My wife and I are here together.	Мы с женой здесь вместе.
+Lesson_28	My wife wants to leave.	Say «моя жена хочет уехать».
+Lesson_28	She wants to see our children.	Она хочет увидеть наших детей.
+Lesson_28	What time is it?	Ask what time it is?
+Lesson_28	What does that mean?	Ask what that means.
+Lesson_28	The word «shoot».	Слово «shoot».
+Lesson_28	What does that mean?	Что это означает?
+Lesson_28	That means	Это означает.
+Lesson_28	That’s what «shoot» means.	Вот что означает «shoot».

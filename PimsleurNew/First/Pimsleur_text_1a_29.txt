@@ -1,0 +1,391 @@
+1		56	0	Американский английский язык по методу доктора Пимслера.
+1		9	0	Урок №29.
+2		7	0	Listen.
+2		14	0	A ‐ Hi, Nancy.
+2		16	0	B ‐ How are you?
+2		49	0	A ‐ Hi, Boris. I’m fine, thanks. And how are you?
+2		12	0	B ‐ Not bad.
+3	1	24	14.8	Now ask what that means.
+3	2	20	0	What does that mean?
+3		20	21.65	What does that mean?
+4	1	12	25.372	Слово «bad».
+4	2	15	0	The word «bad».
+5	1	34	34.1	Try to say «это означает «плохо»».
+5	2	19	0	That means «плохо».
+5		19	45.74	That means «плохо».
+6	1	8	52	Неплохо.
+6	2	8	0	Not bad.
+6		8	58.35	Not bad.
+7	1	28	61.43	Say that you understand now.
+7	2	17	0	I understand now.
+8	1	33	71.17	Как сказать, что вы не понимаете.
+8	2	19	0	I don’t understand.
+9	1	20	80.7	Say again «неплохо».
+9	2	8	0	Not bad.
+9		8	0	Not bad.
+10	1	19	92.4	Now say «мы здесь».
+10	2	10	0	We’re here
+11	1	18	100.02	На несколько дней.
+11	2	15	0	For a few days.
+11		15	109.07	For a few days.
+12	1	40	113.15	Скажите, что вы здесь на несколько дней.
+12	2	26	0	We’re here for a few days.
+13	1	13	124.86	Ask how long.
+13	2	9	0	How long?
+13		9	132.11	How long?
+14	1	51	135.01	Сейчас спросите, как долго она собирается остаться.
+14	2	31	0	How long are you going to stay?
+14		7	147.62	to stay
+14		13	0	going to stay
+14		31	0	How long are you going to stay?
+15	1	28	161.05	Say «мы собираемся остаться»
+15	2	19	0	We’re going to stay
+16	1	18	172.02	На несколько дней.
+16	2	15	0	For a few days.
+17	1	5	180.73	Потом
+17	2	4	0	Then
+18	1	21	186.35	Мы собираемся уехать 
+18	2	22	0	We are going to leave.
+19	1	38	194.24	And how do you say «мы едем в Бостон»?
+19	2	22	0	We’re going to Boston.
+19		22	204.86	We’re going to Boston.
+20	1	7	209.75	Вместе 
+20	2	8	0	Together
+21	1	22	215.56	У нас немного времени.
+21	2	24	0	We don’t have much time.
+22	1	38	224.17	Try to say «у меня есть 200 долларов».
+22	2	27	0	I have two hundred dollars.
+22		11	236.5	two hundred
+23	1	21	241.4	How do you say «200»?
+23	2	11	0	Two hundred
+23		11	249.66	Two hundred
+24	1	3	253.02	Но 
+24	2	3	0	But
+25	1	20	258.08	Мне ничего не нужно.
+25	2	22	0	I don’t need anything.
+26	1	27	266.53	Моему мужу ничего не нужно.
+26	2	33	0	My husband doesn’t need anything.
+27	1	24	278.69	И у нас немного времени.
+27	2	28	0	And we don’t have much time.
+28	1	23	290.12	Мы собираемся остаться.
+28	2	20	0	We’re going to stay.
+29	1	18	299.73	На несколько дней.
+29	2	15	0	For a few days.
+29		35	308.62	We’re going to stay for a few days.
+30	1	17	314.33	Несколько недель.
+30	2	12	0	A few weeks.
+31	1	20	320.45	Ask what that means.
+31	2	20	0	What does that mean?
+32	1	14	327.49	Слово «weeks».
+32	2	17	0	The word «weeks».
+32		17	336.65	The word «weeks».
+32		20	0	That means «недели».
+33	1	25	345.22	Try to say «одна неделя».
+33	2	9	0	One week.
+33		13	352.25	For one week.
+34	1	10	356.06	Как долго?
+34	2	9	0	How long?
+34		13	362.77	For how long?
+35	1	15	366.13	На одну неделю.
+35	2	13	0	For one week.
+35		13	374.2	For one week.
+36	1	23	378.28	Мы собираемся остаться.
+36	2	19	0	We’re going to stay
+37	1	15	388.17	На одну неделю 
+37	2	12	0	For one week
+38	1	7	396.87	Вместе 
+38	2	8	0	Together
+39	1	8	402.59	А потом 
+39	2	8	0	And then
+40	1	21	408.66	Мы собираемся уехать 
+40	2	20	0	We’re going to leave
+41	1	27	417.2	Now say «мы едем в Бостон».
+41	2	22	0	We’re going to Boston.
+42	1	27	427.71	How do you ask «как долго?»
+42	2	9	0	How long?
+42		9	436.78	How long?
+43	1	29	439.96	Сколько времени вы уже здесь?
+43	2	28	0	How long have you been here?
+43		4	448.12	been
+43		4	0	been
+43		9	0	have been
+43		13	0	have you been
+43		8	0	How long
+43		28	0	How long have you been here?
+43		28	0	How long have you been here?
+44		88	0	Обратите внимание на новое значение слова «have». Оно используется здесь в сочетании со 
+44		93	0	словом «been», указывая на то, что кто‐то с некоторых пор до настоящего времени, находится в 
+44		19	0	определенном месте.
+44	1	48	491.19	Спросите еще раз «сколько времени вы уже здесь?»
+44	2	28	0	How long have you been here?
+44		28	501.17	How long have you been here?
+45		82	0	Обратите внимание, что по‐английски это дословно звучит «как долго вы были здесь».
+46	1	55	514.46	Попробуйте спросить, сколько времени она уже в Бостоне.
+46	2	33	0	How long have you been in Boston?
+47	1	86	525.98	«Уже несколько недель».
+47	2	16	0	For a few weeks.
+48	1	50	540.68	Спросите у женщины, сколько времени она уже здесь.
+48	2	28	0	How long have you been here?
+49		49	552.47	Вы хотите сказать «я здесь уже несколько недель».
+49		21	0	Try to say «я здесь».
+49		16	0	I have been here
+49		9	0	have been
+49		16	0	I have been here
+49		14	0	I’ve been here
+49		4	0	I’ve
+49		14	0	I’ve been here
+50		90	0	Вы обратили внимание на сокращение? Вы будете использовать эту форму выражения «I have» в 
+50		19	0	подобном контексте.
+50	1	57	592.37	Сейчас попробуйте сказать «я здесь уже несколько недель».
+50	2	31	0	I’ve been here for a few weeks.
+50		15	604.69	for a few weeks
+51	1	51	610.66	Скажите еще раз, что вы уже здесь несколько недель.
+51	2	31	0	I’ve been here for a few weeks.
+52	1	39	623.27	Try to say «у меня недостаточно денег».
+52	2	26	0	I don’t have enough money.
+52		26	635.33	I don’t have enough money.
+53	1	44	640.19	А сейчас скажите «у нас недостаточно денег».
+53	2	27	0	We don’t have enough money.
+54	1	25	652.98	Say «у нас 150 долларов».
+54	2	34	0	We have one hundred fifty dollars.
+54		17	666.4	one hundred fifty
+55	1	9	671.71	Say «143»
+55	2	23	0	One hundred forty three
+56	1	3	682.14	197
+56	2	24	0	One hundred ninety seven
+57	1	25	691.3	Помните, как сказать 200?
+57	2	11	0	Two hundred
+57		11	699.47	Two hundred
+58	1	31	702.61	Спросите, сколько у меня денег.
+58	2	27	0	How much money do you have?
+58		27	712.23	How much money do you have?
+59	1	46	717.6	Try to say «я думаю, что у меня 200 долларов».
+59	2	35	0	I think I have two hundred dollars.
+60		15	732.11	I think, shoot!
+60	1	27	737.19	Спросите, что это означает.
+60	2	20	0	What does that mean?
+60		20	744.33	What does that mean?
+61	1	32	748.43	Say «у меня недостаточно денег».
+61	2	26	0	I don’t have enough money.
+62	1	54	758.84	Спросите у женщины, сколько времени она уже в Бостоне.
+62	2	33	0	How long have you been in Boston?
+62		33	772.17	How long have you been in Boston?
+63		50	0	«Со вчерашнего дня». Сначала освоим слово «вчера».
+63		18	0	Listen and repeat.
+63		9	0	Yesterday
+63		3	0	Day
+63		3	0	Day
+63		6	0	Yester
+63		6	0	Yester
+63		9	0	Yesterday
+64	1	12	802.55	Say «вчера».
+64	2	9	0	Yesterday
+65	1	39	809.26	«Со вчерашнего дня». Listen and repeat.
+65	2	16	0	Since yesterday.
+65		5	817.95	Since
+65		5	0	Since
+66		16	0	Since yesterday.
+67	1	30	828.49	Say again «со вчерашнего дня».
+67	2	16	0	Since yesterday.
+68	1	88	838.28	Try to say «мы здесь уже со вчерашнего дня». Используйте сокращенную форму от «we have».
+68	2	32	0	We’ve been here since yesterday.
+68		5	856.33	We’ve
+68		5	0	We’ve
+68		32	0	We’ve been here since yesterday.
+69	1	48	868.49	And how do you say «я здесь уже несколько дней».
+69	2	30	0	I’ve been here for a few days.
+69		14	882.9	for a few days
+70	1	43	888.46	Say again «мы здесь уже со вчерашнего дня».
+70	2	32	0	We’ve been here since yesterday.
+70		15	900.98	since yesterday
+71	1	41	906.13	«Что вы купили вчера?» Listen and repeat.
+71	2	27	0	What did you buy yesterday?
+71		3	913.48	buy
+71		3	0	buy
+71		3	0	did
+71		3	0	did
+71		7	0	did buy
+71		11	0	did you buy
+71		16	0	What did you buy
+72		27	0	What did you buy yesterday?
+73		83	0	Обратите внимание на слово «did». Это форма вопросительного слова используется для 
+73		46	0	обозначения чего‐либо, случившегося в прошлом.
+74	1	39	951.72	Спросите еще раз «что вы купили вчера?»
+74	2	27	0	What did you buy yesterday?
+75	1	35	962.27	Сейчас слушайте и повторяйте ответ.
+75	2	19	0	I bought something.
+75		6	969.53	bought
+75		6	0	bought
+75		19	0	I bought something.
+76	1	25	978.77	Спросите, что она купила.
+76	2	17	0	What did you buy?
+76		17	986.93	What did you buy?
+77	1	26	990.7	Answer «я купила кое‐что».
+77	2	19	0	I bought something.
+77		19	1000.04	I bought something.
+78	1	26	1003.98	Ask «что вы купили вчера?»
+78	2	27	0	What did you buy yesterday?
+79	1	33	1014.77	Try to ask «что вы делали вчера?»
+79	2	26	0	What did you do yesterday?
+79		2	1027.29	Do
+80		15	0	What did you do
+81	1	26	1034.13	Answer «я купила кое‐что».
+81	2	19	0	I bought something.
+82	1	20	1042.3	Ask «что вы купили?»
+82	2	17	0	What did you buy?
+82		17	1051.1	What did you buy?
+83	1	28	1055.17	Try to say «кое‐что выпить».
+83	2	19	0	Something to drink.
+84	1	24	1064.42	Я купила кое‐что выпить.
+84	2	28	0	I bought something to drink.
+85	1	14	1074.22	Я купила вина.
+85	2	19	0	I bought some wine.
+85		19	1082.93	I bought some wine.
+86	1	16	1088.31	And a newspaper. Ask what that means.
+86	2	20	0	What does that mean?
+87	1	18	1098.38	Слово «newspaper».
+87	2	21	0	The word «newspaper».
+87		4	1108.63	Word
+88	1	36	1112.1	Try to ask «что означает это слово?»
+88	2	25	0	What does that word mean?
+88		25	1122.72	What does that word mean?
+89	1	50	1128	That means «газета». Повторяйте вслед за диктором.
+89	2	9	0	Newspaper
+89		5	1136.53	paper
+89		5	0	paper
+89		4	0	News
+89		4	0	News
+89		9	0	Newspaper
+89		11	0	A newspaper
+90	1	30	1154.09	Скажите, что вы купили газету.
+90	2	21	0	I bought a newspaper.
+90		21	1163.97	I bought a newspaper.
+91	1	33	1168.75	Try to ask «американскую газету?»
+91	2	22	0	An American newspaper?
+91		22	1179.52	An American newspaper?
+92	1	24	1185.21	Да, американскую газету.
+92	2	27	0	Yes, an American newspaper.
+93	1	35	1197.81	Ask «сколько времени вы уже здесь?»
+93	2	28	0	How long have you been here?
+93		28	1209.51	How long have you been here?
+94	1	27	1214.62	Я здесь уже несколько дней.
+94	2	30	0	I’ve been here for a few days.
+94		14	1226.23	I’ve been here
+95	1	28	1231.48	Now say «со вчерашнего дня».
+95	2	16	0	Since yesterday.
+95		16	1240.37	Since yesterday.
+96	1	20	1244.21	Что вы делали вчера?
+96	2	26	0	What did you do yesterday?
+97	1	14	1254.37	Я купила вина.
+97	2	19	0	I bought some wine.
+98	1	35	1263.16	Try to say «немного дорогого вина».
+98	2	20	0	Some expensive wine.
+99	1	22	1273.87	И американскую газету.
+99	2	26	0	And an American newspaper.
+99		21	1285.39	an American newspaper
+100	1	21	1290.98	Try to say «неплохо».
+100	2	8	0	Not bad.
+100		8	1299.69	Not bad.
+101	1	28	1302.96	Say «у моего мужа нет вина».
+101	2	33	0	My husband doesn’t have any wine.
+101		33	1314.84	My husband doesn’t have any wine.
+102	1	14	1320.83	Я купила вина.
+102	2	19	0	I bought some wine.
+103	1	16	1329.9	Для своего мужа.
+103	2	15	0	For my husband.
+104	1	6	1338.06	Имея ввиду ту газету, которую вы купили, скажите 'газета для меня'.
+104	2	6	0	The newspaper is for me. 
+104		6	1351.92	for me. 
+105	1	37	1355.25	«А вино для него». Listen and repeat.
+105	2	24	0	And the wine is for him.
+105		3	1363.6	him
+105		3	0	him
+105		7	0	for him
+105		19	0	the wine is for him
+106	1	26	1376.09	How do you say «для него?»
+106	2	8	0	For him.
+107	1	26	1385.07	Say again «вино для него».
+107	2	20	0	The wine is for him.
+107		20	1394.82	The wine is for him.
+108	1	28	1399.95	Также я купила немного кофе.
+108	2	25	0	I bought some coffee too.
+109	1	27	1410.38	Кофе для моей подруги Мери.
+109	2	34	0	The coffee is for my friend Marry.
+110	1	34	1423.44	«Кофе для нее». Listen and repeat.
+110	2	22	0	The coffee is for her.
+110		3	1431.69	her
+110		3	0	her
+110		7	0	for her
+110		22	0	The coffee is for her.
+111	1	18	1444.19	Say «это для нее».
+111	2	13	0	It’s for her.
+111		7	1452.62	for her
+111		13	0	It’s for her.
+112	1	20	1458.97	Say «вино для него».
+112	2	20	0	The wine is for him.
+112		7	1468.32	for him
+113	1	19	1472.37	Say «Кофе для нее».
+113	2	22	0	The coffee is for her.
+113		7	1481.62	for her
+114	1	56	1485.1	Вот как спросить «вам нравится вино?» Listen and repeat.
+114	2	17	0	Do you like wine?
+114		4	1493.27	like
+114		8	0	you like
+114		11	0	Do you like
+115		17	0	Do you like wine?
+116	1	30	1506.73	Ask again «вам нравится вино?»
+116	2	17	0	Do you like wine?
+116		17	1516.43	Do you like wine?
+117	1	26	1520.52	Try to say «мне нравится».
+117	2	7	0	I like.
+117		7	1528.68	I like.
+118	1	18	1531.58	Мне нравится вино.
+118	2	12	0	I like wine.
+119	1	46	1538.75	And how do you say «я хотела бы немного вина».
+119	2	19	0	I’d like some wine.
+119		8	1549.45	I’d like
+120	1	24	1552.61	Ask «вам нравится вино?»
+120	2	17	0	Do you like wine?
+120		17	1561.15	Do you like wine?
+121	1	25	1564.15	Я хотела бы немного вина.
+121	2	19	0	I’d like some wine.
+122	1	32	1573.74	Ask «вы хотели бы немного вина?»
+122	2	25	0	Would you like some wine?
+123	1	22	1584.27	Answer «нет, спасибо».
+123	2	26	0	No, thank you. No, thanks.
+124	1	17	1595.88	Я ничего не хочу.
+124	2	22	0	I don’t want anything.
+124		22	1604.76	I don’t want anything.
+125	1	69	1609.81	Имея ввиду какое‐нибудь пиво вообще, скажите «мой муж хотел бы пива».
+125	2	29	0	My husband would like a beer.
+126	1	15	1624.77	Say «вот пиво».
+126	2	14	0	Here’s a beer.
+127	1	13	1633.12	Это для него.
+127	2	13	0	It’s for him.
+127		13	1640.28	It’s for him.
+128	1	62	1644.18	Скажите «вино для нее», имея ввиду эту конкретную порцию вина.
+128	2	20	0	The wine is for her.
+128		20	1657.79	The wine is for her.
+129		93	0	Сейчас представьте, что вас зову Антон Сидоров. Вы только вчера приехали в Бостон. Город вам 
+129		91	0	очень понравился, и вы собираетесь остаться тут на одну неделю. Вы разговариваете с миссис 
+129		44	0	Johns, с которой вас только что познакомили.
+129		21	0	Answer her questions.
+129		21	0	Answer her questions.
+130		65	0	I’m pleased to meet you Mr. Sidorov. How long have you been here?
+130		16	0	Since yesterday.
+131		31	0	I’ve been here since yesterday.
+131		26	0	What did you do yesterday?
+132	1	46	1702.81	Скажите, что вы кое‐что купили для своей жены.
+132	2	34	0	I’ve bought something for my wife.
+132		34	1714.98	I’ve bought something for my wife.
+133	1	41	1722.05	How long are you going to stay in Boston?
+133	2	11	0	For a week.
+133		31	1731.48	I’m going to stay for one week.
+134	1	53	1736.56	Скажите ей «я хотел бы остаться на несколько недель».
+134	2	33	0	I’d like to stay for a few weeks.
+135	1	26	1752.71	Но у меня немного времени.
+135	2	27	0	But I don’t have much time.
+135		23	1764.5	I don’t have much time.
+136	1	19	1770.63	Do you like Boston?
+136	2	10	0	Yes, I do.
+136		24	1778.65	I like Boston very much.

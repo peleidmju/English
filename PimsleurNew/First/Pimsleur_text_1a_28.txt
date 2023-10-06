@@ -1,0 +1,368 @@
+1		56	0	Американский английский язык по методу доктора Пимслера.
+1		9	0	Урок №28.
+2		89	0	В этом уроке вам предстоит услышать менее формальный разговор, чем вы слушали до сих пор.
+2		96	0	Вы услышите, как дикторы говорят друг другу «Hi», а не «Hello», «thanks a lot» вместо «thank you
+2		79	0	very much». Эти неформальные выражения часто употребляются в повседневной речи.
+2		16	0	Now listen well.
+2		16	0	Now listen well.
+2		26	0	A ‐ Hi, Katy. How are you?
+2		43	0	B ‐ Hi, Charles. I’m fine, thanks. And you?
+2		18	0	A ‐ Not very well.
+2		22	0	B ‐ Why? What’s wrong?
+2		21	0	A ‐ Oh, I don’t know.
+2		30	0	B ‐ Maybe you worked too much.
+2		15	0	A ‐ Yes, maybe.
+2		103	0	B ‐ You know, I’m going to Boston today. My family lives there. Would you like to go with me? I’m going
+2		25	0	to leave at five o’clock.
+2		31	0	A ‐ Yes, I would. Thanks a lot!
+3		80	0	Вы слышали, как женщина спросила «what’s wrong?», это означает «что случилось?».
+3		13	0	Listen again.
+3		26	0	A ‐ Hi, Katy. How are you?
+3		43	0	B ‐ Hi, Charles. I’m fine, thanks. And you?
+3		18	0	A ‐ Not very well.
+3		22	0	B ‐ Why? What’s wrong?
+3		21	0	A ‐ Oh, I don’t know.
+3		30	0	B ‐ Maybe you worked too much.
+3		15	0	A ‐ Yes, maybe.
+4		103	0	B ‐ You know, I’m going to Boston today. My family lives there. Would you like to go with me? I’m going
+4		25	0	to leave at five o’clock.
+4		31	0	A ‐ Yes, I would. Thanks a lot!
+5	1	24	83.71	Say in English «вместе».
+5	2	8	0	Together
+6	1	26	90.15	Say «мы едем в Вашингтон».
+6	2	26	0	We’re going to Washington.
+6		11	100.49	We’re going
+7	1	20	104.14	Ask «куда вы едите?»
+7	2	20	0	Where are you going?
+8	1	43	112.3	Say again that you are going to Washington.
+8	2	26	0	We’re going to Washington.
+9	1	42	122.91	And how do you say «мы собираемся уехать».
+9	2	21	0	We’re going to leave.
+10	1	38	134.25	Now say «мы собираемся уехать вместе».
+10	2	31	0	We are going to leave together.
+11	1	11	146.4	Может быть 
+11	2	5	0	Maybe
+12	1	38	153.02	Ask me if I’m going to see my friends.
+12	2	34	0	Are you going to see your friends?
+12		12	164.54	your friends
+13	1	56	168.72	Now say «я собираюсь увидеть своего друга в Вашингтоне».
+13	2	41	0	I’m going to see my friend in Washington.
+14	1	22	184.59	Ask is he lives there.
+14	2	19	0	Does he live there?
+14		19	193.84	Does he live there?
+15	1	27	197.56	Да, и он работает тоже там.
+15	2	28	0	Yes, and he works there too.
+15		19	209.71	He works there too.
+16	1	58	215.09	Say again «я собираюсь увидеть своего друга в Вашингтоне».
+16	2	41	0	I’m going to see my friend in Washington.
+17	1	22	230.96	Потом я буду работать.
+17	2	23	0	Then I’m going to work.
+17		4	243.02	Then
+18	1	29	246.52	Я думаю, что я буду работать.
+18	2	26	0	I think I’m going to work.
+18		26	257.77	I think I’m going to work.
+19	1	37	263.21	Ask the woman how much money she has.
+19	2	27	0	How much money do you have?
+20	1	34	275.09	Answer «у меня есть сто долларов».
+20	2	27	0	I have one hundred dollars.
+20		11	287.88	one hundred
+21	1	24	292.17	Say «у меня ничего нет».
+21	2	22	0	I don’t have anything.
+22	1	42	302.6	Вежливо попросите ее дать вам 90 долларов.
+22	2	30	0	Please give me ninety dollars.
+22		14	315.39	ninety dollars
+23	1	60	320.23	Как ей коротко ответить, что она не хочет давать вам деньги?
+23	2	16	0	I don’t want to.
+23		16	331.57	I don’t want to.
+24	1	14	335.23	Я хочу уехать.
+24	2	16	0	I want to leave.
+24		16	344.21	I want to leave.
+25	1	15	348.86	Я еду в Бостон.
+25	2	20	0	I’m going to Boston.
+26	1	19	358.57	Co своими друзьями.
+26	2	16	0	With my friends.
+27	1	11	366.37	Может быть 
+27	2	5	0	Maybe
+27		5	372.36	Maybe
+28	1	34	375.15	Say «я думаю, что я еду в Бостон».
+28	2	28	0	I think I’m going to Boston.
+29	1	44	388.03	Try to say «я хочу увидеть свих друзей там».
+29	2	31	0	I want to see my friends there.
+30	1	24	402	Потом я собираюсь поработать.
+30	2	23	0	Then I’m going to work.
+31	1	36	413.25	Say «моя жена хочет кое‐что купить».
+31	2	31	0	My wife wants to buy something.
+32	1	19	427.4	Но у нее нет денег.
+32	2	31	0	But she doesn’t have any money.
+33	1	40	438.92	And how do you say «ей ничего не нужно».
+33	2	26	0	She doesn’t need anything.
+34	1	20	451.53	Нам ничего не нужно.
+34	2	23	0	We don’t need anything.
+35	1	35	461.96	Но она хотела бы купить что‐нибудь.
+35	2	32	0	But she’d like to buy something.
+36	1	16	474.29	Для наших детей.
+36	2	17	0	For our children.
+36		17	483.27	For our children.
+37	1	46	487.53	Try to say «пожалуйста дайте мне 95 долларов».
+37	2	35	0	Please give me ninety five dollars.
+37		11	504.13	ninety five
+38	1	17	509.67	Вот 100 долларов.
+38	2	27	0	Here’s one hundred dollars.
+38		27	520.56	Here’s one hundred dollars.
+39	1	24	526.09	Сейчас вы можете уехать.
+39	2	18	0	You can leave now.
+40		10	535.98	Oh, shoot!
+40	1	38	539.15	«Что это означает?» Listen and repeat.
+40	2	20	0	What does that mean?
+40		4	545.59	mean
+40		4	0	mean
+40		4	0	that
+40		9	0	does that
+40		20	0	What does that mean?
+41	1	29	561.05	Ask again «что это означает?»
+41	2	20	0	What does that mean?
+42	1	33	570.84	Слово «shoot». Listen and repeat.
+42	2	15	0	The word shoot.
+42		4	578.46	word
+42		4	0	word
+43	1	18	584.24	Say again «слово».
+43	2	4	0	Word
+43		8	591.14	The word
+44	1	22	594.49	Now say «слово shoot».
+44	2	15	0	The word shoot.
+45	1	23	604.92	Ask «что это означает?»
+45	2	20	0	What does that mean?
+45		20	614.53	What does that mean?
+46	1	42	618.56	«Это английское слово». Listen and repeat.
+46	2	21	0	It’s an English word.
+46		2	626.81	an
+46		2	0	an
+46		10	0	an English
+46		15	0	an English word
+47		93	0	Слово «an» используется в тех же случаях, что и «a». Но оно ставиться перед словами, которые 
+47		80	0	начинаются с гласной буквы. Как например «English» или «American», для удобства 
+47		13	0	произношения.
+47		90	0	Слушайте и повторяйте еще раз, обращая особое внимание на то, как слово «an» стыкуется со 
+47		17	0	словом «English».
+47		16	0	An English word.
+47		21	0	It’s an English word.
+48	1	33	674.94	Say again «это английское слово».
+48	2	21	0	It’s an English word.
+49	1	28	686.19	Ask if it’s an English word.
+49	2	22	0	Is it an English word?
+49		22	696.74	Is it an English word?
+50	1	22	701.48	Say «да, я так думаю».
+50	2	16	0	Yes, I think so.
+50		11	711.92	I think so.
+51	1	50	715.78	А как сказать «я думаю, что это английское слово».
+51	2	29	0	I think it’s an English word.
+52	1	17	728.48	Что это означает?
+52	2	18	0	What does it mean?
+52		4	737.09	mean
+52		12	0	does it mean
+53	1	24	744.06	Now ask «вы американец?»
+53	2	17	0	Are you American?
+54	1	49	754.31	Она говорит «да, мы американцы». Только слушайте.
+54	2	20	0	Yes, we’re American.
+55	1	31	762.47	Try to say «да, мы американцы».
+55	2	20	0	Yes, we’re American.
+55		5	772.97	we’re
+55		14	0	we’re American
+56	1	48	780.05	Now try to say «у нас есть американская машина».
+56	2	24	0	We have an American car.
+56		15	792.66	an American car
+57		70	0	Вы обратили внимание, как стыкуются друг с другом слова «an American»?
+57	1	49	805.56	Скажите еще раз «у нас есть американская машина».
+57	2	24	0	We have an American car.
+58	1	34	817.64	In English how do you say «слово»?
+58	2	4	0	Word
+58		8	826.53	The word
+59	1	21	829.25	Say the word «shoot».
+59	2	5	0	Shoot
+60		20	836.32	Ask what that means.
+60	1	20	838.82	Ask what that means.
+60	2	20	0	What does that mean?
+61	1	15	846.44	Say «мы здесь».
+61	2	12	0	We are here.
+62		39	855.15	«На несколько дней». Listen and repeat.
+62	1	5	859.57	Дней 
+62	2	4	0	Days
+62		4	862.83	Days
+62		10	0	A few days
+63	1	27	870.45	Say again «несколько дней».
+63	2	10	0	A few days
+64	1	48	880.36	«Мы здесь на несколько дней». Listen and repeat.
+64	2	26	0	We’re here for a few days.
+64		3	890.43	for
+64		14	0	for a few days
+64		26	0	We’re here for a few days.
+65		86	0	В английском языке слово «for» имеет несколько значений. Раньше вы использовали его в 
+65		92	0	выражениях типа «для вас», «для меня». Но оно также может относиться к какому‐то промежутку 
+65		92	0	времени, например для того, чтобы сказать, сколько времени вы собираетесь провести в том или
+65		11	0	ином месте.
+66	1	45	926.74	Скажите еще раз «мы здесь на несколько дней».
+66	2	26	0	We’re here for a few days.
+67	1	26	938.89	Try to ask «сколько дней?»
+67	2	14	0	How many days?
+67		14	948.41	How many days?
+68	1	28	952.44	Say «на три или четыре дня».
+68	2	23	0	For three or four days.
+69	1	31	965.87	«Как долго?» Listen and repeat.
+69	2	9	0	How long?
+69		4	973.03	long
+69		4	0	long
+69		9	0	How long?
+70	1	22	982.26	Ask again «как долго?»
+70	2	9	0	How long?
+71	1	18	990.24	На несколько дней.
+71	2	15	0	For a few days.
+71		15	998.77	For a few days.
+72	1	31	1004.27	How long are you going to stay? Ask what that means.
+72	2	20	0	What does that mean?
+73	1	13	1016.6	Слово «stay».
+73	2	16	0	The word «stay».
+73		16	1026.76	The word «stay».
+74	1	45	1032.08	«Это означает «остаться»». Listen and repeat.
+74	2	22	0	That means «остаться».
+74		5	1041.51	means
+74		5	0	means
+74		22	0	That means «остаться».
+75		68	0	Вы обратили внимание на приглушенный звук [z]на конце слова «means».
+75	1	46	1061.04	Попробуйте сказать «я знаю, что это означает».
+75	2	23	0	I know what that means.
+76	1	33	1071.83	А как спросить, что это означает?
+76	2	20	0	What does that mean?
+77	1	36	1083.71	Say again «это означает «остаться»».
+77	2	22	0	That means «остаться».
+78	1	24	1096.14	А‐а‐а, теперь я понимаю.
+78	2	25	0	Oh‐h‐h, I understand now.
+79	1	37	1109.66	Try to ask «вы собираетесь остаться?»
+79	2	22	0	Are you going to stay?
+79		4	1121.27	Yes.
+80	1	16	1128.81	Ask «как долго?»
+80	2	9	0	How long?
+80		9	1135.53	How long?
+81	1	18	1138.78	На несколько дней.
+81	2	15	0	For a few days.
+82	1	34	1147.76	Ask me again if I’m going to stay.
+82	2	22	0	Are you going to stay?
+83	1	45	1158.38	Do you remember how to say «да, я так думаю».
+83	2	16	0	Yes, I think so.
+83		11	1170.35	I think so.
+84	1	55	1174.79	And how do you say «я думаю, что я собираюсь остаться».
+84	2	26	0	I think I’m going to stay.
+84		26	1188.49	I think I’m going to stay.
+85	1	47	1193.72	Try to ask «как долго вы собираетесь остаться?»
+85	2	31	0	How long are you going to stay?
+86	1	18	1208.06	На несколько дней.
+86	2	15	0	For a few days.
+86		15	1218.12	For a few days.
+87	1	23	1222.78	Мы собираемся остаться.
+87	2	21	0	We are going to stay.
+88	1	18	1232.85	На несколько дней.
+88	2	15	0	For a few days.
+89	1	43	1242.1	«У нас немного времени». Listen and repeat.
+89	2	24	0	We don’t have much time.
+89		4	1251.08	time
+89		4	0	time
+89		9	0	much time
+89		24	0	We don’t have much time.
+90	1	43	1266.29	Скажите еще раз, что у вас немного времени.
+90	2	24	0	We don’t have much time.
+90		4	1279.17	Time
+91	1	39	1283.1	Вы помните, как спросить «который час?»
+91	2	16	0	What time is it?
+91		16	1292.08	What time is it?
+92	1	40	1295.68	Скажите еще раз «у нас немного времени».
+92	2	24	0	We don’t have much time.
+93	1	17	1308.1	Мы едем в Бостон.
+93	2	22	0	We’re going to Boston.
+94	1	28	1318.44	Мы собираемся уехать завтра.
+94	2	30	0	We’re going to leave tomorrow.
+95	1	7	1329.78	Вместе 
+95	2	8	0	Together
+96	1	25	1336.31	Наш друг живет в Бостоне.
+96	2	27	0	Our friend lives in Boston.
+97	1	21	1348.47	Он работает там тоже.
+97	2	19	0	He works there too.
+98	1	18	1359.17	У него нет машины.
+98	2	22	0	He doesn’t have a car.
+99	1	30	1369.42	Try to ask «ему нужна машина?»
+99	2	19	0	Does he need a car?
+99		19	1380.3	Does he need a car?
+100	1	15	1384.78	Я так не думаю.
+100	2	17	0	I don’t think so.
+101	1	30	1393.3	Now say «ему не нужна машина».
+101	2	22	0	He doesn’t need a car.
+102	1	23	1405.19	Он хочет купить машину.
+102	2	22	0	He wants to buy a car.
+103	1	49	1416.52	Try to say «он хочет купить американскую машину».
+103	2	32	0	He wants to buy an American car.
+103		11	1431.31	an American
+103		15	0	an American car
+104	1	25	1441.86	Но ему нужно много денег.
+104	2	28	1453	But he needs a lot of money.
+105	1	20	0	Нам ничего не нужно.
+105	2	23	0	We don’t need anything.
+105		23	1463.45	We don’t need anything.
+106	1	35	1468.5	Мы собираемся увидеть своего друга.
+106	2	30	0	We’re going to see our friend.
+107	1	44	1482.11	Now say «мы хотели бы увидеть своего друга».
+107	2	28	0	We’d like to see our friend.
+108	1	32	1496.26	Мы бы хотели остаться в Бостоне.
+108	2	28	0	We’d like to stay in Boston.
+109	1	11	1508.32	На три дня.
+109	2	15	0	For three days.
+109		15	1516.67	For three days.
+110	1	33	1520.5	Ask how long he is going to stay.
+110	2	31	0	How long are you going to stay?
+111	1	43	1531.75	Ask how long he is going to stay in Boston.
+111	2	41	0	How long are you going to stay in Boston?
+112	1	31	1547.71	Мы хотели бы остаться на 3 дня.
+112	2	33	0	We’d like to stay for three days.
+113	1	22	1561.59	У нас немного времени.
+113	2	24	0	We don’t have much time.
+114	1	21	1573.74	Мы не можем остаться.
+114	2	14	0	We can’t stay.
+114		14	1583.45	We can’t stay.
+115	1	34	1587.58	Мы не можем остаться на пять дней.
+115	2	28	0	We can’t stay for five days.
+116		6	1600	Shoot!
+116	1	20	1602.98	Ask what that means.
+116	2	20	0	What does that mean?
+116		20	1610.51	What does that mean?
+117	1	14	1614.67	Слово «shoot».
+117	2	17	0	The word «shoot».
+118	1	34	1623.92	Say «я не знаю, что это означает».
+118	2	29	0	I don’t know what that means.
+118		15	1636.07	what that means
+118		29	0	I don’t know what that means.
+119	1	28	1645.87	Say «мы хотели бы остаться».
+119	2	18	0	We’d like to stay.
+120	1	25	1655.75	Но у нас немного времени.
+120	2	28	0	But we don’t have much time.
+121	1	40	1666.37	Now say «я хотел бы остаться в Америке».
+121	2	28	0	I’d like to stay in America.
+122	1	24	1679.7	Мы с женой здесь вместе.
+122	2	32	0	My wife and I are here together.
+123	1	28	1692.13	Say «моя жена хочет уехать».
+123	2	23	0	My wife wants to leave.
+124	1	30	1704.82	Она хочет увидеть наших детей.
+124	2	30	0	She wants to see our children.
+125	1	20	1716.52	Ask what time it is?
+125	2	16	0	What time is it?
+125		16	1724.84	What time is it?
+126		23	1727.97	It’s four o’clock, sir.
+126		6	0	Shoot!
+127	1	20	1732.1	Ask what that means.
+127	2	20	0	What does that mean?
+128	1	14	1739.72	Слово «shoot».
+128	2	17	0	The word «shoot».
+129	1	17	1748.7	Что это означает?
+129	2	20	0	What does that mean?
+130	1	13	1757.05	Это означает.
+130	2	10	0	That means
+130		25	1764.94	That means  «nu nado je».
+131	1	25	1772.38	Вот что означает «shoot».
+131	2	26	0	That’s what «shoot» means.
+131		26	1777.55	That’s what «shoot» means.

@@ -1,0 +1,130 @@
+Lesson_27	Good morning.	Tell me in English «доброе утро».
+Lesson_27	How are you?	Ask me how I am.
+Lesson_27	I’m fine.	Answer that you are fine.
+Lesson_27	Are the stores open?	Ask me if the stores are open.
+Lesson_27	They are closed.	Answer that they are closed.
+Lesson_27	Why?	Ask why.
+Lesson_27	Because it’s late.	Answer «потому что уже поздно».
+Lesson_27	Are you going to work?	Ask me if I’m going to work.
+Lesson_27	I don’t think so.	Say that you don’t think so.
+Lesson_27	You think.	Say «вы думаете».
+Lesson_27	You don’t think so.	Say «вы так не думаете».
+Lesson_27	I’m going to New York.	Say that you are going to New York.
+Lesson_27	Are you going to New York?	Ask «вы едите в Нью‐Йорк?»
+Lesson_27	Maybe	Say «может быть».
+Lesson_27	I’m going to Boston.	Say that you are going to Boston.
+Lesson_27	I think so.	А как сказать «я так думаю».
+Lesson_27	I think I’m going to Boston.	Say «я думаю, что я еду в Бостон».
+Lesson_27	What are you going to do there?	Ask what he is going to do there.
+Lesson_27	I’m going to see a few friends.	Say that you are going to see a few friends.
+Lesson_27	I have a few friends there.	Say that you have a few friends there.
+Lesson_27	I’m going to see my friends.	Say that you are going to see your friends.
+Lesson_27	And I’m going to work.	И я собираюсь работать.
+Lesson_27	Maybe.	Может быть.
+Lesson_27	I think I’m going to work.	And how does one say «я думаю, что я собираюсь работать».
+Lesson_27	Eighty	Помните, как сказать по‐английски число 80?
+Lesson_27	Eighty five	85
+Lesson_27	Ninety	Now try to say 90
+Lesson_27	Ninety five	95
+Lesson_27	Ninety two	92
+Lesson_27	Ninety nine	99
+Lesson_27	Eighty nine	Now say 89
+Lesson_27	How much do I owe you?	Спросите, сколько вы мне должны.
+Lesson_27	Ninety dollars	Answer «90 долларов».
+Lesson_27	Here’s one hundred dollars.	«Вот сто долларов». Listen and repeat.
+Lesson_27	One hundred dollars.	Say «100 долларов».
+Lesson_27	One hundred fifty dollars.	Say «150 долларов».
+Lesson_27	One hundred eighty.	Now say 180
+Lesson_27	One hundred ninety	190
+Lesson_27	That’s too much.	Say «это слишком много», имея ввиду конкретную сумму.
+Lesson_27	One hundred seventy	170
+Lesson_27	One hundred sixty five	165
+Lesson_27	One hundred forty seven	147
+Lesson_27	How much do I owe you?	Спросите сколько вы мне должны.
+Lesson_27	You don’t owe me anything.	«Вы ничего мне не должны». Listen and repeat.
+Lesson_27	You don’t owe me anything.	Say again «Вы ничего мне не должны».
+Lesson_27	One hundred dollars	Say «100 долларов».
+Lesson_27	Ninety dollars	Say «90 долларов».
+Lesson_27	You don’t owe me anything.	Say «вы ничего мне не должны».
+Lesson_27	Why?	Почему?
+Lesson_27	Because	Потому что 
+Lesson_27	You don’t owe me anything.	Вы ничего мне не должны.
+Lesson_27	What do you want?	Ask me what I want.
+Lesson_27	I don’t want anything.	Try to say «я ничего не хочу».
+Lesson_27	I don’t have anything.	Now try to say «у меня ничего нет».
+Lesson_27	What do you have?	Что у вас есть?
+Lesson_27	I don’t have anything.	У меня ничего нет.
+Lesson_27	And I don’t want anything.	И я ничего не хочу.
+Lesson_27	I want to leave.	«Я хочу уехать». Listen and repeat.
+Lesson_27	I want to leave.	Say that you want to leave.
+Lesson_27	I don’t want to leave.	How do you say «я не хочу уезжать».
+Lesson_27	I don’t want to.	А сейчас скажите просто, что вы не хотите.
+Lesson_27	I’m going to leave tomorrow.	Say «я собираюсь уехать завтра».
+Lesson_27	I think I’m going to leave tomorrow.	Try to say «я думаю, что я собираюсь уехать завтра».
+Lesson_27	We’re going to leave.	«Мы собираемся уехать». Listen and repeat.
+Lesson_27	We’re going to leave tomorrow.	Now say «мы собираемся уехать завтра».
+Lesson_27	We’re going to leave together.	«Мы собираемся уехать вместе». Listen and repeat.
+Lesson_27	We are going to Boston together.	Try to say «мы едем в Бостон вместе».
+Lesson_27	My wife and I	Моя жена и я
+Lesson_27	We are going to Boston	Мы едем в Бостон
+Lesson_27	together	вместе 
+Lesson_27	My wife wants to see a few friends.	Моя жена хочет увидеть нескольких друзей.
+Lesson_27	And I’m going to work.	А я собираюсь работать.
+Lesson_27	I want to leave with you.	Say «я хочу уехать с вами».
+Lesson_27	But I can’t.	Но я не могу.
+Lesson_27	I don’t think so.	Now say «я так не думаю».
+Lesson_27	Why?	Почему?
+Lesson_27	Because	Потому что 
+Lesson_27	I don’t have any money.	У меня нет денег.
+Lesson_27	I don’t have anything.	У меня ничего нет.
+Lesson_27	I have a lot of money.	Say «у меня много денег».
+Lesson_27	I have ninety dollars.	У меня есть 90 долларов.
+Lesson_27	Or one hundred dollars.	Или 100 долларов.
+Lesson_27	You can leave with us.	Вы можете уехать с нами.
+Lesson_27	Tomorrow.	Завтра.
+Lesson_27	My wife wants to leave tomorrow.	Try to say «моя жена хочет уехать завтра».
+Lesson_27	We are going to Boston.	Мы едем в Бостон.
+Lesson_27	Together	Вместе 
+Lesson_27	Then	Потом
+Lesson_27	We are going to Washington.	Мы едем в Вашингтон.
+Lesson_27	Maybe	Может быть.
+Lesson_27	We’d like to see our friend Marry.	Мы хотели бы увидеть нашу подругу «Marry».
+Lesson_27	She lives in Washington.	Они живет в Вашингтоне.
+Lesson_27	And she works there.	И она работает там.
+Lesson_27	She doesn’t have a car.	«У нее нет машины». Listen and repeat.
+Lesson_27	She doesn’t have a car.	Скажите еще раз «у нее нет машины».
+Lesson_27	She works in Washington.	Say «она работает в Вашингтоне».
+Lesson_27	And she doesn’t have a car?	И у нее нет машины?
+Lesson_27	She doesn’t need a car.	Try to say «ей не нужна машина».
+Lesson_27	She doesn’t have a car.	Now say again «у нее нет машины».
+Lesson_27	I don’t think she needs a car.	Try to say «я не думаю, что ей нужна машина».
+Lesson_27	Do you have enough money?	Спросите его, достаточно ли у него денег.
+Lesson_27	Yes, I think so.	Say «да, я так думаю».
+Lesson_27	We don’t need anything.	Try to say «нам ничего не нужно».
+Lesson_27	And our friend doesn’t need anything.	И нашей подруге тоже ничего не нужно.
+Lesson_27	We are going to leave.	Мы собираемся уехать.
+Lesson_27	Tomorrow night.	Завтра ночью.
+Lesson_27	We’d like to see Washington.	Мы бы хотели увидеть Вашингтон.
+Lesson_27	Our friend lives there.	Say «наша подруга живет там».
+Lesson_27	She works there too.	Она там работает тоже.
+Lesson_27	Where are you going?	Do you remember how to ask «куда вы едите?»
+Lesson_27	Are the department stores open now?	Ask if the department stores are open now.
+Lesson_27	I don’t think so.	Say «я так не думаю».
+Lesson_27	My wife wants.	Do you remember how to say «моя жена хочет».
+Lesson_27	What does your wife want to do?	Ask «что хочет делать ваша жена?»
+Lesson_27	We don’t need anything.	Say «нам ничего не нужно».
+Lesson_27	But we want to buy something.	Но мы хотим кое‐что купить.
+Lesson_27	In a store.	«В магазине» имея ввиду какой‐нибудь магазин вообще.
+Lesson_27	We want to buy something.	Мы хотим кое‐что купить.
+Lesson_27	For our friend Marry.	Для нашей подруги Marry.
+Lesson_27	I’m sorry.	Say «простите».
+Lesson_27	You can’t buy anything.	Вы ничего не сможете купить.
+Lesson_27	For your friend.	Для вашей подруги.
+Lesson_27	Why?	Ask «почему?»
+Lesson_27	It’s too late.	Try to say «сейчас слишком поздно».
+Lesson_27	The department stores are closed now.	Скажите, что универмаги сейчас закрыты.
+Lesson_27	They’re open tomorrow.	Скажите, что завтра они будут открыты.
+Lesson_27	We are going to leave tomorrow.	Say «мы собираемся уехать завтра».
+Lesson_27	Together	Вместе 
+Lesson_27	Boston is expensive.	Say «Бостон ‐дорогой», имея ввиду дорогой город.
+Lesson_27	And Washington is expensive too.	И Вашингтон тоже дорогой.

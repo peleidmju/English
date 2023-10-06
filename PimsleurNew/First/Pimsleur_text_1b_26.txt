@@ -1,0 +1,115 @@
+Lesson_26	Answer the questions.	Отвечайте на вопросы.
+Lesson_26	How are you?	Ask her how she is.
+Lesson_26	Not very well.	Try to say «не очень хорошо».
+Lesson_26	Why?	Ask «почему?»
+Lesson_26	I need to buy something.	Мне нужно купить кое‐что.
+Lesson_26	And I can’t.	И я не могу.
+Lesson_26	Why?	Почему?
+Lesson_26	Because the stores are closed.	Имея ввиду конкретные магазины, скажите «потому что магазины закрыты».
+Lesson_26	Really?	Правда?
+Lesson_26	Yes, they are closed.	Да, они закрыты.
+Lesson_26	It’s late.	Уже поздно.
+Lesson_26	It’s too late.	Уже слишком поздно.
+Lesson_26	But they are open.	Но они открыты.
+Lesson_26	When?	Когда?
+Lesson_26	Tomorrow.	Завтра.
+Lesson_26	You can buy something tomorrow.	Вы можете купить что‐нибудь завтра.
+Lesson_26	In a department store.	«В универмаге». Имея ввиду какой‐нибудь универмаг вообще.
+Lesson_26	What do you want to buy?	Что вы хотите купить?
+Lesson_26	My husband wants to buy something.	Say «мой муж хочет купить кое‐что».
+Lesson_26	For our little girl.	Для нашей маленькой девочки.
+Lesson_26	Then go to the department store.	Имея ввиду конкретный универмаг, скажите «тогда поезжайте в универмаг».
+Lesson_26	On Park Avenue.	На Парковом Проспекте.
+Lesson_26	Tomorrow the stores are open.	Say «завтра магазины открыты» имея ввиду «завтра магазины будут открыты».
+Lesson_26	Where is Park Avenue?	Ask where Park Avenue is.
+Lesson_26	It’s over there.	Он там.
+Lesson_26	Go to the right.	Поезжайте направо 
+Lesson_26	Then to the left.	Потом налево.
+Lesson_26	My husband needs some money.	Say «моему мужу нужны деньги».
+Lesson_26	I need some money too.	Мне тоже нужны деньги.
+Lesson_26	I need some gas.	Now say «мне нужен бензин».
+Lesson_26	How much is it?	Сколько он стоит?
+Lesson_26	One dollar per gallon.	Один доллар за галлон.
+Lesson_26	Why do you need some gas?	Почему вам нужен бензин?
+Lesson_26	Washington D.C.	Произнесите еще раз полное название города Вашингтон.
+Lesson_26	Because I’m going to Washington.	Now say «потому что я собираюсь в Вашингтон».
+Lesson_26	You’re going to Washington?	А сейчас спросите просто «вы собираетесь в Вашингтон?»
+Lesson_26	What are you going to do there?	Сейчас спросите ее еще раз, что она собирается делать там.
+Lesson_26	A few friends.	Say «несколько друзей».
+Lesson_26	I’m going to see a few friends.	Say «я собираюсь увидеть нескольких друзей».
+Lesson_26	Friend	How do you say «друг»?
+Lesson_26	A few friends.	Say «несколько друзей».
+Lesson_26	To see	How do you say «увидеть»?
+Lesson_26	What are you going to do there?	Спросите еще раз «что вы собираетесь делать там?»
+Lesson_26	I’m going to see a few friends.	Я собираюсь увидеть нескольких друзей.
+Lesson_26	In Washington.	В Вашингтоне.
+Lesson_26	I have a few friends there.	Try to say «у меня там есть несколько друзей».
+Lesson_26	I’m going to see a few friends.	Я собираюсь увидеть нескольких друзей.
+Lesson_26	And I’m going to work.	И я собираюсь поработать.
+Lesson_26	Are you going to work?	Ask her is she’s going to work.
+Lesson_26	A little	Немного 
+Lesson_26	I’m going to see a few friends.	Я собираюсь увидеть нескольких друзей.
+Lesson_26	I’m going to see my friends.	Try to say «я собираюсь увидеть своих друзей».
+Lesson_26	I’m going to see my friends.	Пожалуйста повторите «я собираюсь увидеть своих друзей» 
+Lesson_26	And I’m going to work.	И я собираюсь поработать.
+Lesson_26	I’m going to work a little.	Try to say «я собираюсь немного поработать».
+Lesson_26	And I’m going to see me friends.	Say «и я собираюсь увидеть своих друзей».
+Lesson_26	I’m going to see a few friends.	Now say «я собираюсь увидеть нескольких друзей».
+Lesson_26	Maybe	«Может быть». Listen and repeat.
+Lesson_26	Are you going to work?	Вы собираетесь поработать?
+Lesson_26	Maybe	Может быть.
+Lesson_26	I think	Я думаю 
+Lesson_26	I think.	Скажите еще раз «я думаю».
+Lesson_26	I think I’m going to work.	«Я думаю, что я буду работать». Listen and repeat.
+Lesson_26	I think I’m going to work.	Скажите еще раз «я думаю, что я буду работать».
+Lesson_26	I don’t think I’m going to work.	Now try to say «я не думаю, что я буду работать».
+Lesson_26	I don’t think so.	Сейчас слушайте и повторяйте выражения «я так не думаю».
+Lesson_26	I don’t think so.	Say again «я так не думаю».
+Lesson_26	I think so.	А как ей сказать «я так думаю»?
+Lesson_26	Are you going to see George?	Ask her if she’s going to see George.
+Lesson_26	Maybe	Может быть.
+Lesson_26	Does George work in Washington?	Ask if George works in Washington.
+Lesson_26	I don’t think so.	Скажите, что вы так не думаете.
+Lesson_26	He works in New York.	Try to say «он работает в Нью‐Йорке».
+Lesson_26	I think he works in New York.	Я думаю, что он работает в Нью‐Йорке.
+Lesson_26	I think he lives in New York.	Now say «я думаю, что он живет в Нью‐Йорке».
+Lesson_26	Then are you going to see Charles?	Ask «тогда вы собираетесь увидеть Чарльза?» Charles
+Lesson_26	I think so.	Скажите, что вы так думаете.
+Lesson_26	But I’m going to work too.	Но я собираюсь поработать тоже.
+Lesson_26	And I’m going to see a few friends.	И я собираюсь увидеть нескольких друзей.
+Lesson_26	Please, give me.	Say «пожалуйста дайте мне».
+Lesson_26	A few dollars.	Try to say «несколько долларов».
+Lesson_26	I need some gas.	Now say «мне нужен бензин».
+Lesson_26	How much is it?	Сколько он стоит?
+Lesson_26	One dollar per gallon.	Один доллар за галлон.
+Lesson_26	Why?	Почему?
+Lesson_26	Because I’m going to Washington.	Потому что я собираюсь в Вашингтон.
+Lesson_26	My friend Marry lives there.	«Там живет моя подруга Мери». Не забывайте о порядке слов.
+Lesson_26	She works there.	Она работает там.
+Lesson_26	How far is it?	Помните, как спросить, далеко ли это.
+Lesson_26	How far is Washington?	Сейчас спросите, далеко ли Вашингтон.
+Lesson_26	Eighty miles.	80 миль
+Lesson_26	Eighty five miles	85 миль
+Lesson_26	I don’t think so.	How do you say «я так не думаю».
+Lesson_26	I don’t know.	Now say «я не знаю».
+Lesson_26	Are you going today?	Вот как спросить «вы едите сегодня?» повторяйте.
+Lesson_26	Are you going today?	Ask again «Вы едите сегодня?»
+Lesson_26	I don’t know, maybe.	Я не знаю, может быть.
+Lesson_26	Are you going today?	Спросите ее еще раз, сегодня ли она едет.
+Lesson_26	I don’t think so.	Как ей  ответить, что она так не думает.
+Lesson_26	How far is Washington?	Спросите еще раз, далеко ли Вашингтон.
+Lesson_26	Eighty five miles	85 миль
+Lesson_26	I’d like to see Washington.	Я хотела бы увидеть Вашингтон.
+Lesson_26	And I have a few friends there.	И у меня там есть несколько друзей.
+Lesson_26	Is this the road to Washington?	Спросите, по этой ли дороге нужно ехать в Вашингтон.
+Lesson_26	To the left?	Вы не совсем расслышали, что она сказала. Переспросите. Налево?
+Lesson_26	To the left or to the right?	Now ask «налево или направо?»
+Lesson_26	The road you want.	Как ей сказать «дорога, которую вы хотите найти».
+Lesson_26	The road you want is to the right.	Дорога, которую вы хотите найти – направо.
+Lesson_26	Go to the right.	Say «поезжайте направо».
+Lesson_26	And then straight ahead.	А потом прямо.
+Lesson_26	What do you want to do there?	Помните, как спросить «что вы хотите делать там?»
+Lesson_26	Are the department stores open now?	Спросите «универмаги сейчас открыты».
+Lesson_26	It’s not late.	Say that it’s not late.
+Lesson_26	Yes, it’s late.	Да, уже поздно.
+Lesson_26	And I think the stores are closed.	И я думаю, что магазины закрыты.

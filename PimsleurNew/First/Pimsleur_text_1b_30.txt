@@ -1,0 +1,131 @@
+Lesson_30	Урок №30.	Американский английский язык по методу доктора Пимслера.
+Lesson_30	Listen to this conversation.	Tatyana and Charles are in a restaurant.
+Lesson_30	A ‐ Tell me Tatyana, how long are you going to stay in New York?	Listen again.
+Lesson_30	Word	How do you say «слово» in English?
+Lesson_30	This word	Say «это слово».
+Lesson_30	This word is an English word.	Say «это слово – английское слово».
+Lesson_30	What does it mean?	Ask «что это означает?»
+Lesson_30	What does this word mean?	Try to ask «что означает это слово?»
+Lesson_30	It’s an English word.	Say «это английское слово».
+Lesson_30	What does it mean?	Ask again «что это означает?»
+Lesson_30	We’re Russian.	Say «мы русские».
+Lesson_30	We’ve been here	Say «мы здесь уже»
+Lesson_30	For a few weeks.	Now say «несколько недель».
+Lesson_30	How long?	Ask «как долго?»
+Lesson_30	How long have you been here?	Сколько времени вы уже здесь?
+Lesson_30	We’ve been here for a few  weeks.	Say «мы здесь уже несколько недель».
+Lesson_30	We’ve been here since yesterday.	And how do you say «мы здесь уже со вчерашнего дня».
+Lesson_30	How long are you going to stay?	Ask «на сколько времени вы собираетесь остаться?»
+Lesson_30	We’re going to stay	Now say «мы собираемся остаться»
+Lesson_30	For a few days.	На несколько дней.
+Lesson_30	For how many days?	Ask «на сколько дней?»
+Lesson_30	For a few days.	Answer «на несколько дней».
+Lesson_30	We don’t have much time.	У нас немного времени.
+Lesson_30	I like America.	Say «мне нравится Америка».
+Lesson_30	Do you like New York?	Ask her if she likes New York.
+Lesson_30	Yes, I like New York.	Да, мне нравится Нью‐Йорк.
+Lesson_30	You’re going to stay?	Вы собираетесь остаться?
+Lesson_30	How long?	Как долго?
+Lesson_30	How many days?	Try to ask «сколько дней?»
+Lesson_30	For one week.	На одну неделю.
+Lesson_30	Not bad.	Say «неплохо».
+Lesson_30	We’ve been here since yesterday.	Say again «мы здесь уже со вчерашнего дня».
+Lesson_30	What did you do yesterday?	Now ask «что вы делали вчера?»
+Lesson_30	Did you buy anything?	Вот как спросить «вы купили что‐нибудь?» Listen and repeat.
+Lesson_30	Did you buy anything?	Ask аgain «вы купили что‐нибудь?»
+Lesson_30	What did you buy?	Ask «что вы купили?»
+Lesson_30	Did you buy an American newspaper?	Ask «вы купили американскую газету?»
+Lesson_30	I bought	Answer «я купила».
+Lesson_30	A lot of things.	Вот как сказать «много всего». Listen and repeat.
+Lesson_30	Did you buy anything?	Ask again «вы купили что‐нибудь?»
+Lesson_30	Yes, I bought a lot of things.	Say «да, я купила много всего».
+Lesson_30	I bought an American newspaper.	Я купили американскую газету.
+Lesson_30	For my husband.	Для своего мужа.
+Lesson_30	I bought a newspaper for him.	Say «я купила газету для него».
+Lesson_30	And I bought	И я купила 
+Lesson_30	Something to drink.	Кое‐что выпить.
+Lesson_30	And you?	Ask «а вы?»
+Lesson_30	What did you do yesterday?	Ask «что вы делали вчера?»
+Lesson_30	Did you buy anything?	Ask «вы купили что‐нибудь?»
+Lesson_30	Did you buy a lot of things?	Ask him if he bought a lot of things.
+Lesson_30	Did you buy anything for your wife?	Вы купили что‐нибудь для своей жены?
+Lesson_30	Did you buy some wine for her?	Вы купили вина для нее?
+Lesson_30	No, I didn’t.	Слушайте его краткий отрицательный ответ.
+Lesson_30	I don’t need anything.	Now say «мне ничего не нужно».
+Lesson_30	I’m not going to buy.	Я не собираюсь покупать.
+Lesson_30	I’m not going to buy anything.	Try to say «я не собираюсь ничего покупать».
+Lesson_30	I don’t want to buy anything.	Я ничего не хочу покупать.
+Lesson_30	We’re not going to buy anything.	And how do you say «мы ничего не собираемся покупать».
+Lesson_30	We don’t want to buy anything.	Мы ничего не хотим покупать.
+Lesson_30	And you?	А вы?
+Lesson_30	Did you buy anything?	Вы купили что‐нибудь?
+Lesson_30	We bought а lot of things.	Try to say «мы купили много всего».
+Lesson_30	We’ve been here since yesterday.	Мы здесь уже со вчерашнего дня.
+Lesson_30	We’ve been here for two days.	Say «мы здесь уже два дня».
+Lesson_30	And we bought a lot of things.	И мы купили много всего.
+Lesson_30	When?	Когда?
+Lesson_30	Yesterday	Вчера 
+Lesson_30	Not bad.	Say «неплохо».
+Lesson_30	You arrived.	Вот как сказать «вы приехали». Listen and repeat.
+Lesson_30	You arrived.	How do you say «вы приехали»?
+Lesson_30	Did you arrive?	«Вы приехали?» Listen and repeat.
+Lesson_30	When did you arrive?	Now try to ask «когда вы приехали?»
+Lesson_30	We arrived yesterday.	Try to say «мы приехали вчера».
+Lesson_30	Did arrive	вслед за диктором.
+Lesson_30	We arrived yesterday.	Say again «мы приехали вчера».
+Lesson_30	Yesterday morning?	Она уточняет «вчера утром?»
+Lesson_30	What does that mean?	Ask «что это означает?»
+Lesson_30	That means	Say «это означает».
+Lesson_30	Yesterday morning.	«Вчера утром». Listen and repeat.
+Lesson_30	Morning	Как вы думаете, как сказать по‐английски слово «утро»?
+Lesson_30	Yesterday morning.	Say «вчера утром».
+Lesson_30	When did you arrive?	Ask again «когда вы приехали?»
+Lesson_30	This morning.	Here you are to say «сегодня утром». Listen and repeat.
+Lesson_30	This morning.	Say again «сегодня утром».
+Lesson_30	Yesterday morning.	Say «вчера утром».
+Lesson_30	Good morning.	Now say «доброе утро».
+Lesson_30	When did you arrive?	How do you ask «когда вы приехали?»
+Lesson_30	You arrived.	And how do you say «вы приехали».
+Lesson_30	I live in New York.	Помните, как сказать «я живу в Нью‐Йорке».
+Lesson_30	When did you arrive in New York?	значения «в».
+Lesson_30	We arrived yesterday.	Мы приехали вчера.
+Lesson_30	We arrived yesterday morning.	Мы приехали вчера утром.
+Lesson_30	I arrived.	Try to say «я приехала».
+Lesson_30	I arrived in New York.	Я приехала в Нью‐Йорк.
+Lesson_30	With my family.	Со своей семьей.
+Lesson_30	With my three children.	Co своими тремя детьми.
+Lesson_30	With my two boys.	How do you say «со своими двумя мальчиками».
+Lesson_30	My little girl.	Своей маленькой девочкой.
+Lesson_30	And my husband.	И своим мужем.
+Lesson_30	We arrived together.	Мы приехали вместе.
+Lesson_30	At what time?	Ask her «в котором часу?»
+Lesson_30	We arrived at eight o’clock.	Answer «мы приехали в восемь часов».
+Lesson_30	I arrived yesterday morning.	Say «я приехала вчера утром».
+Lesson_30	I arrived at nine o’clock.	Я приехала в девять часов.
+Lesson_30	And you? When did you arrive in New York?	Ask «А вы? Когда вы приехали в Нью‐Йорк?»
+Lesson_30	This morning.	Сегодня утром.
+Lesson_30	We’ve been here since yesterday.	Now say «мы здесь уже со вчерашнего дня».
+Lesson_30	When did you arrive in America?	How do you ask «когда вы приехали в Америку?»
+Lesson_30	We arrived yesterday.	Answer «мы приехали вчера».
+Lesson_30	We’re going to stay.	Мы собираемся остаться.
+Lesson_30	For one week.	На одну неделю.
+Lesson_30	And then we’re going to leave.	А потом мы собираемся уехать.
+Lesson_30	Tomorrow	How do you say «завтра?»
+Lesson_30	We’re going to leave tomorrow morning.	Now try to say «мы собираемся уехать завтра утром».
+Lesson_30	Do you like New York?	Ask her if she likes New York.
+Lesson_30	Yes, I do.	Say that yes, you do.
+Lesson_30	But we don’t have much time.	Но у нас немного времени.
+Lesson_30	And we are going to leave.	А мы собираемся уехать.
+Lesson_30	Tomorrow morning.	Завтра утром.
+Lesson_30	Did you buy anything?	Ask her if she bought anything.
+Lesson_30	I bought a lot of things.	How does she say that she bought a lot of things.
+Lesson_30	What did you buy?	Ask her what she bought.
+Lesson_30	An American newspaper.	Answer «американскую газету».
+Lesson_30	For my husband.	Для моего мужа.
+Lesson_30	I bought a newspaper for him.	Say «я купила газету для него».
+Lesson_30	And I bought something.	И я купила кое‐что.
+Lesson_30	For my friend.	Для своей подруги.
+Lesson_30	I bought something for her.	Я купила кое‐что для нее.
+Lesson_30	We’re going to leave tomorrow morning.	Мы собираемся уехать завтра утром.
+Lesson_30	A ‐ Hello, how are you?	А сейчас слушайте этот разговор. Он должен быть понятен для вас.
+Lesson_30	A ‐ See you tonight.	B ‐ You are welcome. See you tonight.

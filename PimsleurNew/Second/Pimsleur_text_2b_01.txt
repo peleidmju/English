@@ -1,0 +1,115 @@
+Lesson_31	Word	In English how do you say слово
+Lesson_31	That word	How do you say "то слово"
+Lesson_31	What does that word mean?	Try to ask "что означает то слово"
+Lesson_31	How are you?	Спросите, как у неё дела?
+Lesson_31	Fine, thanks and you?	She answer "Отлично, спасибо, как у вас?
+Lesson_31	Not bad.	Say "не плохо"
+Lesson_31	How long?	How do she ask "как долго?"?
+Lesson_31	How long have you been here?	Как долго вы здесь находитесь?
+Lesson_31	We’ve been here.	Answer "мы здесь".
+Lesson_31	since yesterday.	Со вчерашнего дня.
+Lesson_31	we arrived	Мы приехали
+Lesson_31	Yesterday morning.	Вчера утром.
+Lesson_31	When did you arrive?	Когда вы приехали?
+Lesson_31	We arrived yesterday morning.	Answer "Мы приехали вчера утром".
+Lesson_31	We’ve been here	Say "Мы находимся здесь"
+Lesson_31	For one day.	Один день. Используйте число.
+Lesson_31	We’ve been here since yesterday.	Мы здесь со вчерашнего дня.
+Lesson_31	Do you like New York?	Нравится ли вам Нью Йорк?
+Lesson_31	Yes, I do.	Кратко ответьте, что да.
+Lesson_31	How long are you going to stay?	She ask "Сколько времени вы собираетесь здесь пробыть"
+Lesson_31	For one week.	Одну неделю.
+Lesson_31	What did you do yesterday?	Чем вы занимались вчера?
+Lesson_31	I bought 	Answer "Я купил" 
+Lesson_31	a lot of things	много вещей
+Lesson_31	I bought an American newspaper.	Я купил американскую газету.
+Lesson_31	Something to drink	Кое-что выпить
+Lesson_31	And some wine for my wife.	И немного вина для моей жены
+Lesson_31	I bought some wine for her.	Я купил немного вина для неё
+Lesson_31	And you?	А вы?
+Lesson_31	Did you buy anything?	Вы купили что-нибудь?
+Lesson_31	I didn’t buy anything.	Скажите, что вы ничего не купили.
+Lesson_31	I didn’t buy anything.	Say "я ничего не купил".
+Lesson_31	I didn’t want anything.	А сейчас попробуйте сказать: "Мне ничего не хотелось"
+Lesson_31	We didn’t want anything.	Нам ничего не хотелось.
+Lesson_31	And we didn’t buy anything.	И мы ничего не купили.
+Lesson_31	We bought a lot of things.	Say "Мы купили много вещей".
+Lesson_31	We arrived yesterday morning.	Мы приехали вчера утром.
+Lesson_31	And we bought a lot of things.	И купили много вещей.
+Lesson_31	We didn’t buy anything.	Мы ничего не купили.
+Lesson_31	Good morning.	Помните как сказать "доброе утро".
+Lesson_31	A good restaurant	Now try to say "хороший ресторан"
+Lesson_31	We ate	А так будет "мы обедали"
+Lesson_31	We ate.	Скажите ещё раз "мы обедали".
+Lesson_31	We ate at a good restaurant.	Try to say "Мы обедали в одном хорошем ресторане".
+Lesson_31	Did you eat at a good restaurant?	Try to ask "Вы обедали в хорошем ресторане?"
+Lesson_31	Yes, we did.	Краткий утвердительный ответ на вопрос "Вы обедали в хорошем ресторане?".
+Lesson_31	No, we didn’t.	Краткий отрицательный ответ на вопрос "Вы обедали в хорошем ресторане?".
+Lesson_31	We ate at a good restaurant.	Now say: "Мы обедали в одном хорошем ресторане".
+Lesson_31	Yesterday morning.	Вчера утром.
+Lesson_31	Did you speak English?	Now try to ask: "Вы говорили по английски?"
+Lesson_31	No, we didn’t speak English.	Try to say: "Нет, мы не говорили по английски".
+Lesson_31	We ate	Мы обедали.
+Lesson_31	at a good restaurant.	В одном хорошем ресторане.
+Lesson_31	But we didn’t speak English.	Но мы не говорили по английски.
+Lesson_31	I’m going to buy something.	Скажите, что вы собираетесь кое-что купить.
+Lesson_31	Something for my husband.	Say: "Кое-что для моего мужа".
+Lesson_31	I’m going to buy something for him.	Я собираюсь кое-что купить для него.
+Lesson_31	My daughter.	Моя дочь.
+Lesson_31	My daughter.	Say: "Моя дочь".
+Lesson_31	something for my daughter.	Кое-что для моей дочери.
+Lesson_31	The big one or the little one?	Ask again "Большая или маленькая"?
+Lesson_31	My daughter Maria.	Моя дочь Мария.
+Lesson_31	The older one.	Старшая.
+Lesson_31	The older one.	Скажите старшая.
+Lesson_31	I bought something for the little one.	Я купила кое-что для младшей.
+Lesson_31	Yesterday morning.	Вчера утром.
+Lesson_31	I bought something for her yesterday morning.	Я купила кое-что для неё вчера утром.
+Lesson_31	Does your older daughter speak English?	Спросите по-английски, ваша старшая дочь говорит по-английски?
+Lesson_31	Yes, she speaks English very well.	Да, она говорит по-английски очень хорошо.
+Lesson_31	Does your husband speak English too.	Ваш муж тоже говорит по-английски?
+Lesson_31	Your husband speaks English.	Скажите: "Ваш муж говорит по-английски".
+Lesson_31	Does your husband speak English?	Now ask: "Ваш муж говорит по-английски?"
+Lesson_31	Your husband speaks English, doesn’t he?	Now try to ask: "Ваш муж говорит по-английски, не так-ли?
+Lesson_31	No, he doesn’t speak English.	Answer: "нет, он не говорит по-английски".
+Lesson_31	Yesterday morning	Вчера утром
+Lesson_31	we ate at a good restaurant	мы ели в одном хорошем ресторане
+Lesson_31	with some American friends	с американскими друзьями
+Lesson_31	but they didn’t speak English	try to say: "Но они не говорили по-английски"
+Lesson_31	with my husband	с моим мужем
+Lesson_31	They didn’t speak English with him.	Они не говорили с ним по-английски.
+Lesson_31	Your daughter.	Say: "Ваша дочь".
+Lesson_31	Your daughter lives in Boston, doesn’t she?	Try to ask: "Ваша дочь живет в Бостоне, не так-ли?"
+Lesson_31	The older one?	Ask: "Старшая?"
+Lesson_31	Yes, she does.	The older one? Как ответить кратко, что да.
+Lesson_31	She lives there with some friends.	Она живет там с друзьями.
+Lesson_31	Some mexican friends	мексиканские друзья
+Lesson_31	Where’s your hotel?	Где находится ваш отель?
+Lesson_31	On Park Avenue.	Answer: "На парковом проспекте".
+Lesson_31	Do you like the hotel?	How do you ask: "Вам нравится отель?"
+Lesson_31	You like the hotel, don’t you?	Now try do ask: "Вам нравится отель, не так-ли?"?
+Lesson_31	You like the hotel, don’t you?	Спросите ещё раз: "Вам нравится отель, не так-ли?"?
+Lesson_31	It’s not bad.	Try do answer: "Он неплохой".
+Lesson_31	The bathroom is big.	Ванная комната большая.
+Lesson_31	Did you eat at the hotel?	Вы ели в отеле?
+Lesson_31	Yes, we ate there yesterday.	Да, вчера мы там ели.
+Lesson_31	The restaurant is good.	Ресторан хороший.
+Lesson_31	And not too expensive.	И не слишком дорогой.
+Lesson_31	Really? 	Ask «Правда?» или «В самом деле?»
+Lesson_31	How long are you going to stay in New York?	Ask «Как долго вы собираетесь пробыть в Нью-Йорке?»
+Lesson_31	My husband is going to leave	Try to say «Мой муж собирается уехать»
+Lesson_31	tomorrow morning	завтра утром
+Lesson_31	He is going to leave tomorrow morning.	Он собирается уехать завтра утром.
+Lesson_31	with our older daughter	с нашей старшей дочерью
+Lesson_31	They are going to Boston together.	Они вместе едут в Бостон.
+Lesson_31	You have a car, don’t you?	Ask «У вас есть машина, не так ли?»
+Lesson_31	We have a small car.	У нас маленькая машина.
+Lesson_31	And Boston isn’t too far	и Бостон не так уж далеко
+Lesson_31	I’m going to stay here	Я останусь здесь
+Lesson_31	with the little one	с младшей
+Lesson_31	We are going to stay for a few weeks.	Мы собираемся остаться здесь на несколько недель.
+Lesson_31	and tomorrow morning	и завтра утром
+Lesson_31	We are going to see a lot of things.	Mы увидим много вещей.
+Lesson_31	Now I’m going to buy something.	Сейчас я пойду что-нибудь купить.
+Lesson_31	for our older daughter	для нашей старшей дочери
+Lesson_31	And I’m going to buy a newspaper	и куплю газету

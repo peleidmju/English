@@ -1,0 +1,378 @@
+1		56	0	Американский английский язык по методу доктора Пимслера.
+1		9	0	Урок №26.
+1		28	0	Listen to this conversation.
+1		50	0	Анна окликает на улице своего знакомого – Чарльза.
+1		39	0	A ‐ Charles, wait! Where are you going?
+1		53	0	B ‐ I’m going to the department store on Park Avenue.
+1		8	0	A ‐ Why?
+1		48	0	B ‐ Because I want to buy something for my wife.
+1		53	0	A ‐ Do you know what time it is? Are the stores open?
+1		62	0	B ‐ Yes, they are. It’s not too late. It’s only eight o’clock.
+2		59	0	Вы слышали в разговоре слово «only», что означает «только».
+2		13	0	Listen again.
+2		39	0	A ‐ Charles, wait! Where are you going?
+2		53	0	B ‐ I’m going to the department store on Park Avenue.
+2		8	0	A ‐ Why?
+2		48	0	B ‐ Because I want to buy something for my wife.
+2		53	0	A ‐ Do you know what time it is? Are the stores open?
+2		62	0	B ‐ Yes, they are. It’s not too late. It’s only eight o’clock.
+3		25	0	Now answer the questions.
+3	1	21	58.89	Отвечайте на вопросы.
+3	2	25	0	Answer the questions.
+3		26	59.43	Good morning, how are you?
+3		16	0	Fine, thank you.
+3		17	0	I’m fine, thanks.
+4		16	0	How’s your wife?
+4		9	0	Fine too.
+5	1	19	78.86	Ask her how she is.
+5	2	12	0	How are you?
+6	1	29	86.05	Try to say «не очень хорошо».
+6	2	14	0	Not very well.
+6		14	95.69	Not very well.
+7	1	13	100.29	Ask «почему?»
+7	2	4	0	Why?
+8	1	25	106.86	Мне нужно купить кое‐что.
+8	2	24	0	I need to buy something.
+9	1	12	117.12	И я не могу.
+9	2	12	0	And I can’t.
+9		12	124.32	And I can’t.
+10	1	7	127.39	Почему?
+10	2	4	0	Why?
+11	1	70	132.86	Имея ввиду конкретные магазины, скажите «потому что магазины закрыты».
+11	2	30	0	Because the stores are closed.
+11		22	147.96	The stores are closed.
+12	1	7	152.84	Правда?
+12	2	7	0	Really?
+13	1	16	159.4	Да, они закрыты.
+13	2	21	0	Yes, they are closed.
+14	1	11	168.73	Уже поздно.
+14	2	10	0	It’s late.
+14		10	175.88	It’s late.
+15	1	19	179.34	Уже слишком поздно.
+15	2	14	0	It’s too late.
+15		14	188.08	It’s too late.
+16	1	15	192.09	Но они открыты.
+16	2	18	0	But they are open.
+16		18	200.54	But they are open.
+17	1	6	204.36	Когда?
+17	2	5	0	When?
+18	1	7	210.06	Завтра.
+18	2	9	0	Tomorrow.
+19		19	215.87	Они открыты завтра.
+19		23	0	They are open tomorrow.
+20	1	35	220.21	Вы можете купить что‐нибудь завтра.
+20	2	31	0	You can buy something tomorrow.
+21	1	57	232.28	«В универмаге». Имея ввиду какой‐нибудь универмаг вообще.
+21	2	22	0	In a department store.
+21		22	245.14	In a department store.
+22	1	21	250.45	Что вы хотите купить?
+22	2	24	0	What do you want to buy?
+23	1	35	260.05	Say «мой муж хочет купить кое‐что».
+23	2	34	0	My husband wants to buy something.
+24	1	28	274.05	Для нашей маленькой девочки.
+24	2	20	0	For our little girl.
+24		20	284.91	For our little girl.
+25	1	71	289.23	Имея ввиду конкретный универмаг, скажите «тогда поезжайте в универмаг».
+25	2	32	0	Then go to the department store.
+26	1	22	305.87	На Парковом Проспекте.
+26	2	15	0	On Park Avenue.
+26	2	15	315.43	On Park Avenue.
+27	1	73	319.48	Say «завтра магазины открыты» имея ввиду «завтра магазины будут открыты».
+27	2	29	0	Tomorrow the stores are open.
+27		29	337.33	Tomorrow the stores are open.
+28		25	0	Ask where Park Avenue is.
+28	1	25	348.15	Ask where Park Avenue is.
+28	2	21	0	Where is Park Avenue?
+29	1	7	357.12	Он там.
+29	2	16	0	It’s over there.
+30	1	18	365.34	Поезжайте направо 
+30	2	16	0	Go to the right.
+30		12	373.79	to the right
+31	1	13	377.33	Потом налево.
+31	2	17	0	Then to the left.
+31		11	385.87	to the left
+32	1	87	389.36	Say «моему мужу нужны деньги».
+32	2	28	0	My husband needs some money.
+32		5	406.79	needs
+32		28	0	My husband needs some money.
+33	1	22	415.48	Мне тоже нужны деньги.
+33	2	22	0	I need some money too.
+34	1	27	426.41	Now say «мне нужен бензин».
+34	2	16	0	I need some gas.
+34		16	437.86	I need some gas.
+35	1	17	442.42	Сколько он стоит?
+35	2	15	0	How much is it?
+35		15	450.41	How much is it?
+36	1	22	454.02	Один доллар за галлон.
+36	2	22	0	One dollar per gallon.
+36		10	464.01	per gallon
+37	1	24	468.03	Почему вам нужен бензин?
+37	2	25	0	Why do you need some gas?
+38		35	478.29	Потому что я собираюсь в Вашингтон.
+38		15	0	Washington D.C.
+38		35	0	Слушайте и повторяйте шаг за шагом.
+38		1	0	C
+38		1	0	D
+38		4	0	D.C.
+38		4	0	D.C.
+38		3	0	ton
+38		3	0	ton
+38		3	0	ing
+38		4	0	Wash
+39		7	0	Washing
+39		10	0	Washington
+39		15	0	Washington D.C.
+40		89	0	Говоря о столице США, американцы иногда добавляют к ее названию сокращение «D.C.» ‐ округ
+40		9	0	Колумбия.
+40	1	49	523.2	Произнесите еще раз полное название города Вашингтон.
+40	2	15	0	Washington D.C.
+41	1	45	544.25	Now say «потому что я собираюсь в Вашингтон».
+41	2	32	0	Because I’m going to Washington.
+41		28	558.52	I’m going to Washington D.C.
+42	1	54	565.37	А сейчас спросите просто «вы собираетесь в Вашингтон?»
+42	2	27	0	You’re going to Washington?
+43		49	579.15	«Что вы собираетесь делать там?» Только слушайте.
+43		31	0	What are you going to do there?
+43		18	0	Listen and repeat.
+43		31	0	What are you going to do there?
+43		5	0	there
+44		90	0	Вам уже приходилось использовать выражение «there» в выражениях «there are», «over there».
+44		87	0	При использовании слова «there» самого по себе, обычно имеется ввиду какое‐то место, о 
+44		30	0	котором уже говорилось раньше.
+45	1	58	611.78	Сейчас спросите ее еще раз, что она собирается делать там.
+45	2	31	0	What are you going to do there?
+46		89	622.67	Она отвечает «я собираюсь увидеть нескольких друзей». Сначала освоим выражение несколько 
+46		26	0	друзей. Listen and repeat.
+46		14	0	A few friends.
+46		7	0	Friends
+46		7	0	Friends
+46		3	0	Few
+46		5	0	A few
+46		14	0	A few friends.
+46		14	0	A few friends.
+47	1	23	658.77	Say «несколько друзей».
+47	2	14	0	A few friends.
+48		59	668.57	«Я собираюсь увидеть нескольких друзей». Listen and repeat.
+48		31	0	I’m going to see a few friends.
+48		3	0	See
+48		6	0	To see
+48		6	0	To see
+48		31	0	I’m going to see a few friends.
+49	1	44	694.41	Say «я собираюсь увидеть нескольких друзей».
+49	2	31	0	I’m going to see a few friends.
+50	1	22	708.68	How do you say «друг»?
+50	2	6	0	Friend
+51	1	23	716.79	Say «несколько друзей».
+51	2	14	0	A few friends.
+51		5	726.89	A few
+52	1	25	730.32	How do you say «увидеть»?
+52	2	6	0	To see
+52		3	737.75	See
+52		6	0	To see
+53	1	49	743.92	Спросите еще раз «что вы собираетесь делать там?»
+53	2	31	0	What are you going to do there?
+54	1	38	755.84	Я собираюсь увидеть нескольких друзей.
+54	2	31	0	I’m going to see a few friends.
+55	1	13	770.16	В Вашингтоне.
+55	2	14	0	In Washington.
+56	1	46	778.93	Try to say «у меня там есть несколько друзей».
+56	2	27	0	I have a few friends there.
+57	1	38	791.67	Я собираюсь увидеть нескольких друзей.
+57	2	31	0	I’m going to see a few friends.
+58	1	25	805	И я собираюсь поработать.
+58	2	22	0	And I’m going to work.
+58		4	814.28	work
+58		7	0	to work
+58		18	0	I’m going to work.
+59	1	31	824.9	Ask her is she’s going to work.
+59	2	22	0	Are you going to work?
+59		22	835.13	Are you going to work?
+60	1	8	840.32	Немного 
+60	2	8	0	A little
+61	1	38	847.05	Я собираюсь увидеть нескольких друзей.
+61	2	31	0	I’m going to see a few friends.
+62	1	46	859.63	Try to say «я собираюсь увидеть своих друзей».
+62	2	28	0	I’m going to see my friends.
+62		2	873.87	my
+62		10	0	my friends
+63	1	89	880.52	Пожалуйста повторите «я собираюсь увидеть своих друзей» 
+63	2	28	0	I’m going to see my friends.
+64	1	25	898.49	И я собираюсь поработать.
+64	2	22	0	And I’m going to work.
+65	1	44	908.87	Try to say «я собираюсь немного поработать».
+65	2	27	0	I’m going to work a little.
+65		27	921.69	I’m going to work a little.
+66	1	41	927.04	Say «и я собираюсь увидеть своих друзей».
+66	2	32	0	And I’m going to see me friends.
+67	1	48	940.85	Now say «я собираюсь увидеть нескольких друзей».
+67	2	31	0	I’m going to see a few friends.
+67		5	955.95	a few
+68	1	32	960.16	«Может быть». Listen and repeat.
+68	2	5	0	Maybe
+68		5	965.82	Maybe
+68		5	0	Maybe
+69	1	26	971.53	Вы собираетесь поработать?
+69	2	22	0	Are you going to work?
+70	1	11	980.49	Может быть.
+70	2	5	0	Maybe
+70		5	986.79	Maybe
+71		54	0	«Да, я думаю, что я буду работать». Listen and repeat.
+71	1	8	994.81	Я думаю 
+71	2	7	0	I think
+71		5	998.39	think
+71		5	0	think
+71		7	0	I think
+72		55	0	Вы обратили внимание на звук th в начале слова «думаю»?
+72	1	26	1007.16	Скажите еще раз «я думаю».
+72	2	8	0	I think.
+73	1	50	1019.78	«Я думаю, что я буду работать». Listen and repeat.
+73	2	26	0	I think I’m going to work.
+73		8	1028.63	going to
+74		65	0	Дословно вам придется произнести «я думаю, я собираюсь работать».
+74	1	47	1039.96	Скажите еще раз «я думаю, что я буду работать».
+74	2	26	0	I think I’m going to work.
+75	1	49	1050.7	Now try to say «я не думаю, что я буду работать».
+75	2	32	0	I don’t think I’m going to work.
+75		11	1065.37	don’t think
+75		13	0	I don’t think
+76	1	56	1073.27	Сейчас слушайте и повторяйте выражения «я так не думаю».
+76	2	17	0	I don’t think so.
+76		2	1081.53	so
+76		8	0	think so
+76		17	0	I don’t think so.
+76		17	0	I don’t think so.
+77		34	0	Обратите внимание на порядок слов.
+77	1	27	1095.81	Say again «я так не думаю».
+77	2	17	0	I don’t think so.
+78	1	31	1108.24	А как ей сказать «я так думаю»?
+78	2	11	0	I think so.
+78		11	1116.85	I think so.
+79	1	37	1120.23	Ask her if she’s going to see George.
+79	2	28	0	Are you going to see George?
+79		6	1131.44	George
+79		28	0	Are you going to see George?
+80	1	11	1139.98	Может быть.
+80	2	5	0	Maybe
+80		5	1145.91	Maybe
+81	1	34	1148.31	Ask if George works in Washington.
+81	2	31	0	Does George work in Washington?
+82		11	1160.82	Does George
+82		36	0	Does George work in Washington D.C.?
+83	1	31	1171.99	Скажите, что вы так не думаете.
+83	2	17	0	I don’t think so.
+83		17	1182.45	I don’t think so.
+84	1	37	1186.19	Try to say «он работает в Нью‐Йорке».
+84	2	21	0	He works in New York.
+84		5	1198.1	works
+85	1	37	1201.49	Я думаю, что он работает в Нью‐Йорке.
+85	2	29	0	I think he works in New York.
+85		7	1214.27	I think
+86	1	44	1218.4	Now say «я думаю, что он живет в Нью‐Йорке».
+86	2	29	0	I think he lives in New York.
+86		8	1232.05	he lives
+87	1	43	1236.84	Ask «тогда вы собираетесь увидеть Чарльза?» Charles
+87	2	34	0	Then are you going to see Charles?
+88	1	28	1251	Скажите, что вы так думаете.
+88	2	11	0	I think so.
+89		16	1260.84	Yes, I think so.
+90	1	31	1264.97	Но я собираюсь поработать тоже.
+90	2	26	0	But I’m going to work too.
+91	1	40	1277.31	И я собираюсь увидеть нескольких друзей.
+91	2	35	0	And I’m going to see a few friends.
+91		31	1291.43	I’m going to see a few friends.
+92	1	27	1298.87	Say «пожалуйста дайте мне».
+92	2	16	0	Please, give me.
+93	1	32	1309.41	Try to say «несколько долларов».
+93	2	14	0	A few dollars.
+94	1	27	1319.2	Now say «мне нужен бензин».
+94	2	16	0	I need some gas.
+94		16	1330.25	I need some gas.
+95	1	17	1334.66	Сколько он стоит?
+95	2	15	0	How much is it?
+95		15	1342.52	How much is it?
+96	1	22	1345.95	Один доллар за галлон.
+96	2	22	0	One dollar per gallon.
+96		10	1355.58	per gallon
+97	1	7	1358.88	Почему?
+97	2	4	0	Why?
+98	1	35	1364.04	Потому что я собираюсь в Вашингтон.
+98	2	32	0	Because I’m going to Washington.
+99	1	58	1375.99	«Там живет моя подруга Мери». Не забывайте о порядке слов.
+99	2	28	0	My friend Marry lives there.
+99		28	1390.31	My friend Marry lives there.
+100	1	17	1396.01	Она работает там.
+100	2	16	0	She works there.
+100		16	1404.94	She works there.
+101	1	37	1408.83	Помните, как спросить, далеко ли это.
+101	2	14	0	How far is it?
+101		14	1419.45	How far is it?
+102	1	37	1423.74	Сейчас спросите, далеко ли Вашингтон.
+102	2	22	0	How far is Washington?
+103	1	7	1435.7	80 миль
+103	2	13	0	Eighty miles.
+103		6	1443.96	Eighty
+104	1	7	1447.02	85 миль
+104	2	17	0	Eighty five miles
+105	1	32	1455.95	How do you say «я так не думаю».
+105	2	17	0	I don’t think so.
+105		17	1466.26	I don’t think so.
+106	1	20	1470.11	Now say «я не знаю».
+106	2	13	0	I don’t know.
+107	1	48	1478.53	Вот как спросить «вы едите сегодня?» повторяйте.
+107	2	20	0	Are you going today?
+107		5	1487.57	Going
+108		84	0	Обратите внимание, что в зависимости от контекста, одно и тоже слово может означать 
+108		67	0	«собираетесь» и «едите», имея ввиду различные способы передвижения.
+108	1	29	1505.15	Ask again «Вы едите сегодня?»
+108	2	20	0	Are you going today?
+109	1	22	1514.71	Я не знаю, может быть.
+109	2	20	0	I don’t know, maybe.
+109		20	1525.72	I don’t know, maybe.
+110	1	41	1531.03	Спросите ее еще раз, сегодня ли она едет.
+110	2	20	0	Are you going today?
+111	1	40	1541.61	Как ей  ответить, что она так не думает.
+111	2	17	0	I don’t think so.
+111		17	1551.95	I don’t think so.
+112	1	38	1556.2	Спросите еще раз, далеко ли Вашингтон.
+112	2	22	0	How far is Washington?
+112		14	1569.06	How far is it?
+113	1	7	1573.9	85 миль
+113	2	17	0	Eighty five miles
+113		11	1583.1	Eighty five
+114	1	30	1586.45	Я хотела бы увидеть Вашингтон.
+114	2	27	0	I’d like to see Washington.
+115	1	35	1598.05	И у меня там есть несколько друзей.
+115	2	31	0	And I have a few friends there.
+116		73	1611.26	Сейчас представьте, что вы едите в Вашингтон и вам нужно уточнить дорогу.
+116	1	52	1618.5	Спросите, по этой ли дороге нужно ехать в Вашингтон.
+116	2	31	0	Is this the road to Washington?
+116		38	1629.87	No, the road you want is to the right.
+117	1	63	1634.86	Вы не совсем расслышали, что она сказала. Переспросите. Налево?
+117	2	12	0	To the left?
+118	1	29	1643.83	Now ask «налево или направо?»
+118	2	28	0	To the left or to the right?
+118		28	1656.69	To the left or to the right?
+119	1	49	1663.34	Как ей сказать «дорога, которую вы хотите найти».
+119	2	18	0	The road you want.
+119		18	1675.69	The road you want.
+120	1	42	1680.09	Дорога, которую вы хотите найти – направо.
+120	2	34	0	The road you want is to the right.
+121	1	24	1692.79	Say «поезжайте направо».
+121	2	16	0	Go to the right.
+121		16	1702.27	Go to the right.
+122	1	14	1706.09	А потом прямо.
+122	2	24	0	And then straight ahead.
+122		14	1715.13	straight ahead
+123	1	49	1718.83	Помните, как спросить «что вы хотите делать там?»
+123	2	29	0	What do you want to do there?
+124	1	87	1729.96	Спросите «универмаги сейчас открыты».
+124	2	35	0	Are the department stores open now?
+124		56	1747.82	No, it’s late. I think the department stores are closed.
+125	1	23	1754.66	Say that it’s not late.
+125	2	14	0	It’s not late.
+126	1	15	1762.21	Да, уже поздно.
+126	2	15	0	Yes, it’s late.
+126		15	1770.94	Yes, it’s late.
+127	1	32	1775.51	И я думаю, что магазины закрыты.
+127	2	34	0	And I think the stores are closed.
+127		44	1786.68	I think the stores in Washington are closed.

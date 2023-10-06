@@ -1,0 +1,318 @@
+1		67	0	Первый урок английского по методу доктора Пимслера. Второй уровень.
+1		28	0	Listen to this conversation.
+1		49	0	A – Good morning, Mr.Martinez. How are you today?
+1		26	0	B – Fine, thanks. And you?
+1		45	0	A – Not bad. When did you arrive to New York?
+1		23	0	B – Yesterday morning. 
+1		39	0	A – And how long are you going to stay?
+1		13	0	B – Two days.
+1		57	0	A – Two days? That’s not much time. Do you like New York?
+1		40	0	B – Yes I do. I like New York very much.
+2	1	4	54.55	In English how do you say слово
+2	2	4	0	Word
+2	1	9	61.81	How do you say "то слово"
+2	2	9	0	That word
+2		9	73.76	That word
+2	1	9	77.46	Try to ask "что означает то слово"
+2	2	25	0	What does that word mean?
+2	1	12	90.16	Спросите, как у неё дела?
+2	2	12	0	How are you?
+2	1	21	112.02	She answer "Отлично, спасибо, как у вас?
+2	2	21	0	Fine, thanks and you?
+2		21	123.66	Fine, thanks and you?
+2	1	21	129.04	Say "не плохо"
+2	2	8	0	Not bad.
+2		8	137.1	Not bad.
+2	1	9	142.97	How do she ask "как долго?"?
+2	2	9	0	How long?
+2		9	150.7	How long?
+2	1	28	154.05	Как долго вы здесь находитесь?
+2	2	28	0	How long have you been here?
+2		28	164.72	How long have you been here?
+2	1	32	170.79	Answer "мы здесь".
+2	2	32	0	We’ve been here.
+2	1	32	179.67	Со вчерашнего дня.
+2	2	32	0	since yesterday.
+2		32	187.74	We’ve been here since yesterday.
+2	1	10	193.42	Мы приехали
+2	2	10	0	we arrived
+2		10	202.22	we arrived
+2	1	18	206.11	Вчера утром.
+2	2	18	0	Yesterday morning.
+2		18	215	Yesterday morning.
+2	1	20	225.22	Когда вы приехали?
+2	2	20	0	When did you arrive?
+2		20	233.03	When did you arrive?
+2	1	29	237.32	Answer "Мы приехали вчера утром".
+2	2	29	0	We arrived yesterday morning.
+2	1	15	250.7	Say "Мы находимся здесь"
+2	2	15	0	We’ve been here
+2	1	12	261.86	Один день. Используйте число.
+2	2	12	0	For one day.
+2		12	272.68	For one day.
+2	1	32	277.41	Мы здесь со вчерашнего дня.
+2	2	32	0	We’ve been here since yesterday.
+2	1	21	291.15	Нравится ли вам Нью Йорк?
+2	2	21	0	Do you like New York?
+2		21	303	Do you like New York?
+2	1	21	307.7	Кратко ответьте, что да.
+2	2	10	0	Yes, I do.
+2		26	317.6	I like New York very much.
+2	1	31	322.68	She ask "Сколько времени вы собираетесь здесь пробыть"
+2	2	31	0	How long are you going to stay?
+2		31	337.11	How long are you going to stay?
+2	1	13	342.83	Одну неделю.
+2	2	13	0	For one week.
+2		11	351.13	For a week.
+2	1	26	354.9	Чем вы занимались вчера?
+2	2	26	0	What did you do yesterday?
+2		26	364.7	What did you do yesterday?
+2	1	9	370.23	Answer "Я купил" 
+2	2	9	0	I bought 
+2		9	379.22	I bought 
+2	1	15	382.8	много вещей
+2	2	15	0	a lot of things
+2		15	391.15	a lot of things
+2	1	31	395.69	Я купил американскую газету.
+2	2	31	0	I bought an American newspaper.
+2	1	18	408.2	Кое-что выпить
+2	2	18	0	Something to drink
+2	1	26	418.04	И немного вина для моей жены
+2	2	26	0	And some wine for my wife.
+2	1	27	430.45	Я купил немного вина для неё
+2	2	27	0	I bought some wine for her.
+2		27	443.72	for her.
+2	1	8	447.94	А вы?
+2	2	8	0	And you?
+2	1	21	454.41	Вы купили что-нибудь?
+2	2	21	0	Did you buy anything?
+2		21	467.72	Did you buy anything?
+2	1	22	472.21	Скажите, что вы ничего не купили.
+2	2	22	0	I didn’t buy anything.
+2		25	482.58	Это сокращение от did not
+2	1	23	495.69	Say "я ничего не купил".
+2	2	22	0	I didn’t buy anything.
+2		22	505.88	didn’t
+2	1	23	511.9	А сейчас попробуйте сказать: "Мне ничего не хотелось"
+2	2	23	0	I didn’t want anything.
+2		23	522.47	I didn’t want anything.
+2	1	24	526.36	Нам ничего не хотелось.
+2	2	24	0	We didn’t want anything.
+2		24	537.54	We didn’t
+2	1	27	541.38	И мы ничего не купили.
+2	2	27	0	And we didn’t buy anything.
+2		27	551.46	We didn’t buy anything.
+2	1	26	556.58	Say "Мы купили много вещей".
+2	2	26	0	We bought a lot of things.
+2		26	569.55	We bought a lot of things.
+2	1	29	575.56	Мы приехали вчера утром.
+2	2	29	0	We arrived yesterday morning.
+2	1	30	589.68	И купили много вещей.
+2	2	30	0	And we bought a lot of things.
+2	1	23	602.14	Мы ничего не купили.
+2	2	23	0	We didn’t buy anything.
+2		23	614.257	We didn’t buy anything.
+2	1	13	619.35	Помните как сказать "доброе утро".
+2	2	13	0	Good morning.
+2		13	628.97	Good.
+2	1	17	629.24	Now try to say "хороший ресторан"
+2	2	17	0	A good restaurant
+2		17	639.28	good
+2	1	6	647.83	А так будет "мы обедали"
+2	2	6	0	We ate
+2		51	654.72	Не перепутайте, это слово звучит как цифра “eight”.
+2	1	28	668	Скажите ещё раз "мы обедали".
+2	2	28	0	We ate.
+2	1	28	675.71	Try to say "Мы обедали в одном хорошем ресторане".
+2	2	28	0	We ate at a good restaurant.
+2		28	690.15	We ate at a good restaurant.
+2	1	33	696.54	Try to ask "Вы обедали в хорошем ресторане?"
+2	2	33	0	Did you eat at a good restaurant?
+2		33	715.05	Did you eat
+2	1	12	716.38	Краткий утвердительный ответ на вопрос "Вы обедали в хорошем ресторане?".
+2	2	12	0	Yes, we did.
+2		12	731.44	Yes, we did.
+2	1	12	734.88	Краткий отрицательный ответ на вопрос "Вы обедали в хорошем ресторане?".
+2	2	14	0	No, we didn’t.
+2		14	746.22	No, we didn’t.
+2	1	28	750.04	Now say: "Мы обедали в одном хорошем ресторане".
+2	2	28	0	We ate at a good restaurant.
+2	1	18	764.1	Вчера утром.
+2	2	18	0	Yesterday morning.
+2		18	773.25	Yesterday morning.
+2	1	22	776.81	Now try to ask: "Вы говорили по английски?"
+2	2	22	0	Did you speak English?
+2		22	788.36	Did you speak English?
+2	1	28	793.29	Try to say: "Нет, мы не говорили по английски".
+2	2	28	0	No, we didn’t speak English.
+2		28	806.77	We didn’t speak English.
+2	1	28	811.69	Мы обедали.
+2	2	28	0	We ate
+2	1	28	818.98	В одном хорошем ресторане.
+2	2	28	0	at a good restaurant.
+2		28	828.93	We ate at a good restaurant.
+2	1	28	833.81	Но мы не говорили по английски.
+2	2	28	0	But we didn’t speak English.
+2		28	846.15	We didn’t speak English.
+2		34	0	Good morning. Where are you going?
+3	1	27	872.86	Скажите, что вы собираетесь кое-что купить.
+3	2	27	0	I’m going to buy something.
+3		26	883.36	What are you going to buy?
+3	1	25	888.32	Say: "Кое-что для моего мужа".
+3	2	25	0	Something for my husband.
+3	1	35	898.1	Я собираюсь кое-что купить для него.
+3	2	35	0	I’m going to buy something for him.
+3		35	909.79	for him.
+3	1	12	917.21	Моя дочь.
+3	2	12	0	My daughter.
+3		12	922.84	My daughter.
+3	1	12	928.39	Say: "Моя дочь".
+3	2	12	0	My daughter.
+3	1	43	934.87	Кое-что для моей дочери.
+3	2	43	0	something for my daughter.
+3		43	944.92	I’m going to buy something for my daughter.
+3	1	30	995.29	Ask again "Большая или маленькая"?
+3	2	30	0	The big one or the little one?
+3	1	18	1007.59	Моя дочь Мария.
+3	2	18	0	My daughter Maria.
+3		18	1017.1	My daughter Maria.
+3	1	14	1021.19	Старшая.
+3	2	14	0	The older one.
+3		14	1027.92	older.
+3	1	14	1052.89	Скажите старшая.
+3	2	14	0	The older one.
+3		14	1060.09	The
+3	1	38	1066.2	Я купила кое-что для младшей.
+3	2	38	0	I bought something for the little one.
+3		38	1077.72	the little one.
+3	1	18	1083.14	Вчера утром.
+3	2	18	0	Yesterday morning.
+3	1	45	1090.94	Я купила кое-что для неё вчера утром.
+3	2	45	0	I bought something for her yesterday morning.
+3	1	39	1106.67	Спросите по-английски, ваша старшая дочь говорит по-английски?
+3	2	39	0	Does your older daughter speak English?
+3		39	1130.29	Does your older daughter speak English?
+3	1	34	1136.04	Да, она говорит по-английски очень хорошо.
+3	2	34	0	Yes, she speaks English very well.
+3	1	36	1152.62	Ваш муж тоже говорит по-английски?
+3	2	36	0	Does your husband speak English too.
+3		36	1166.83	Does your husband speak English too.
+3		44	0	Your husband speaks English too, doesn’t he?
+3	1	28	1207.91	Скажите: "Ваш муж говорит по-английски".
+3	2	28	0	Your husband speaks English.
+3	1	32	1220.32	Now ask: "Ваш муж говорит по-английски?"
+3	2	32	0	Does your husband speak English?
+3	1	40	1233.46	Now try to ask: "Ваш муж говорит по-английски, не так-ли?
+3	2	40	0	Your husband speaks English, doesn’t he?
+3		40	1251.95	doesn’t he?
+3	1	10	1264.08	Answer: "нет, он не говорит по-английски".
+3	2	29	0	No, he doesn’t speak English.
+3		29	1278.07	he doesn’t speak English.
+3	1	17	1283.26	Вчера утром
+3	2	17	0	Yesterday morning
+3	1	27	1292.64	мы ели в одном хорошем ресторане
+3	2	27	0	we ate at a good restaurant
+3	1	26	1303.25	с американскими друзьями
+3	2	26	0	with some American friends
+3	1	29	1314.3	try to say: "Но они не говорили по-английски"
+3	2	29	0	but they didn’t speak English
+3		29	1327.3	they didn’t speak English
+3	1	15	1332.71	с моим мужем
+3	2	15	0	with my husband
+3	1	35	1340.86	Они не говорили с ним по-английски.
+3	2	35	0	They didn’t speak English with him.
+3		35	1352.67	with him.
+3	1	14	1355.89	Say: "Ваша дочь".
+3	2	14	0	Your daughter.
+3	1	43	1364.35	Try to ask: "Ваша дочь живет в Бостоне, не так-ли?"
+3	2	43	0	Your daughter lives in Boston, doesn’t she?
+3		43	1380.54	doesn’t she?
+3	1	14	1385.03	Ask: "Старшая?"
+3	2	14	0	The older one?
+3	1	14	1393.25	The older one? Как ответить кратко, что да.
+3	2	14	0	Yes, she does.
+3		14	1405.74	Yes, she does.
+3	1	34	1409.56	Она живет там с друзьями.
+3	2	34	0	She lives there with some friends.
+3	1	19	1421.16	мексиканские друзья
+3	2	19	0	Some mexican friends
+3		19	1432.07	Some mexican friends
+3	1	19	1444.09	Где находится ваш отель?
+3	2	19	0	Where’s your hotel?
+3	1	15	1452.55	Answer: "На парковом проспекте".
+3	2	15	0	On Park Avenue.
+3		15	1462.77	On Park Avenue.
+3	1	22	1466.72	How do you ask: "Вам нравится отель?"
+3	2	22	0	Do you like the hotel?
+3	1	22	1477.93	Now try do ask: "Вам нравится отель, не так-ли?"?
+3	2	30	0	You like the hotel, don’t you?
+3		30	1492.84	don’t you?
+3	1	22	1509.44	Спросите ещё раз: "Вам нравится отель, не так-ли?"?
+3	2	30	0	You like the hotel, don’t you?
+3		30	1522.86	don’t you?
+3	1	13	1525.59	Try do answer: "Он неплохой".
+3	2	13	0	It’s not bad.
+3		13	1535.25	It’s not bad.
+3	1	20	1539.04	Ванная комната большая.
+3	2	20	0	The bathroom is big.
+3	1	25	1548.8	Вы ели в отеле?
+3	2	25	0	Did you eat at the hotel?
+3		25	1559.35	Did you eat at the hotel?
+3	1	28	1566.01	Да, вчера мы там ели.
+3	2	28	0	Yes, we ate there yesterday.
+3		28	1582.72	we ate there yesterday.
+3	1	23	1588.27	Ресторан хороший.
+3	2	23	0	The restaurant is good.
+3		23	1597.09	The restaurant is good.
+3	1	21	1602.97	И не слишком дорогой.
+3	2	22	0	And not too expensive.
+3	1	33	1611.86	Ask «Правда?» или «В самом деле?»
+3	2	8	0	Really? 
+3		8	1621.38	Really? 
+3	1	51	1624.32	Ask «Как долго вы собираетесь пробыть в Нью-Йорке?»
+3	2	43	0	How long are you going to stay in New York?
+3	1	38	1639.62	Try to say «Мой муж собирается уехать»
+3	2	27	0	My husband is going to leave
+3	1	12	1654.32	завтра утром
+3	2	16	0	tomorrow morning
+3		45	1664.95	My husband is going to leave tomorrow morning.
+3	1	34	1673.01	Он собирается уехать завтра утром.
+3	2	37	0	He is going to leave tomorrow morning.
+3		37	1685.19	He is going to leave tomorrow morning.
+3	1	23	1692.46	с нашей старшей дочерью
+3	2	23	0	with our older daughter
+3		18	1702.85	our older daughter
+3	1	25	1707.11	Они вместе едут в Бостон.
+3	2	34	0	They are going to Boston together.
+3		34	1719.57	They are going to Boston together.
+3	1	35	1727.31	Ask «У вас есть машина, не так ли?»
+3	2	26	0	You have a car, don’t you?
+3		9	1739.17	don’t you
+3		24	0	«У вас есть машина, не так ли?» Кратко ответьте, что да.
+3		11	0	Yes, we do.
+3		11	0	Yes, we do.
+3	1	23	1755.44	У нас маленькая машина.
+3	2	20	0	We have a small car.
+3	1	25	1764.96	и Бостон не так уж далеко
+3	2	24	0	And Boston isn’t too far
+3	1	16	1775.57	Я останусь здесь
+3	2	22	0	I’m going to stay here
+3		22	1785.37	I’m going to stay here
+3	1	9	1790.36	с младшей
+3	2	19	0	with the little one
+3	1	49	1798.52	Мы собираемся остаться здесь на несколько недель.
+3	2	37	0	We are going to stay for a few weeks.
+4	1	14	1812.57	и завтра утром
+4	2	20	0	and tomorrow morning
+4	1	22	1822.55	Mы увидим много вещей.
+4	2	36	0	We are going to see a lot of things.
+4	1	33	1834.61	Сейчас я пойду что-нибудь купить.
+4	2	31	0	Now I’m going to buy something.
+4	1	24	1847.31	для нашей старшей дочери
+4	2	22	0	for our older daughter
+4	1	19	1857.1	и куплю газету
+4	2	32	0	And I’m going to buy a newspaper
+4		20	1868.08	Попрощайтесь с ним.	
+4		9	0	Good-bye.
+4		9	0	Good-bye.
+4		24	0	Это конец первого урока.

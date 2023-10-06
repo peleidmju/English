@@ -1,0 +1,373 @@
+1		56	0	Американский английский язык по методу доктора Пимслера.
+1		9	0	Урок №30.
+2		40	0	Tatyana and Charles are in a restaurant.
+2		28	0	Listen to this conversation.
+2		64	0	A ‐ Tell me Tatyana, how long are you going to stay in New York?
+2		43	0	B ‐ For a few days. I don’t have much time.
+2		25	0	A ‐ Do you like New York?
+2		41	0	B ‐ Yes, I do. I like New York very much.
+2		38	0	A ‐ What are you going to do tomorrow?
+2		55	0	B ‐ Tomorrow I’m going to see my friends Mike and Dian.
+3		13	0	Listen again.
+3		64	0	A ‐ Tell me Tatyana, how long are you going to stay in New York?
+3		43	0	B ‐ For a few days. I don’t have much time.
+3		25	0	A ‐ Do you like New York?
+3		41	0	B ‐ Yes, I do. I like New York very much.
+3		38	0	A ‐ What are you going to do tomorrow?
+3		55	0	B ‐ Tomorrow I’m going to see my friends Mike and Dian.
+4	1	34	46.87	How do you say «слово» in English?
+4	2	4	0	Word
+4		9	53.13	This word
+5	1	16	56.4	Say «это слово».
+5	2	9	0	This word
+5		4	64.74	This
+5		9	0	This word
+6	1	35	71.45	Say «это слово – английское слово».
+6	2	29	0	This word is an English word.
+6		15	85.42	an English word
+7	1	23	90.46	Ask «что это означает?»
+7	2	18	0	What does it mean?
+7		18	99.8	What does it mean?
+8	1	36	103.52	Try to ask «что означает это слово?»
+8	2	25	0	What does this word mean?
+8		25	115.31	What does this word mean?
+9	1	27	120.52	Say «это английское слово».
+9	2	21	0	It’s an English word.
+9		21	131.59	It’s an English word.
+10	1	29	136.35	Ask again «что это означает?»
+10	2	18	0	What does it mean?
+10		18	146.6	What does it mean?
+11	1	17	150.54	Say «мы русские».
+11	2	14	0	We’re Russian.
+12	1	18	158.88	Say «мы здесь уже»
+12	2	15	0	We’ve been here
+12		15	167.77	We’ve been here
+13	1	27	172.1	Now say «несколько недель».
+13	2	16	0	For a few weeks.
+14	1	16	181.9	Ask «как долго?»
+14	2	9	0	How long?
+15	1	29	189.7	Сколько времени вы уже здесь?
+15	2	28	0	How long have you been here?
+15		28	198.86	How long have you been here?
+16	1	36	203.97	Say «мы здесь уже несколько недель».
+16	2	33	0	We’ve been here for a few  weeks.
+16		33	217.84	We’ve been here for a few  weeks.
+17	1	52	224.56	And how do you say «мы здесь уже со вчерашнего дня».
+17	2	32	0	We’ve been here since yesterday.
+17		15	239.07	since yesterday
+18	1	49	243.76	Ask «на сколько времени вы собираетесь остаться?»
+18	2	31	0	How long are you going to stay?
+18		31	256.73	How long are you going to stay?
+19	1	32	262.82	Now say «мы собираемся остаться»
+19	2	19	0	We’re going to stay
+20	1	18	274.34	На несколько дней.
+20	2	15	0	For a few days.
+21	1	22	283.59	Ask «на сколько дней?»
+21	2	18	0	For how many days?
+22	1	27	294.38	Answer «на несколько дней».
+22	2	15	0	For a few days.
+23	1	22	303.63	У нас немного времени.
+23	2	24	0	We don’t have much time.
+23		24	313.97	We don’t have much time.
+24	1	27	319.51	Say «мне нравится Америка».
+24	2	15	0	I like America.
+24		15	330.39	I like America.
+25	1	30	334.63	Ask her if she likes New York.
+25	2	21	0	Do you like New York?
+25		21	345.06	Do you like New York?
+26	1	26	349.68	Да, мне нравится Нью‐Йорк.
+26	2	21	0	Yes, I like New York.
+27	1	24	361.2	Вы собираетесь остаться?
+27	2	21	0	You’re going to stay?
+28	1	10	371	Как долго?
+28	2	9	0	How long?
+28		9	377.62	How long?
+29	1	26	380.98	Try to ask «сколько дней?»
+29	2	14	0	How many days?
+29		14	389.86	How many days?
+30	1	15	394.19	На одну неделю.
+30	2	13	0	For one week.
+31	1	14	403.17	Say «неплохо».
+31	2	8	0	Not bad.
+31		15	411.79	That’s not bad.
+32	1	43	415.68	Say again «мы здесь уже со вчерашнего дня».
+32	2	32	0	We’ve been here since yesterday.
+32		15	428.65	since yesterday
+33	1	30	433.64	Now ask «что вы делали вчера?»
+33	2	26	0	What did you do yesterday?
+33		26	445.25	What did you do yesterday?
+34	1	59	450.97	Вот как спросить «вы купили что‐нибудь?» Listen and repeat.
+34	2	21	0	Did you buy anything?
+34		8	461.04	anything
+34		8	0	anything
+34		21	0	Did you buy anything?
+35		94	0	Задавая такой вопрос, Вам нужно использовать слово «anything», потому что здесь имеется ввиду 
+35		18	0	что‐нибудь вообще.
+36	1	33	481.35	Ask аgain «вы купили что‐нибудь?»
+36	2	21	0	Did you buy anything?
+37	1	20	490.52	Ask «что вы купили?»
+37	2	17	0	What did you buy?
+38	1	36	499.22	Ask «вы купили американскую газету?»
+38	2	34	0	Did you buy an American newspaper?
+38		21	513.19	an American newspaper
+39	1	18	519.43	Answer «я купила».
+39	2	8	0	I bought
+39		8	527.6	I bought
+40	1	49	530.72	Вот как сказать «много всего». Listen and repeat.
+40	2	16	0	A lot of things.
+40		6	538.89	things
+40		6	0	things
+40		16	0	A lot of things.
+41	1	33	550.23	Ask again «вы купили что‐нибудь?»
+41	2	21	0	Did you buy anything?
+42	1	31	560.69	Say «да, я купила много всего».
+42	2	30	0	Yes, I bought a lot of things.
+43	1	29	574.35	Я купили американскую газету.
+43	2	31	0	I bought an American newspaper.
+44	1	16	587.6	Для своего мужа.
+44	2	15	0	For my husband.
+45	1	31	596.49	Say «я купила газету для него».
+45	2	29	0	I bought a newspaper for him.
+45		7	607.82	for him
+46	1	11	611.81	И я купила 
+46	2	12	0	And I bought
+47	1	15	619.43	Кое‐что выпить.
+47	2	19	0	Something to drink.
+48	1	11	626.69	Ask «а вы?»
+48	2	8	0	And you?
+49	1	26	633.94	Ask «что вы делали вчера?»
+49	2	26	0	What did you do yesterday?
+49		15	644.1	What did you do
+50	1	27	648.73	Ask «вы купили что‐нибудь?»
+50	2	21	0	Did you buy anything?
+50		8	659.07	anything
+50		21	0	Did you buy anything?
+51	1	37	666.68	Ask him if he bought a lot of things.
+51	2	28	0	Did you buy a lot of things?
+52	1	36	678.65	Вы купили что‐нибудь для своей жены?
+52	2	35	0	Did you buy anything for your wife?
+53	1	23	691.71	Вы купили вина для нее?
+53	2	30	0	Did you buy some wine for her?
+53		7	704.32	for her
+54		41	708.51	Слушайте его краткий отрицательный ответ.
+54		13	0	No, I didn’t.
+55	1	30	715.88	Now say «мне ничего не нужно».
+55	2	22	0	I don’t need anything.
+55		22	725.86	I don’t need anything.
+56	1	24	730.91	Я не собираюсь покупать.
+56	2	21	0	I’m not going to buy.
+57	1	44	741.61	Try to say «я не собираюсь ничего покупать».
+57	2	30	0	I’m not going to buy anything.
+57		30	756.03	I’m not going to buy anything.
+58	1	26	763.74	Я ничего не хочу покупать.
+58	2	29	0	I don’t want to buy anything.
+59	1	54	777.8	And how do you say «мы ничего не собираемся покупать».
+59	2	32	0	We’re not going to buy anything.
+59		32	793.13	We’re not going to buy anything.
+60	1	28	799.99	Мы ничего не хотим покупать.
+60	2	30	0	We don’t want to buy anything.
+61	1	5	812.6	А вы?
+61	2	8	0	And you?
+62	1	21	819.31	Вы купили что‐нибудь?
+62	2	21	0	Did you buy anything?
+62		21	828.84	Did you buy anything?
+63	1	35	833.81	Try to say «мы купили много всего».
+63	2	26	0	We bought а lot of things.
+63		26	845.69	We bought а lot of things.
+64	1	31	851.26	Мы здесь уже со вчерашнего дня.
+64	2	32	0	We’ve been here since yesterday.
+64		15	863.87	since yesterday
+65	1	27	869.8	Say «мы здесь уже два дня».
+65	2	29	0	We’ve been here for two days.
+66	1	24	881.5	И мы купили много всего.
+66	2	30	0	And we bought a lot of things.
+66		25	893.29	we bought a lot of things
+67	1	6	899.25	Когда?
+67	2	5	0	When?
+68	1	6	905.78	Вчера 
+68	2	9	0	Yesterday
+68		9	911.95	Yesterday
+69	1	14	915.05	Say «неплохо».
+69	2	8	0	Not bad.
+70	1	49	923.39	Вот как сказать «вы приехали». Listen and repeat.
+70	2	12	0	You arrived.
+70		7	931.83	arrived
+70		7	0	arrived
+70		12	0	You arrived.
+71	1	29	942.99	How do you say «вы приехали»?
+71	2	12	0	You arrived.
+72	1	33	952.88	«Вы приехали?» Listen and repeat.
+72	2	15	0	Did you arrive?
+72		6	960.41	arrive
+72		15	0	Did you arrive?
+73	1	35	967.93	Now try to ask «когда вы приехали?»
+73	2	20	0	When did you arrive?
+73		20	978.81	When did you arrive?
+74	1	31	983.33	Try to say «мы приехали вчера».
+74	2	21	0	We arrived yesterday.
+74		21	994.67	We arrived yesterday.
+75	1	88	0	Обратите особое внимание на произношение звука «d» на конце слова «arrived». Повторяйте 
+75	1	18	0	вслед за диктором.
+75	2	10	0	Did arrive
+75		7	0	Arrived
+75		10	0	Did arrive
+75		7	0	Arrived
+76	1	30	1024.85	Say again «мы приехали вчера».
+76	2	21	0	We arrived yesterday.
+77	1	27	1035.1	Она уточняет «вчера утром?»
+77	2	18	0	Yesterday morning?
+78	1	23	1040.91	Ask «что это означает?»
+78	2	20	0	What does that mean?
+79	1	19	1048.62	Say «это означает».
+79	2	10	0	That means
+79		10	1056.96	That means
+80	1	33	1060.33	«Вчера утром». Listen and repeat.
+80	2	18	0	Yesterday morning.
+80		7	1067.68	morning
+80		7	0	morning
+80		18	0	Yesterday morning.
+81	1	54	1076.8	Как вы думаете, как сказать по‐английски слово «утро»?
+81	2	7	0	Morning
+81		7	1085.41	Morning
+82	1	18	1088.47	Say «вчера утром».
+82	2	18	0	Yesterday morning.
+82		7	1097.11	Morning
+83	1	30	1100.34	Ask again «когда вы приехали?»
+83	2	20	0	When did you arrive?
+84	1	55	1109.32	Here you are to say «сегодня утром». Listen and repeat.
+84	2	13	0	This morning.
+84		4	1117.94	This
+84		13	0	This morning.
+85	1	26	1123.87	Say again «сегодня утром».
+85	2	13	0	This morning.
+86	1	18	1132.27	Say «вчера утром».
+86	2	18	0	Yesterday morning.
+86		7	1140.52	Morning
+87	1	22	1143.83	Now say «доброе утро».
+87	2	13	0	Good morning.
+88	1	35	1151.09	How do you ask «когда вы приехали?»
+88	2	20	0	When did you arrive?
+88		20	1160.52	When did you arrive?
+89	1	33	1165.32	And how do you say «вы приехали».
+89	2	12	0	You arrived.
+89		12	1175.12	You arrived.
+90	1	42	1179.62	Помните, как сказать «я живу в Нью‐Йорке».
+90	2	19	0	I live in New York.
+90		11	1190.51	in New York
+91	1	85	0	Try to ask «когда вы приехали в Нью‐Йорк?» 
+91	2	32	0	When did you arrive in New York?
+91		11	1211.2	in New York
+91		32	0	When did you arrive in New York?
+92	1	18	1220.93	Мы приехали вчера.
+92	2	21	0	We arrived yesterday.
+93	1	24	1230.81	Мы приехали вчера утром.
+93	2	29	0	We arrived yesterday morning.
+93		29	1242.15	We arrived yesterday morning.
+94	1	24	1247.94	Try to say «я приехала».
+94	2	10	0	I arrived.
+94		10	1256.82	I arrived.
+95	1	22	1259.95	Я приехала в Нью‐Йорк.
+95	2	22	0	I arrived in New York.
+95		11	1269.39	in New York
+96	1	16	1273.14	Со своей семьей.
+96	2	15	0	With my family.
+97	1	23	1280.66	Co своими тремя детьми.
+97	2	23	0	With my three children.
+98	1	44	1290.1	How do you say «со своими двумя мальчиками».
+98	2	17	0	With my two boys.
+99	1	25	1300.44	Своей маленькой девочкой.
+99	2	15	0	My little girl.
+100	1	14	1309.05	И своим мужем.
+100	2	15	0	And my husband.
+100		15	1316.67	And my husband.
+101	1	19	1320.49	Мы приехали вместе.
+101	2	20	0	We arrived together.
+101		20	1329.47	We arrived together.
+102	1	25	1333.87	Ask her «в котором часу?»
+102	2	13	0	At what time?
+103	1	36	1343.03	Answer «мы приехали в восемь часов».
+103	2	28	0	We arrived at eight o’clock.
+103		28	1355.27	We arrived at eight o’clock.
+104	1	29	1360.94	Say «я приехала вчера утром».
+104	2	28	0	I arrived yesterday morning.
+105	1	26	1374.73	Я приехала в девять часов.
+105	2	26	0	I arrived at nine o’clock.
+105		26	1385.25	I arrived at nine o’clock.
+106	1	41	1390.26	Ask «А вы? Когда вы приехали в Нью‐Йорк?»
+106	2	41	0	And you? When did you arrive in New York?
+106		32	1407.04	When did you arrive in New York?
+107	1	14	1414	Сегодня утром.
+107	2	13	0	This morning.
+107		13	1422.62	This morning.
+108	1	41	1425.48	Now say «мы здесь уже со вчерашнего дня».
+108	2	32	0	We’ve been here since yesterday.
+108		15	1437.9	since yesterday
+109	1	45	1441.96	How do you ask «когда вы приехали в Америку?»
+109	2	31	0	When did you arrive in America?
+109		31	1454.93	When did you arrive in America?
+110	1	27	1460.84	Answer «мы приехали вчера».
+110	2	21	0	We arrived yesterday.
+110		21	1472.54	We arrived yesterday.
+111	1	23	1477	Мы собираемся остаться.
+111	2	20	0	We’re going to stay.
+112	1	15	1486.43	На одну неделю.
+112	2	13	0	For one week.
+113	1	29	1494.05	А потом мы собираемся уехать.
+113	2	30	0	And then we’re going to leave.
+113		30	1506.57	And then we’re going to leave.
+114	1	24	1512.75	How do you say «завтра?»
+114	2	8	0	Tomorrow
+115	1	51	1521.55	Now try to say «мы собираемся уехать завтра утром».
+115	2	38	0	We’re going to leave tomorrow morning.
+115		16	1536.07	tomorrow morning
+115		38	0	We’re going to leave tomorrow morning.
+116	1	30	1546.99	Ask her if she likes New York.
+116	2	21	0	Do you like New York?
+117	1	21	1556.78	Say that yes, you do.
+117	2	10	0	Yes, I do.
+117		21	1564.85	Yes, I like New York.
+118	1	25	1569.33	Но у нас немного времени.
+118	2	28	0	But we don’t have much time.
+119	1	23	1580.49	А мы собираемся уехать.
+119	2	26	0	And we are going to leave.
+120	1	13	1590.92	Завтра утром.
+120	2	17	0	Tomorrow morning.
+120		17	1598.9	Tomorrow morning.
+121	1	31	1602.53	Ask her if she bought anything.
+121	2	21	0	Did you buy anything?
+122	1	49	1612.32	How does she say that she bought a lot of things.
+122	2	25	0	I bought a lot of things.
+122		15	1623.84	a lot of things
+122		25	0	I bought a lot of things.
+123	1	24	1632.1	Ask her what she bought.
+123	2	17	0	What did you buy?
+124	1	29	1640.62	Answer «американскую газету».
+124	2	22	0	An American newspaper.
+125	1	15	1651.23	Для моего мужа.
+125	2	15	0	For my husband.
+126	1	31	1658.94	Say «я купила газету для него».
+126	2	29	0	I bought a newspaper for him.
+126		7	1669.92	for him
+127	1	19	1673.94	И я купила кое‐что.
+127	2	23	0	And I bought something.
+128	1	18	1683.11	Для своей подруги.
+128	2	14	0	For my friend.
+128		33	1690.36	I bought something for my friend.
+129	1	25	1695.4	Я купила кое‐что для нее.
+129	2	27	0	I bought something for her.
+129		7	1705.92	for her
+130	1	34	1709.69	Мы собираемся уехать завтра утром.
+130	2	38	0	We’re going to leave tomorrow morning.
+131		64	1721.48	А сейчас слушайте этот разговор. Он должен быть понятен для вас.
+131		23	0	A ‐ Hello, how are you?
+131		26	0	B ‐ Fine, thanks. And you?
+131		17	0	A ‐ I’m fine too.
+131		36	0	B ‐ When did you arrive in New York?
+131		76	0	A ‐ My wife and I arrived yesterday. And tomorrow we’re going to Washington.
+131		69	0	B ‐ Then would you and your wife like to have dinner with me tonight?
+131		32	0	A ‐ Yes, we would. At what time?
+131		21	0	B ‐ At eight o’clock?
+131		46	0	A ‐ Ok, at eight o’clock. Thank you very much.
+132		37	0	B ‐ You are welcome. See you tonight.
+132		20	0	A ‐ See you tonight.
+133		18	0	Урок №30 закончен.
