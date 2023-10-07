@@ -1,0 +1,124 @@
+Lesson_32	When did you arrive?	Когда вы приехали?
+Lesson_32	Yesterday morning.	Вчера утром.
+Lesson_32	We arrived yesterday morning.	Мы приехали вчера утром.
+Lesson_32	This	Это
+Lesson_32	This morning.	Сегодня утром.
+Lesson_32	I arrived this morning.	Я приехал сегодня утром.
+Lesson_32	What did you do this morning?	Что ты делал сегодня утром?
+Lesson_32	Did you buy anything?	Ты что-нибудь купил?
+Lesson_32	No, I didn’t buy anything.	Нет, я ничего не покупал.
+Lesson_32	I didn’t want anything.	Мне ничего не хотелось.
+Lesson_32	And I didn’t buy anything.	И я ничего не купил.
+Lesson_32	I didn’t buy anything this morning.	Сегодня утром я ничего не купил.
+Lesson_32	Why?	Почему?
+Lesson_32	Why are you here in New York?	Почему ты здесь, в Нью-Йорке?
+Lesson_32	Do you have friends here?	У тебя здесь есть друзья?
+Lesson_32	You have friends here, don’t you?	У тебя здесь есть друзья, не так ли?
+Lesson_32	No, I’m in New York	Нет, я в Нью-Йорке
+Lesson_32	because	потому что
+Lesson_32	I’m going to work here.	Я собираюсь здесь работать.
+Lesson_32	for a few weeks.	на несколько недель.
+Lesson_32	I didn’t work this morning.	Я не работал сегодня утром.
+Lesson_32	But I think, I’m going to work.	Но я думаю, пойду работать.
+Lesson_32	Tomorrow morning	Завтра утром
+Lesson_32	maybe	возможно
+Lesson_32	Are you here alone?	Ты здесь один?
+Lesson_32	Alone	Один
+Lesson_32	I’m here with my wife.	Say that you are here with your wife.
+Lesson_32	I’m not here alone	Я здесь не один
+Lesson_32	We are going to stay here.	Мы собираемся остаться здесь.
+Lesson_32	for a few days	на несколько дней
+Lesson_32	together	вместе
+Lesson_32	And then	А потом
+Lesson_32	my wife is going to Washington	моя жена едет в Вашингтон.
+Lesson_32	my wife is going to Washington alone	моя жена едет в Вашингтон одна.
+Lesson_32	she wants to see our daughter	она хочет увидеть нашу дочь
+Lesson_32	The older one?	Старшую?
+Lesson_32	Or the younger one?	Или младшую?
+Lesson_32	The older one or the younger one?	Старшую или младшую?
+Lesson_32	The younger one.	Младшую.
+Lesson_32	We bought a lot of things	Мы купили много вещей
+Lesson_32	for our younger daughter	для нашей младшей дочери
+Lesson_32	and today	и сегодня
+Lesson_32	we are going to buy a car	мы собираемся купить машину
+Lesson_32	A car?	Машина?
+Lesson_32	Cars are very expensive.	Say that cars are very expensive.
+Lesson_32	I know	Я знаю
+Lesson_32	but we need a car	но нам нужна машина
+Lesson_32	We need a car for our daughter	Нам нужна машина для нашей дочери
+Lesson_32	Your younger daughter?	Вашей младшей дочери?
+Lesson_32	no, the older one	нет, старшей
+Lesson_32	She lives alone	Она живет одна
+Lesson_32	and she needs a car	и ей нужна машина
+Lesson_32	She lives in Boston, doesn’t she?	Она живет в Бостоне, не так ли?
+Lesson_32	Yes, she does.	Кратко ответьте, что да, она живет в Бостоне.
+Lesson_32	But she is here with us now	Но она сейчас здесь с нами
+Lesson_32	We ate with her	Мы ели с ней
+Lesson_32	this morning	сегодня утром
+Lesson_32	and tonight	и сегодня вечером
+Lesson_32	we’re going to have dinner 	мы собираемся ужинать
+Lesson_32	Our son	Наш сын
+Lesson_32	We’re going to have dinner with our son.	Мы собираемся поужинать с сыном.
+Lesson_32	at a good restaurant	в хорошем ресторане
+Lesson_32	Your son lives in Boston, doesn’t he?	Ваш сын живет в Бостоне, не так ли?
+Lesson_32	Yes our son lives in Boston.	Да, наш сын живет в Бостоне.
+Lesson_32	And our daughter lives there too.	И наша дочь тоже там живет.
+Lesson_32	Which daughter?	Какая дочь?
+Lesson_32	The older one	старшая
+Lesson_32	Our younger daughter	Наша младшая дочь
+Lesson_32	Our younger daughter lives in Washington.	Наша младшая дочь живет в Вашингтоне.
+Lesson_32	Our son arrived	Наш сын приехал
+Lesson_32	Our son arrived in New York yesterday.	Наш сын вчера приехал в Нью-Йорк.
+Lesson_32	He arrived last night.	Он приехал вчера вечером.
+Lesson_32	When did he arrive?	Когда он приехал?
+Lesson_32	He arrived last night.	Он приехал вчера вечером.
+Lesson_32	at eleven o’clock	в одиннадцать часов
+Lesson_32	That’s very late.	Say that it’s very late.
+Lesson_32	I know.	Say that you know.
+Lesson_32	We didn’t see our son last night.	Мы не видели нашего сына вчера вечером.
+Lesson_32	Because he arrived too late.	Потому что он приехал слишком поздно.
+Lesson_32	and he’s going to leave	и он собирается уезжать
+Lesson_32	tomorrow night	завтра ночью
+Lesson_32	because	потому что
+Lesson_32	He wants to go to Philadelphia.	Он хочет поехать в Филадельфию.
+Lesson_32	He wants to go to Philadelphia.	Он хочет поехать в Филадельфию.
+Lesson_32	Is he going alone?	Он едет один?
+Lesson_32	No, he isn’t.	Ответьте кратко, что он едет не один.
+Lesson_32	A friend is going with him.	С ним едет подруга.
+Lesson_32	They are going to Philadelphia tomorrow.	Завтра они собираются в Филадельфию.
+Lesson_32	We went	Мы ездили
+Lesson_32	We went to Philadelphia. 	Мы ездили в Филадельфию.
+Lesson_32	We went to Philadelphia yesterday.	Мы вчера ездили в Филадельфию.
+Lesson_32	Where did you go?	Куда вы ездили?
+Lesson_32	We went to Philadelphia.	Мы ездили в Филадельфию.
+Lesson_32	Our son wants to go there tomorrow.	Наш сын хочет пойти туда завтра.
+Lesson_32	We went there yesterday.	Мы ездили туда вчера.
+Lesson_32	Did you have dinner there?	Вы там ужинали?
+Lesson_32	Yes we did.	Кратко ответьте, что да, мы там ужинали.
+Lesson_32	We ate with some friends.	Мы кушали с друзьями.
+Lesson_32	At a good restaurant.	В хорошем ресторане.
+Lesson_32	Did you speak English with your friends?	Говорили ли вы по-английски со своими друзьями?
+Lesson_32	No, we didn’t.	Кратко ответьте, что вы не говорили по-английски со своими друзьями.
+Lesson_32	You like Philadelphia, don’t you?	Тебе нравится Филадельфия, не так ли?
+Lesson_32	Yes, I like Philadelphia very much.	Да, мне очень нравится Филадельфия.
+Lesson_32	We went to Philadelphia yesterday.	Мы вчера ездили в Филадельфию.
+Lesson_32	And our son wants to go there.	И наш сын хочет туда пойти.
+Lesson_32	Tomorrow	Завтра
+Lesson_32	He arrived in New York last night.	Он приехал в Нью-Йорк вчера вечером.
+Lesson_32	and tomorrow	и завтра
+Lesson_32	he wants to go to Philadelphia	он хочет поехать в Филадельфию
+Lesson_32	Our younger daughter.	Наша младшая дочь.
+Lesson_32	Our younger daughter is in Washington.	Наша младшая дочь в Вашингтоне.
+Lesson_32	and our older daughter 	и наша старшая дочь
+Lesson_32	Our older daughter is going to Boston.	Наша старшая дочь едет в Бостон.
+Lesson_32	Alone	Одна
+Lesson_32	She likes Boston, doesn’t she?	Ей нравится Бостон, не так ли?
+Lesson_32	Yes, she likes Boston very much.	Да, ей очень нравится Бостон.
+Lesson_32	She ate with us.	Она ела с нами.
+Lesson_32	This morning.	Сегодня утром.
+Lesson_32	We ate at a good restaurant.	Мы ели в хорошем ресторане.
+Lesson_32	On East 52nd Street.	На Восточной 52-й улице.
+Lesson_32	We’re going to eat there tonight too.	Мы тоже собираемся там покушать сегодня вечером.
+Lesson_32	It’s very good.	Он очень хороший.
+Lesson_32	And not too expensive.	И не слишком дорогой.
+Lesson_32	Would you like to eat there with us tonight?	Хотели бы вы поесть там с нами сегодня вечером?

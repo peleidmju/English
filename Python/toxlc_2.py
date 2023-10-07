@@ -15,9 +15,9 @@ def write_file(path, text):
         file.write(text)
 
 
-old_path = 'E:\English\Python\\tempfor\Pimsleur_text_1a_26.txt'
-new_path = 'E:\English\Python\\tempfor\Pimsleur_text_1b_26.txt'
-csv_path = 'E:\English\Python\\tempfor\Pimsleur_text_1_26.csv'
+old_path = 'E:\English\Python\\tempfor\Pimsleur_text_2b_02.txt'
+new_path = 'E:\English\Python\\tempfor\Pimsleur_text_2c_02.txt'
+csv_path = 'E:\English\Python\\tempfor\Pimsleur_text_2_02.csv'
 
 my_text = open_file(old_path)
 # list_my_text = my_text.split('\n')
@@ -28,7 +28,7 @@ list_my_text = list(re.finditer(my_pattern, my_text))
 print(len(list_my_text))
 dict_my_text = [item.groupdict() for item in list_my_text]
 pp.pprint(dict_my_text)
-subject = 'Lesson_26'
+subject = 'Lesson_32'
 new_text = ''
 for item in dict_my_text:
     new_text += subject + '\t' + \

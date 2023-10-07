@@ -37,6 +37,26 @@ for (parent, directorys, files) in os.walk('E:\English\PimsleurNew\First'):
                 elif file[-8:-6] == 'c_':
                     path_origin[str_num]['txt_stepC_edit'] = parent + \
                         '\\' + file
+for (parent, directorys, files) in os.walk('E:\English\PimsleurNew\Second'):
+    if files:
+        for file in files:
+            if '.mp3' in file:
+                continue
+            str_num = int(file[-6:-4])+30
+            if not str_num in path_origin:
+                path_origin[str_num] = {}
+            if '.csv' in file:
+                path_origin[str_num]['csv_for_mp3'] = parent + '\\' + file
+            elif '.txt' in file:
+                if file[-8:-6] == 'a_':
+                    path_origin[str_num]['txt_stepA_edit'] = parent + \
+                        '\\' + file
+                elif file[-8:-6] == 'b_':
+                    path_origin[str_num]['txt_stepB_edit'] = parent + \
+                        '\\' + file
+                elif file[-8:-6] == 'c_':
+                    path_origin[str_num]['txt_stepC_edit'] = parent + \
+                        '\\' + file
 path_for_json = {}
 path_for_json['path_all'] = path_origin
 with open('E:\English\Python\settings.json', 'w', encoding='utf-8') as file:
