@@ -7,43 +7,30 @@ import pprint as pp
 def open_file(path):
 
     with open(path, encoding='utf-8') as file:
-        return file.read()
+        return file.readlines()
 
 
 def write_file(path, text):
     with open(path, 'w', encoding='utf-8') as file:
-        file.write(text)
+        file.write('\n'.join(text))
 
 
-old_path = 'E:\English\PimsleurNew\PEfRS_2\Pimsleur_text_2_02.txt'
-new_path = 'E:\English\Python\\tempfor\Pimsleur_text_2a_02.txt'
-my_text = open_file(old_path)
+old_path = 'E:\English\Python\\tempfor\Pimsleur_text_2a_02.txt'
+new_path = 'E:\English\Python\\tempfor\Pimsleur_text_2b_02.txt'
+my_list = open_file(old_path)
+my_list_eng = my_list[0:((len(my_list))//2)]
+my_list_rus = my_list[((len(my_list))//2):]
+for i in range(0, len(my_list_rus), 2):
+    str_eng = my_list_eng[i+1].rpartition('\t')
+    str_rus = my_list_rus[i+1][len(str_eng[0])+1:-1]
+    str_eng_2 = my_list_eng[i].rpartition('\t')
+    str_eng_3 = str_eng_2[0].split('\t')
+    my_list_eng[i] = str_eng_3[0] + '\t' + str_eng_3[1] + \
+        '\t' + str(len(str_rus)) + '\t\t' + str_rus
+    # my_list_eng[i] = str_eng_2[0] + '\t' + str_rus
+    if my_list_eng[i+1].endswith('\n'):
+        my_list_eng[i+1] = my_list_eng[i+1][:-1]
+# my_list_rus = my_list[(len(my_list)/2):]
+print(my_list_eng)
 
-num_block, num_space, blEnd = 0, 0, True
-dict_text = {}
-list_text = my_text.split('\n')
-print(len(list_text))
-for line in list_text:
-    if (line == '') or (line == ' ') or (line == '\t'):
-        continue
-    num_block += 1
-    new_block = []
-    new_block.append('')
-    new_block.append(line)
-    dict_text[num_block] = new_block
-print(len(dict_text))
-pp.pprint(dict_text)
-new_text = ''
-for k, v in dict_text.items():
-    num_line = 1
-    for line in v:
-        # if line == '':
-        #     continue
-        new_text += str(k) + '\t'
-        if num_line < 3:
-            new_text += str(num_line)
-        new_text += '\t' + str(len(line)) + '\t' + '0' + '\t' + line + '\n'
-        if len(line) < 80:
-            num_line += 1
-
-write_file(new_path, new_text)
+write_file(new_path, my_list_eng)

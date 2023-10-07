@@ -1,0 +1,265 @@
+1	1	57		Второй ок английского языка по методу доктора Пимслера.
+2	1	72		Послушайте этот разговор. Миссис Джонсон разговаривает с миссис Монтеро.
+2	2	72	0	Listen to this conversation. Mrs. Johnson is speaking with Mrs. Montero.
+3	1	65		Дж – Миссис Монтеро, не хотите ли пообедать со мной и моей женой?
+3	2	67	0	J - Mrs. Montero, would you like to have lunch with my wife and me?
+4	1	67		М - Спасибо, но поели в отеле с дочкой. Ресторан там очень хороший.
+4	2	85	0	M - Thanks, but ate at the hotel with my daughter. The restaurant there is very good.
+5	1	25		Дж – Какая дочь? Старший?
+5	2	34	0	J - Which daughter? The older one?
+6	1	51		М – Да, Мария. Она сейчас живет здесь, в Нью-Йорке.
+6	2	47	0	M - Yes, Maria. She lives here in New York now.
+7	1	41		Дж – Она говорит по-английски, не так ли?
+7	2	36	0	J - She speaks English, doesn’t she?
+8	1	86		М – Да, любит. Она живет с американскими друзьями и очень хорошо говорит по-английски.
+8	2	90	0	M - Yes, she does. She lives with some American friends and she speaks English very well. 
+9	1	18	1	Когда вы приехали?
+9	2	20	0	When did you arrive?
+10	1	12	7	Вчера утром.
+10	2	18	0	Yesterday morning.
+11	1	24	9	Мы приехали вчера утром.
+11	2	29	0	We arrived yesterday morning.
+12	1	3	11	Это
+12	2	4	0	This
+13	1	14	14	Сегодня утром.
+13	2	13	0	This morning.
+14	1	24	17	Я приехал сегодня утром.
+14	2	23	0	I arrived this morning.
+15	1	27	20 	Что ты делал сегодня утром?
+15	2	29	0	What did you do this morning?
+16	1	20	22	Ты что-нибудь купил?
+16	2	21	0	Did you buy anything?
+17	1	25	25	Нет, я ничего не покупал.
+17	2	26	0	No, I didn’t buy anything.
+18	1	23	28	Мне ничего не хотелось.
+18	2	23	0	I didn’t want anything.
+19	1	21	31	И я ничего не купил.
+19	2	26	0	And I didn’t buy anything.
+20	1	32	32	Сегодня утром я ничего не купил.
+20	2	35	0	I didn’t buy anything this morning.
+21	1	7	34	Почему?
+21	2	4	0	Why?
+22	1	29	37	Почему ты здесь, в Нью-Йорке?
+22	2	29	0	Why are you here in New York?
+23	1	25	39	У тебя здесь есть друзья?
+23	2	25	0	Do you have friends here?
+24	1	36	41	У тебя здесь есть друзья, не так ли?
+24	2	33	0	You have friends here, don’t you?
+25	1	18	45	Нет, я в Нью-Йорке
+25	2	19	0	No, I’m in New York
+26	1	10	49	потому что
+26	2	7	0	because
+27	1	27	51	Я собираюсь здесь работать.
+27	2	23	0	I’m going to work here.
+28	1	20	53	на несколько недель.
+28	2	16	0	for a few weeks.
+29	1	27	54	Я не работал сегодня утром.
+29	2	27	0	I didn’t work this morning.
+30	1	27	58	Но я думаю, пойду работать.
+30	2	31	0	But I think, I’m going to work.
+31	1	12	60	Завтра утром
+31	2	16	0	Tomorrow morning
+32	1	8	62	возможно
+32	2	5	0	maybe
+33	1	14	63	Ты здесь один?
+33	2	19	0	Are you here alone?
+34	1	4	67	Один
+34	2	5	0	Alone
+35	1	37	73	Say that you are here with your wife.
+35	2	22	0	I’m here with my wife.
+37	1	15	75	Я здесь не один
+37	2	18	0	I’m not here alone
+38	1	29	79	Мы собираемся остаться здесь.
+38	2	26	0	We are going to stay here.
+39	1	17	81	на несколько дней
+39	2	14	0	for a few days
+40	1	6	83	вместе
+40	2	8	0	together
+41	1	7	84	А потом
+41	2	8	0	And then
+42	1	26	86	моя жена едет в Вашингтон.
+42	2	30	0	my wife is going to Washington
+43	1	31	91	моя жена едет в Вашингтон одна.
+43	2	36	0	my wife is going to Washington alone
+44	1	27	92	она хочет увидеть нашу дочь
+44	2	29	0	she wants to see our daughter
+45	1	8	95	Старшую?
+45	2	14	0	The older one?
+46	1	12	97	Или младшую?
+46	2	19	0	Or the younger one?
+47	1	20	101	Старшую или младшую?
+47	2	33	0	The older one or the younger one?
+49	1	8	108	Младшую.
+49	2	16	0	The younger one.
+50	1	21	111	Мы купили много вещей
+50	2	25	0	We bought a lot of things
+51	1	24	112	для нашей младшей дочери
+51	2	24	0	for our younger daughter
+52	1	9	115	и сегодня
+52	2	9	0	and today
+53	1	27	117	мы собираемся купить машину
+53	2	25	0	we are going to buy a car
+54	1	7	118	Машина?
+54	2	6	0	A car?
+55	1	33	121	Say that cars are very expensive.
+55	2	24	0	Cars are very expensive.
+57	1	6	123	Я знаю
+57	2	6	0	I know
+58	1	19	124	но нам нужна машина
+58	2	17	0	but we need a car
+59	1	26	127	Нам нужна машина для нашей дочери
+59	2	29	0	We need a car for our daughter
+60	1	18	129	Вашей младшей дочери?
+60	2	22	0	Your younger daughter?
+61	1	12	131	нет, старшей
+61	2	17	0	no, the older one
+62	1	14	132	Она живет одна
+62	2	15	0	She lives alone
+63	1	17	135	и ей нужна машина
+63	2	19	0	and she needs a car
+64	1	31	138	Она живет в Бостоне, не так ли?
+64	2	33	0	She lives in Boston, doesn’t she?
+65	1	10	142	Кратко ответьте, что да, она живет в Бостоне.
+65	2	14	0	Yes, she does.
+66	1	26	144	Но она сейчас здесь с нами
+66	2	27	0	But she is here with us now
+67	1	12	147	Мы ели с ней
+67	2	15	0	We ate with her
+68	1	13	151	сегодня утром
+68	2	12	0	this morning
+69	1	17	154	и сегодня вечером
+69	2	11	0	and tonight
+70	1	21	156	мы собираемся ужинать
+70	2	27	0	we’re going to have dinner 
+71	1	7	157	Наш сын
+71	2	7	0	Our son
+72	1	32	163	Мы собираемся поужинать с сыном.
+72	2	40	0	We’re going to have dinner with our son.
+73	1	19	165	в хорошем ресторане
+73	2	20	0	at a good restaurant
+74	1	35	168	Ваш сын живет в Бостоне, не так ли?
+74	2	37	0	Your son lives in Boston, doesn’t he?
+75	1	28	170	Да, наш сын живет в Бостоне.
+75	2	28	0	Yes our son lives in Boston.
+76	1	27	172	И наша дочь тоже там живет.
+76	2	33	0	And our daughter lives there too.
+77	1	11	174	Какая дочь?
+77	2	15	0	Which daughter?
+78	1	7	176	старшая
+78	2	13	0	The older one
+79	1	17	180	Наша младшая дочь
+79	2	20	0	Our younger daughter
+80	1	37	181	Наша младшая дочь живет в Вашингтоне.
+80	2	41	0	Our younger daughter lives in Washington.
+81	1	15	184	Наш сын приехал
+81	2	15	0	Our son arrived
+82	1	33	185	Наш сын вчера приехал в Нью-Йорк.
+82	2	38	0	Our son arrived in New York yesterday.
+83	1	25	187	Он приехал вчера вечером.
+83	2	22	0	He arrived last night.
+84	1	17	195	Когда он приехал?
+84	2	19	0	When did he arrive?
+85	1	25	198	Он приехал вчера вечером.
+85	2	22	0	He arrived last night.
+86	1	19	200	в одиннадцать часов
+86	2	17	0	at eleven o’clock
+87	1	24	203	Say that it’s very late.
+87	2	17	0	That’s very late.
+90	1	18	205	Say that you know.
+90	2	7	0	I know.
+91	1	39	209	Мы не видели нашего сына вчера вечером.
+91	2	33	0	We didn’t see our son last night.
+92	1	36	211	Потому что он приехал слишком поздно.
+92	2	28	0	Because he arrived too late.
+93	1	20	215	и он собирается уезжать
+93	2	23	0	and he’s going to leave
+94	1	14	217	завтра ночью
+94	2	14	0	tomorrow night
+95	1	10	218	потому что
+95	2	7	0	because
+97	1	31	227	Он хочет поехать в Филадельфию.
+97	2	31	0	He wants to go to Philadelphia.
+98	1	31	234	Он хочет поехать в Филадельфию.
+98	2	31	0	He wants to go to Philadelphia.
+99	1	13	236	Он едет один?
+99	2	18	0	Is he going alone?
+100	1	16	239	Ответьте кратко, что он едет не один.
+100	2	13	0	No, he isn’t.
+101	1	16	242	С ним едет подруга.
+101	2	27	0	A friend is going with him.
+102	1	36	245	Завтра они собираются в Филадельфию.
+102	2	40	0	They are going to Philadelphia tomorrow.
+103	1	8	249	Мы ездили
+103	2	7	0	We went
+104	1	25	252	Мы ездили в Филадельфию.
+104	2	25	0	We went to Philadelphia. 
+105	1	30	255	Мы вчера ездили в Филадельфию.
+105	2	34	0	We went to Philadelphia yesterday.
+106	1	14	258	Куда вы ездили?
+106	2	17	0	Where did you go?
+107	1	25	259	Мы ездили в Филадельфию.
+107	2	24	0	We went to Philadelphia.
+108	1	32	262	Наш сын хочет пойти туда завтра.
+108	2	35	0	Our son wants to go there tomorrow.
+109	1	21	266	Мы ездили туда вчера.
+109	2	24	0	We went there yesterday.
+110	1	14	267	Вы там ужинали?
+110	2	26	0	Did you have dinner there?
+111	1	19	270	Кратко ответьте, что да, мы там ужинали.
+111	2	11	0	Yes we did.
+112	1	24	273	Мы кушали с друзьями.
+112	2	25	0	We ate with some friends.
+113	1	20	276	В хорошем ресторане.
+113	2	21	0	At a good restaurant.
+114	1	47	277	Говорили ли вы по-английски со своими друзьями?
+114	2	40	0	Did you speak English with your friends?
+115	1	15	280	Кратко ответьте, что вы не говорили по-английски со своими друзьями.
+115	2	14	0	No, we didn’t.
+116	1	37	282	Тебе нравится Филадельфия, не так ли?
+116	2	33	0	You like Philadelphia, don’t you?
+117	1	35	286	Да, мне очень нравится Филадельфия.
+117	2	35	0	Yes, I like Philadelphia very much.
+118	1	30	289	Мы вчера ездили в Филадельфию.
+118	2	34	0	We went to Philadelphia yesterday.
+119	1	27	290	И наш сын хочет туда пойти.
+119	2	30	0	And our son wants to go there.
+120	1	6	292	Завтра
+120	2	8	0	Tomorrow
+121	1	35	293	Он приехал в Нью-Йорк вчера вечером.
+121	2	34	0	He arrived in New York last night.
+122	1	8	296	и завтра
+122	2	12	0	and tomorrow
+123	1	30	299	он хочет поехать в Филадельфию
+123	2	30	0	he wants to go to Philadelphia
+124	1	18	300	Наша младшая дочь.
+124	2	21	0	Our younger daughter.
+125	1	31	304	Наша младшая дочь в Вашингтоне.
+125	2	38	0	Our younger daughter is in Washington.
+126	1	19	305	и наша старшая дочь
+126	2	23	0	and our older daughter 
+127	1	38	307	Наша старшая дочь едет в Бостон.
+127	2	38	0	Our older daughter is going to Boston.
+128	1	4	309	Одна
+128	2	5	0	Alone
+129	1	30	310	Ей нравится Бостон, не так ли?
+129	2	30	0	She likes Boston, doesn’t she?
+130	1	29	313	Да, ей очень нравится Бостон.
+130	2	32	0	Yes, she likes Boston very much.
+131	1	15	318	Она ела с нами.
+131	2	16	0	She ate with us.
+132	1	14	320	Сегодня утром.
+132	2	13	0	This morning.
+133	1	33	321	Мы ели в хорошем ресторане.
+133	2	28	0	We ate at a good restaurant.
+134	1	24	323	На Восточной 52-й улице.
+134	2	20	0	On East 52nd Street.
+135	1	49	326	Мы тоже собираемся там покушать сегодня вечером.
+135	2	37	0	We’re going to eat there tonight too.
+136	1	17	328	Он очень хороший.
+136	2	15	0	It’s very good.
+137	1	20	330	И не слишком дорогой.
+137	2	22	0	And not too expensive.
+138	1	47	331	Хотели бы вы поесть там с нами сегодня вечером?
+138	2	44	0	Would you like to eat there with us tonight?
+139	1	15	336	Да, мы бы хотели.
+139	2	13	0	Yes, I would.

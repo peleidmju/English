@@ -29,10 +29,13 @@ for (parent, directorys, files) in os.walk('E:\English\PimsleurNew\First'):
                 path_origin[str_num]['csv_for_mp3'] = parent + '\\' + file
             elif '.txt' in file:
                 if file[-8:-6] == 'a_':
-                    path_origin[str_num]['txt_before_edit'] = parent + \
+                    path_origin[str_num]['txt_stepA_edit'] = parent + \
                         '\\' + file
                 elif file[-8:-6] == 'b_':
-                    path_origin[str_num]['txt_after_edit'] = parent + \
+                    path_origin[str_num]['txt_stepB_edit'] = parent + \
+                        '\\' + file
+                elif file[-8:-6] == 'c_':
+                    path_origin[str_num]['txt_stepC_edit'] = parent + \
                         '\\' + file
 path_for_json = {}
 path_for_json['path_all'] = path_origin
