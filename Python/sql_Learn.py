@@ -4,11 +4,15 @@ DB_NAME_TEMP = 'Python\\tempfor\sqlite_db.db'
 
 # # crearte table
 # with sqlite3.connect(DB_NAME_TEMP) as sqlite_conn:
-#     sql_request = """CREATE TABLE IF NOT EXISTS courses (
+#     sql_request = "DROP TABLE IF EXISTS courses_2;"
+#     sqlite_conn.execute(sql_request)
+#     sqlite_conn.commit
+#     sql_request = """CREATE TABLE IF NOT EXISTS courses_2 (
 #         id integer PRIMARY KEY,
 #         title text NOT NULL,
 #         students_qty integer,
-#         reviews_qty integer
+#         reviews_qty integer,☼
+#         aviable BLOB NOT NULL
 #     );"""
 #     sqlite_conn.execute(sql_request)
 
@@ -23,10 +27,10 @@ DB_NAME_TEMP = 'Python\\tempfor\sqlite_db.db'
 
 # Add records to the courses table variant 1
 courses = [
-    (351, "JavaScript course", 415, 100),
-    (614, "C++ course", 161, 10),
-    (721, "Java full course", 100, 35),
-    (251, "Python course", 100, 30),
+    (351, 'JavaScript course', 415, 100),
+    (614, 'C++ course', 161, 10),
+    (721, 'Java full course', 100, 35),
+    (251, 'Python course', 100, 30),
 ]
 with sqlite3.connect(DB_NAME_TEMP) as sqlite_conn:
     sql_request = "INSERT INTO courses VALUES(?, ?, ?, ?)"
@@ -37,9 +41,9 @@ with sqlite3.connect(DB_NAME_TEMP) as sqlite_conn:
         if id_true:
             continue
         else:
-            continue
-        sqlite_conn.execute(sql_request, course)
-    sqlite_conn.execute(sql_request, (251, "Python course", 100, 30))
+            cursor.execute(sql_request, course)
+    #     sqlite_conn.execute(sql_request, course)
+    # sqlite_conn.execute(sql_request, (251, "Python course", 100, 30))
     sqlite_conn.commit()
 
 # # Add records to the courses table variant 2
@@ -53,6 +57,15 @@ with sqlite3.connect(DB_NAME_TEMP) as sqlite_conn:
 #     sql_request = "INSERT INTO courses VALUES(?, ?, ?, ?)"
 #     cursor = sqlite_conn.cursor()
 #     cursor.executemany(sql_request, courses)
+
+# # Add column
+# table_edit = 'courses'
+# column_add = 'aviable'
+# data_type = ''
+# with sqlite3.connect(DB_NAME_TEMP) as sqlite_conn:
+#     cursor = sqlite_conn.cursor()
+#     sql_request = "UPDATE courses SET students_qty = ? WHERE title = ?;"
+#     cursor.execute(sql_request, update_record)
 
 # # Update records
 # update_record = (90, 'Python course')
