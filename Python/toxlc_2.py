@@ -23,7 +23,8 @@ my_text = open_file(old_path)
 # list_my_text = my_text.split('\n')
 
 my_pattern = re.compile(
-    r'(?m)^\d*\t1\t\d*\t(?P<timeQuest>[^\t]+)\t(?P<Question>[^\n]+)\n\d*\t2\t\d*\t(?P<timeAns>[^\t]+)\t(?P<Answer>[^\n]+)\n(\d+\t\t\d+\t(?P<timeTemp>[^\t]*))?')
+    r'(?m)^\d*\t1\t\d*\t(?P<timeQuest>[^\t]+)\t(?P<Question>[^\n]+)\n\d*\t2\t\d*\t(?P<timeAns>[^\t]+)\t(?P<Answer>[^\n]+)(\n\d+\t\t\d+\t(?P<timeTemp>[^\t]*))?')
+# r'(?m)^\d*\t1\t\d*\t(?P<timeQuest>[^\t]+)\t(?P<Question>[^\n]+)\n\d*\t2\t\d*\t(?P<timeAns>[^\t]+)\t(?P<Answer>[^\n]+)\n(\d+\t\t\d+\t(?P<timeTemp>[^\t]*))?')
 list_my_text = list(re.finditer(my_pattern, my_text))
 print(len(list_my_text))
 dict_my_text = [item.groupdict() for item in list_my_text]
@@ -46,11 +47,13 @@ rows = []
 time_temp = '0'
 line_not = False
 row_old = ''
+temp_timeQuest = ''
 for i, item in enumerate(dict_my_text):
     if line_not:
         row = (*row_old, item['timeQuest'])
         rows.append(row)
         line_not = False
+        row_old = ''
     if item['timeTemp']:
         row = (i, subject, item['timeQuest'],
                item['Question'], item['Answer'], item['timeTemp'])
@@ -59,7 +62,9 @@ for i, item in enumerate(dict_my_text):
         row_old = [i, subject, item['timeQuest'],
                    item['Question'], item['Answer']]
         line_not = True
-
+if row_old != '':
+    row = (*row_old, '0')
+    rows.append(row)
 with open(csv_path, mode='w', encoding='utf-8') as file:
     file_csv = csv.writer(file)
     file_csv.writerow(headers)

@@ -122,3 +122,4 @@ Lesson_32	We’re going to eat there tonight too.	Мы тоже собираем
 Lesson_32	It’s very good.	Он очень хороший.
 Lesson_32	And not too expensive.	И не слишком дорогой.
 Lesson_32	Would you like to eat there with us tonight?	Хотели бы вы поесть там с нами сегодня вечером?
+Lesson_32	Yes, I would.	Да, мы бы хотели.
