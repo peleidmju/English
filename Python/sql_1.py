@@ -1,10 +1,112 @@
 import sqlite3
 import json
 import csv
+from datetime import datetime as dt
 
 BD_NAME = 'E:\English\Python\\tempfor\sqlite_db.db'
 EXC_QUESTENGL = 'E:\Learning\QuestEngl.xlsm'
 SCV_QUESTENGL_ENGLISH = 'E:\English\Python\\tempfor\QuestEngl_English.csv'
+SCV_QUESTENGL_SpeakEng = 'E:\English\Python\\tempfor\QuestEngl_SpeakEng.csv'
+SCV_QUESTENGL_Tests = 'E:\English\Python\\tempfor\QuestEngl_Tests.csv'
+TIME_FORMAT = "%d.%m.%Y %H:%M"
+# a = '24.07.2023 7:46'
+# b = '19.07.2023 21:50'
+
+# print(dt.datetime.strptime(a, "%d.%m.%Y %H:%M"))
+
+
+def transf_from_testexcell_in_bd():  # заполняем таблицу word_question
+    """В базе данных заполняем таблицу word-question
+    для этого из эксцеля QuestEngl скачиваем в формате csv листы ('English',
+    'SpeakEng' и 'Tests') в папку 'E:\English\Python\\tempfor' с именем QuestEngl_имяЛиста.
+
+    Args:
+        EXC_QUESTENGL; 
+        SCV_QUESTENGL_ENGLISH; 
+        SCV_QUESTENGL_SpeakEng; 
+        SCV_QUESTENGL_Tests       
+    Returns:
+        table word_question
+    """    """"""
+    scv_English = exc_csv_Eng_English(SCV_QUESTENGL_ENGLISH)
+    scv_SpeakEng = exc_csv_Eng_English(SCV_QUESTENGL_SpeakEng)
+    scv_Tests = exc_csv_Eng_English(SCV_QUESTENGL_Tests)
+    print(scv_Tests)
+    with sqlite3.connect(BD_NAME) as conn:
+        cursor = conn.cursor()
+        querty_check = "SELECT * FROM word_question WHERE question = ? AND answer = ?"
+        querty_add = "INSERT INTO word_question VALUES(NULL, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?)"
+        querty_update = """UPDATE word_question SET countTrue = ?, countFalse = ?, 
+        lastResult = ?, lastDate = ?, comment = ? WHERE id = ?"""
+
+        def start_line(sline):
+            start_list = ['' for _ in range(10)]
+            start_list[0] = 91
+            start_list[3] = sline['Дата']
+            start_list[8] = sline['ID']
+            return start_list.copy()
+
+        lines = []
+        for line in scv_English:
+            if line['T1'] != -1:
+                start_list_all = start_line(line)
+                start_list_all[1] = line['Question']
+                start_list_all[2] = line['Answer']
+                start_list_all[4] = line['T1']
+                start_list_all[5] = line['F1']
+                scv_Tests_line = ''
+                for test in scv_Tests:
+                    if (test['ID_Que'] == start_list_all[8]) and (int(test['1or2']) == 1):
+                        if scv_Tests_line:
+                            if dt.strptime(scv_Tests_line['Date'], TIME_FORMAT) < dt.strptime(test['Date'], TIME_FORMAT):
+                                scv_Tests_line = test.copy()
+                        else:
+                            scv_Tests_line = test.copy()
+                if scv_Tests_line:
+                    if scv_Tests_line['Right or Wrong'] == 'Решено':
+                        start_list_all[6] = 'True'
+                    else:
+                        start_list_all[6] = 'False'
+                    start_list_all[7] = scv_Tests_line['Date']
+                check = cursor.execute(
+                    querty_check, (start_list_all[1], start_list_all[2])).fetchall()
+                if check:
+                    cursor.execute(querty_update, (start_list_all[4], start_list_all[5],
+                                                   start_list_all[6], start_list_all[7],
+                                                   start_list_all[9], check[0][0]))
+                    print(check[0][0])
+                else:
+                    cursor.execute(querty_add, tuple(start_list_all))
+            if line['T2'] != -1:
+                start_list_all = start_line(line)
+                start_list_all[1] = line['Answer']
+                start_list_all[2] = line['Question']
+                start_list_all[4] = line['T2']
+                start_list_all[5] = line['F2']
+                scv_Tests_line = ''
+                for test in scv_Tests:
+                    if (test['ID_Que'] == start_list_all[8]) and (int(test['1or2']) == 2):
+                        if scv_Tests_line:
+                            if dt.strptime(scv_Tests_line['Date'], TIME_FORMAT) < dt.strptime(test['Date'], TIME_FORMAT):
+                                scv_Tests_line = test.copy()
+                        else:
+                            scv_Tests_line = test.copy()
+                if scv_Tests_line:
+                    if scv_Tests_line['Right or Wrong'] == 'Решено':
+                        start_list_all[6] = 'True'
+                    else:
+                        start_list_all[6] = 'False'
+                    start_list_all[7] = scv_Tests_line['Date']
+                check = cursor.execute(
+                    querty_check, (start_list_all[1], start_list_all[2])).fetchall()
+                if check:
+                    cursor.execute(querty_update, (start_list_all[4], start_list_all[5],
+                                                   start_list_all[6], start_list_all[7],
+                                                   start_list_all[9], check[0][0]))
+                    print(check[0][0])
+                    pass
+                else:
+                    cursor.execute(querty_add, tuple(start_list_all))
 
 
 # Преобразование листа csvEnglish в список строк
@@ -21,6 +123,9 @@ def exc_csv_Eng_English(puth_csv):
                 new_dict[name_column[i]] = dat
             data_csv.append(new_dict)
     return data_csv
+
+
+transf_from_testexcell_in_bd()
 
 
 def add_record_courses(record):  # add record table courses
