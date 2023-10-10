@@ -1,21 +1,150 @@
 import sqlite3
 import json
 import csv
+import re
 from datetime import datetime as dt
 
 BD_NAME = 'E:\English\Python\\tempfor\sqlite_db.db'
 EXC_QUESTENGL = 'E:\Learning\QuestEngl.xlsm'
 SCV_QUESTENGL_ENGLISH = 'E:\English\Python\\tempfor\QuestEngl_English.csv'
 SCV_QUESTENGL_SpeakEng = 'E:\English\Python\\tempfor\QuestEngl_SpeakEng.csv'
+SCV_QUESTENGL_WordEng = 'E:\English\Python\\tempfor\QuestEngl_WordEng.csv'
+SCV_QUESTENGL_EngPy = 'E:\English\Python\\tempfor\QuestEngl_EngPy.csv'
 SCV_QUESTENGL_Tests = 'E:\English\Python\\tempfor\QuestEngl_Tests.csv'
 TIME_FORMAT = "%d.%m.%Y %H:%M"
-# a = '24.07.2023 7:46'
-# b = '19.07.2023 21:50'
 
-# print(dt.datetime.strptime(a, "%d.%m.%Y %H:%M"))
+a = dt.strptime('23.12.2023 7:30', TIME_FORMAT)
+a = '2023-07-17 22:18:39'
+b = '2023-07-17 22:17:39'
 
 
-def transf_from_testexcell_in_bd():  # заполняем таблицу word_question
+def create_sentences():  # Создаем таблицу senteces
+    query_drop = "DROP TABLE IF EXISTS sentences"
+    query_create = """CREATE TABLE IF NOT EXISTS sentences(
+            id integer PRIMARY KEY,
+            lesson integer NOT NULL,
+            question text NOT NULL,
+            answer text NOT NULL,
+            startDate Date,
+            countTrue integer NOT NULL,
+            countFalse integer NOT NULL,
+            lastResult text,
+            lastDate Date,
+            idExcell integer,
+            comment text,
+            FOREIGN KEY (lesson) REFERENCES courses(id)
+    )"""
+    with sqlite3.connect(BD_NAME) as conn:
+        cursor = conn.cursor()
+        cursor.execute(query_drop)
+        cursor.execute(query_create)
+
+
+def transf_from_testexcell_in_sentences():  # заполняем таблицу word_question
+    """В базе данных заполняем таблицу word-question
+    для этого из эксцеля QuestEngl скачиваем в формате csv листы ('EngPy',
+    'WordEng' и 'Tests') в папку 'E:\English\Python\\tempfor' с именем QuestEngl_имяЛиста.
+
+    Args:
+        EXC_QUESTENGL; 
+        SCV_QUESTENGL_WordEng; 
+        SCV_QUESTENGL_EngPy; 
+        SCV_QUESTENGL_Tests       
+    Returns:
+        table sentences
+    """    """"""
+    scv_EngPy = exc_csv_Eng_English(SCV_QUESTENGL_EngPy)
+    scv_WordEng = exc_csv_Eng_English(SCV_QUESTENGL_WordEng)
+    scv_Tests = exc_csv_Eng_English(SCV_QUESTENGL_Tests)
+    scv_EngPy = scv_EngPy + scv_WordEng
+    with sqlite3.connect(BD_NAME) as conn:
+        cursor = conn.cursor()
+        querty_check = "SELECT * FROM sentences WHERE question = ? AND answer = ?"
+        querty_add = "INSERT INTO sentences VALUES(NULL, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?)"
+        querty_update = """UPDATE sentences SET countTrue = ?, countFalse = ?, 
+        lastResult = ?, lastDate = ?, comment = ? WHERE id = ?"""
+        value_programming = ''
+
+        def start_line(sline):
+            start_list = ['' for _ in range(10)]
+            if re.match(r'^Lesson_\d\d?\d?', sline['Subject']):
+                lesson = sline['Subject'].split('_')[1]
+                if lesson.isnumeric():
+                    level = ((int(lesson) - 1) // 30) + 1
+                    lesson = int(lesson) % 30
+                    if not lesson:
+                        lesson = 30
+                    value_id = cursor.execute("""SELECT id FROM courses WHERE level = 
+                                              ? AND lesson = ? AND cours = 'English Pimsler'
+                                              """, (level, lesson)).fetchone()
+                    if value_id:
+                        start_list[0] = value_id[0]
+            start_list[3] = sline['Дата']
+            start_list[8] = sline['ID']
+            return start_list.copy()
+
+        lines = []
+        for line in scv_EngPy:
+            if line['T1'] != '-1':
+                start_list_all = start_line(line)
+                start_list_all[1] = line['Question']
+                start_list_all[2] = line['Answer']
+                start_list_all[4] = line['T1']
+                start_list_all[5] = line['F1']
+                scv_Tests_line = ''
+                for test in scv_Tests:
+                    if (test['ID_Que'] == start_list_all[8]) and (test['1or2'] == '1'):
+                        if scv_Tests_line:
+                            if scv_Tests_line['Date'] < test['Date']:
+                                scv_Tests_line = test.copy()
+                        else:
+                            scv_Tests_line = test.copy()
+                if scv_Tests_line:
+                    if scv_Tests_line['Right or Wrong'] == 'Решено':
+                        start_list_all[6] = 'True'
+                    else:
+                        start_list_all[6] = 'False'
+                    start_list_all[7] = scv_Tests_line['Date']
+                check = cursor.execute(
+                    querty_check, (start_list_all[1], start_list_all[2])).fetchall()
+                if check:
+                    cursor.execute(querty_update, (start_list_all[4], start_list_all[5],
+                                                   start_list_all[6], start_list_all[7],
+                                                   start_list_all[9], check[0][0]))
+                else:
+                    cursor.execute(querty_add, tuple(start_list_all))
+            if line['T2'] != '-1':
+                start_list_all = start_line(line)
+                start_list_all[1] = line['Answer']
+                start_list_all[2] = line['Question']
+                start_list_all[4] = line['T2']
+                start_list_all[5] = line['F2']
+                scv_Tests_line = ''
+                for test in scv_Tests:
+                    if (test['ID_Que'] == start_list_all[8]) and (test['1or2'] == '2'):
+                        if scv_Tests_line:
+                            if scv_Tests_line['Date'] < test['Date']:
+                                scv_Tests_line = test.copy()
+                        else:
+                            scv_Tests_line = test.copy()
+                if scv_Tests_line:
+                    if scv_Tests_line['Right or Wrong'] == 'Решено':
+                        start_list_all[6] = 'True'
+                    else:
+                        start_list_all[6] = 'False'
+                    start_list_all[7] = scv_Tests_line['Date']
+                check = cursor.execute(
+                    querty_check, (start_list_all[1], start_list_all[2])).fetchall()
+                if check:
+                    cursor.execute(querty_update, (start_list_all[4], start_list_all[5],
+                                                   start_list_all[6], start_list_all[7],
+                                                   start_list_all[9], check[0][0]))
+                    pass
+                else:
+                    cursor.execute(querty_add, tuple(start_list_all))
+
+
+def transf_from_testexcell_in_word_question():  # заполняем таблицу word_question
     """В базе данных заполняем таблицу word-question
     для этого из эксцеля QuestEngl скачиваем в формате csv листы ('English',
     'SpeakEng' и 'Tests') в папку 'E:\English\Python\\tempfor' с именем QuestEngl_имяЛиста.
@@ -31,7 +160,7 @@ def transf_from_testexcell_in_bd():  # заполняем таблицу word_qu
     scv_English = exc_csv_Eng_English(SCV_QUESTENGL_ENGLISH)
     scv_SpeakEng = exc_csv_Eng_English(SCV_QUESTENGL_SpeakEng)
     scv_Tests = exc_csv_Eng_English(SCV_QUESTENGL_Tests)
-    print(scv_Tests)
+    scv_English = scv_English + scv_SpeakEng
     with sqlite3.connect(BD_NAME) as conn:
         cursor = conn.cursor()
         querty_check = "SELECT * FROM word_question WHERE question = ? AND answer = ?"
@@ -39,9 +168,27 @@ def transf_from_testexcell_in_bd():  # заполняем таблицу word_qu
         querty_update = """UPDATE word_question SET countTrue = ?, countFalse = ?, 
         lastResult = ?, lastDate = ?, comment = ? WHERE id = ?"""
 
+        value_programming = cursor.execute(
+            "SELECT id FROM courses WHERE cours = 'Programming'").fetchone()
+        if value_programming:
+            value_programming = value_programming[0]
+
         def start_line(sline):
             start_list = ['' for _ in range(10)]
-            start_list[0] = 91
+            if sline['Subject'] == 'Programming':
+                start_list[0] = value_programming
+            elif re.match(r'^Lesson_\d\d?\d?', sline['Subject']):
+                lesson = sline['Subject'].split('_')[1]
+                if lesson.isnumeric():
+                    level = ((int(lesson) - 1) // 30) + 1
+                    lesson = int(lesson) % 30
+                    if not lesson:
+                        lesson = 30
+                    value_id = cursor.execute("""SELECT id FROM courses WHERE level = 
+                                              ? AND lesson = ? AND cours = 'English Pimsler'
+                                              """, (level, lesson)).fetchone()
+                    if value_id:
+                        start_list[0] = value_id[0]
             start_list[3] = sline['Дата']
             start_list[8] = sline['ID']
             return start_list.copy()
@@ -56,9 +203,9 @@ def transf_from_testexcell_in_bd():  # заполняем таблицу word_qu
                 start_list_all[5] = line['F1']
                 scv_Tests_line = ''
                 for test in scv_Tests:
-                    if (test['ID_Que'] == start_list_all[8]) and (int(test['1or2']) == 1):
+                    if (test['ID_Que'] == start_list_all[8]) and (test['1or2'] == '1'):
                         if scv_Tests_line:
-                            if dt.strptime(scv_Tests_line['Date'], TIME_FORMAT) < dt.strptime(test['Date'], TIME_FORMAT):
+                            if scv_Tests_line['Date'] < test['Date']:
                                 scv_Tests_line = test.copy()
                         else:
                             scv_Tests_line = test.copy()
@@ -74,7 +221,6 @@ def transf_from_testexcell_in_bd():  # заполняем таблицу word_qu
                     cursor.execute(querty_update, (start_list_all[4], start_list_all[5],
                                                    start_list_all[6], start_list_all[7],
                                                    start_list_all[9], check[0][0]))
-                    print(check[0][0])
                 else:
                     cursor.execute(querty_add, tuple(start_list_all))
             if line['T2'] != -1:
@@ -85,9 +231,9 @@ def transf_from_testexcell_in_bd():  # заполняем таблицу word_qu
                 start_list_all[5] = line['F2']
                 scv_Tests_line = ''
                 for test in scv_Tests:
-                    if (test['ID_Que'] == start_list_all[8]) and (int(test['1or2']) == 2):
+                    if (test['ID_Que'] == start_list_all[8]) and (test['1or2'] == '2'):
                         if scv_Tests_line:
-                            if dt.strptime(scv_Tests_line['Date'], TIME_FORMAT) < dt.strptime(test['Date'], TIME_FORMAT):
+                            if scv_Tests_line['Date'] < test['Date']:
                                 scv_Tests_line = test.copy()
                         else:
                             scv_Tests_line = test.copy()
@@ -103,7 +249,6 @@ def transf_from_testexcell_in_bd():  # заполняем таблицу word_qu
                     cursor.execute(querty_update, (start_list_all[4], start_list_all[5],
                                                    start_list_all[6], start_list_all[7],
                                                    start_list_all[9], check[0][0]))
-                    print(check[0][0])
                     pass
                 else:
                     cursor.execute(querty_add, tuple(start_list_all))
@@ -115,7 +260,6 @@ def exc_csv_Eng_English(puth_csv):
         f_csv = csv.reader(file_csv, delimiter=';')
         name_column = next(f_csv)
         name_column[0] = 'ID'
-        print(name_column)
         data_csv = []
         for data in f_csv:
             new_dict = {}
@@ -125,7 +269,9 @@ def exc_csv_Eng_English(puth_csv):
     return data_csv
 
 
-transf_from_testexcell_in_bd()
+transf_from_testexcell_in_word_question()
+# create_sentences()
+transf_from_testexcell_in_sentences()
 
 
 def add_record_courses(record):  # add record table courses
