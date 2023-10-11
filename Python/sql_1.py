@@ -11,11 +11,18 @@ SCV_QUESTENGL_SpeakEng = 'E:\English\Python\\tempfor\QuestEngl_SpeakEng.csv'
 SCV_QUESTENGL_WordEng = 'E:\English\Python\\tempfor\QuestEngl_WordEng.csv'
 SCV_QUESTENGL_EngPy = 'E:\English\Python\\tempfor\QuestEngl_EngPy.csv'
 SCV_QUESTENGL_Tests = 'E:\English\Python\\tempfor\QuestEngl_Tests.csv'
+FILE_SETTINGS = 'E:\\English\\Python\\settings.json'
 TIME_FORMAT = "%d.%m.%Y %H:%M"
 
 a = dt.strptime('23.12.2023 7:30', TIME_FORMAT)
 a = '2023-07-17 22:18:39'
 b = '2023-07-17 22:17:39'
+
+
+def check_drop():
+    with sqlite3.connect(BD_NAME) as conn:
+        cursor = conn.cursor()
+        cursor.execute("DROP TABLE IF EXISTS courses")
 
 
 def create_sentences():  # Создаем таблицу senteces
@@ -254,6 +261,87 @@ def transf_from_testexcell_in_word_question():  # заполняем табли�
                     cursor.execute(querty_add, tuple(start_list_all))
 
 
+def transf_from_testexcell_in_courses():  # заполняем таблицу courses
+    """В базе данных заполняем таблицу courses для этого из эксцеля QuestEngl скачиваем в 
+    формате csv листы ('English', 'SpeakEng', 'EngPy', 'WordEng' и 'Tests') в папку 
+    'E:\English\Python\\tempfor' с именем QuestEngl_имяЛиста.
+    Args:
+        EXC_QUESTENGL;
+        SCV_QUESTENGL_WordEng; 
+        SCV_QUESTENGL_EngPy;
+        SCV_QUESTENGL_ENGLISH; 
+        SCV_QUESTENGL_SpeakEng; 
+        SCV_QUESTENGL_Tests       
+    Returns:
+        table courses
+    """    """"""
+    scv_WordEng = exc_csv_Eng_English(SCV_QUESTENGL_WordEng)
+    scv_EngPy = exc_csv_Eng_English(SCV_QUESTENGL_EngPy)
+    scv_Programming = exc_csv_Eng_English(SCV_QUESTENGL_ENGLISH)
+    scv_SpeakEng = exc_csv_Eng_English(SCV_QUESTENGL_SpeakEng)
+    scv_Tests = exc_csv_Eng_English(SCV_QUESTENGL_Tests)
+    scv_Pimsler = scv_SpeakEng + scv_WordEng + scv_EngPy
+    querty_check = "SELECT * FROM courses WHERE cours = ? AND lesson = ?"
+    querty_add = "INSERT INTO courses VALUES(NULL, ?, ?, ?, ?, ?)"
+    querty_update = """UPDATE courses SET learning = ?, done = ?, 
+                    comment = ? WHERE cours = ? AND lesson = ?"""
+    lesson_set = set()
+    for line in scv_Pimsler:
+        lesson_set.add(('Pimsler English', line['Subject']))
+    for line in scv_Programming:
+        lesson_set.add(('Programming', line['Subject']))
+    lesson_list_set = list(lesson_set)
+    lesson_list_set.sort()
+    lesson_list = [list(item) for item in lesson_list_set]
+    date_dict = {}
+    for line in scv_Tests:
+        if line['Subject'] in date_dict:
+            if line['Date'] < date_dict[line['Subject']]:
+                date_dict[line['Subject']] = line['Date']
+        else:
+            date_dict[line['Subject']] = line['Date']
+    with sqlite3.connect(BD_NAME) as conn:
+        cursor = conn.cursor()
+        for line in lesson_list:
+            date_cur = '' if not line[1] in date_dict else date_dict[line[1]]
+            if cursor.execute(querty_check, (line[0], line[1])).fetchall():
+                cursor.execute(
+                    querty_update, (date_cur, '', '', line[0], line[1]))
+            else:
+                cursor.execute(
+                    querty_add, (line[0], line[1], date_cur, '', ''))
+
+
+def transf_from_settingjson_in_courses():  # заполняем таблицу courses из settings.json
+    """В базе данных заполняем таблицу courses
+    из содержимого файла settings.json
+    Args:
+        setting.json       
+    Returns:
+        table courses
+    """
+    querty_check = "SELECT * FROM courses WHERE cours = ? AND lesson = ?"
+    querty_add = "INSERT INTO courses VALUES(NULL, ?, ?, ?, ?, ?)"
+    with open(FILE_SETTINGS, 'r') as file:
+        data_json = json.load(file)
+    data_pyth = []
+    for cours in data_json:
+        for lesson in data_json[cours]:
+            data_pyth.append((cours, lesson))
+    with sqlite3.connect(BD_NAME) as conn:
+        cursor = conn.cursor()
+        for data in data_pyth:
+            if cursor.execute(querty_check, (data[0], data[1])).fetchone():
+                pass
+            else:
+                # t_data = [data[0], data[1], '', '', '']
+                # t_data = tuple(t_data)
+                cursor.execute(querty_add, (data[0], data[1], '', '', ''))
+
+
+# transf_from_settingjson_in_courses()
+
+
 # Преобразование листа csvEnglish в список строк
 def exc_csv_Eng_English(puth_csv):
     with open(puth_csv, mode='r', encoding='utf-8') as file_csv:
@@ -269,9 +357,10 @@ def exc_csv_Eng_English(puth_csv):
     return data_csv
 
 
-transf_from_testexcell_in_word_question()
+# transf_from_testexcell_in_word_question()
 # create_sentences()
-transf_from_testexcell_in_sentences()
+# transf_from_testexcell_in_sentences()
+transf_from_testexcell_in_courses()
 
 
 def add_record_courses(record):  # add record table courses
@@ -348,24 +437,17 @@ def add_first_courses():  # добавление первых записей в 
 def create_courses():  # create table courses
     with sqlite3.connect(BD_NAME) as connection:
         cursor = connection.cursor()
-        # # Get names tables from db and then delete all tables
-        # cursor.execute("SELECT cours FROM sqlite_master WHERE type = 'table'")
-        # tables = cursor.fetchall()
-        # print(tables)☻
-        # for table in tables:
-        #     cursor.execute(f"DROP TABLE {table[0]}")
-        querty = """CREATE TABLE IF NOT EXISTS courses (
+        querty_delete = "DROP TABLE IF EXISTS courses"
+        querty_create = """CREATE TABLE IF NOT EXISTS courses (
             id integer PRIMARY KEY,
             cours text NOT NULL,
-            level integer NOT NULL,
             lesson integer NOT NULL,
-            file_text text,
-            mp3_text text,
-            learning blob DEFAULT FALSE,
-            done blob DEFAULT FALSE,
+            learning DATETIME,
+            done DATETIME,
             comment text)
         """
-        cursor.execute(querty)
+        cursor.execute(querty_delete)
+        cursor.execute(querty_create)
 
 
 def create_temp_files_lesson():  # create table temp_files_lesson
@@ -395,3 +477,6 @@ def add_first_tflesson():  # Добавление первых записей в
             for f_type, f_puth in v.items():
                 new_values = (None, k_lesson, f_type, f_puth, '')
                 cursor.execute(querty, new_values)
+
+
+# create_courses()
