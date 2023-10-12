@@ -2,7 +2,6 @@ import sqlite3
 import json
 import csv
 import re
-from datetime import datetime as dt
 
 BD_NAME = 'E:\English\Python\\tempfor\sqlite_db.db'
 EXC_QUESTENGL = 'E:\Learning\QuestEngl.xlsm'
@@ -12,11 +11,6 @@ SCV_QUESTENGL_WordEng = 'E:\English\Python\\tempfor\QuestEngl_WordEng.csv'
 SCV_QUESTENGL_EngPy = 'E:\English\Python\\tempfor\QuestEngl_EngPy.csv'
 SCV_QUESTENGL_Tests = 'E:\English\Python\\tempfor\QuestEngl_Tests.csv'
 FILE_SETTINGS = 'E:\\English\\Python\\settings.json'
-TIME_FORMAT = "%d.%m.%Y %H:%M"
-
-a = dt.strptime('23.12.2023 7:30', TIME_FORMAT)
-a = '2023-07-17 22:18:39'
-b = '2023-07-17 22:17:39'
 
 
 def check_drop():

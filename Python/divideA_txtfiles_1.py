@@ -14,8 +14,8 @@ def write_file(path, text):
         file.write(text)
 
 
-old_path = 'E:\English\PimsleurNew\PEfRS_2\Pimsleur_text_2_02.txt'
-new_path = 'E:\English\Python\\tempfor\Pimsleur_text_2a_02.txt'
+old_path = 'E:\English\PimsleurNew\PEfRS_2\Pimsleur_text_2_03.txt'
+new_path = 'E:\English\Python\\tempfor\Pimsleur_text_2a_03.txt'
 my_text = open_file(old_path)
 
 num_block, num_space, blEnd = 0, 0, True

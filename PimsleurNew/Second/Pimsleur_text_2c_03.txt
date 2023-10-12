@@ -1,0 +1,120 @@
+Lesson_33	When did you arrive?	Как она спросит, когда вы приехали?
+Lesson_33	We arrived last night.	Мы приехали прошлой ночью
+Lesson_33	But our son	Say «но наш сын».
+Lesson_33	Our younger son	Наш младший сын
+Lesson_33	Arrived this morning	приехал этим утром.
+Lesson_33	He arrived this morning	Он приехал этим утром
+Lesson_33	Alone.	один.
+Lesson_33	We arrived last night.	Мы приехали вчера ночью.
+Lesson_33	How many children do you have?	Сколько у вас детей?
+Lesson_33	We have three children.	У нас три ребенка.
+Lesson_33	We have two boys	Say «У нас два мальчика»
+Lesson_33	and one girl	и одна девочка. Используйте число.
+Lesson_33	Excuse mу, please.	Как она скажет «Извините меня, пожалуйста». 
+Lesson_33	I’m going to buy a few things.	Я пойду куплю кое-какие вещи
+Lesson_33	And I can’t stay.	и не могу остаться.
+Lesson_33	Good-bye.	Она уходит. Как вы с ней попрощаетесь?
+Lesson_33	See you later.	Say «увидимся».
+Lesson_33	See you tonight.	А как вы ей скажете «увидимся вечером».
+Lesson_33	What did you do today?	Сейчас Мэри вас спрашивает «что вы делали сегодня?»
+Lesson_33	This morning	Say «этим утром»
+Lesson_33	We went to Long Island	мы ходили на Лонг-Айленд
+Lesson_33	With some American friends.	с американскими друзьями.
+Lesson_33	We ate at a good restaurant.	Мы ели в одном хорошем ресторане.
+Lesson_33	Did you speak English with your friends?	Вы говорили по-английски со своими друзьями?
+Lesson_33	Yes, we did.	Ответьте кратко, что да (мы говорили)
+Lesson_33	We spoke English.	Мы говорили по-английски
+Lesson_33	We spoke English.	Say «мы говорили по-английски»
+Lesson_33	We spoke English with our friends.	Мы говорили по-английски с нашими друзьями
+Lesson_33	Waiter	Официант
+Lesson_33	The waiter	Say «официант»
+Lesson_33	We spoke English with our friends	Мы говорили по-английски с нашими друзьями
+Lesson_33	And with the waiter.	и с официантом.
+Lesson_33	See you tomorrow.	Скажите ей «увидимся завтра».
+Lesson_33	Yesterday we went to Washington D.S.	Скажите ей «вчера мы ездили в Вашингтон округ Колумбия». Указание времени используйте в начале предложения.
+Lesson_33	I want to go to Washington.	She says «я хочу поехать в Вашингтон».
+Lesson_33	I’d like to go there too.	Try to say «мне бы тоже хотелось туда поехать».
+Lesson_33	We went to Washington.	Say «мы ездили в Вашингтон»
+Lesson_33	with our older son	с нашим старшим сыном
+Lesson_33	And with our daughter	и с нашей дочерью.
+Lesson_33	We bought a few things	Мы купили несколько вещей
+Lesson_33	And we ate at a good restaurant.	и ели в одном хорошем ресторане.
+Lesson_33	We spoke English.	Say «мы говорили по-английски»
+Lesson_33	With the waiter	с официантом.
+Lesson_33	Your son speaks English, doesn’t he?	Ваш сын говорит по-английски, не так ли?
+Lesson_33	Yes, he does.	Кратко ответьте в утвердительной форме, он говорит.
+Lesson_33	But our daughter is too little.	Now try to say «но наша дочь слишком маленькая».
+Lesson_33	 We like Washington.	Say «нам нравится Вашингтон».
+Lesson_33	We like Washington very much.	Нам очень нравится Вашингтон.
+Lesson_33	We bought a lot of things.	Мы купили много вещей.
+Lesson_33	How many things?	She asks «сколько вещей?»
+Lesson_33	Too many things.	Попробуйте сказать «слишком много вещей».
+Lesson_33	We bought too many things.	Say «мы купили слишком много вещей».
+Lesson_33	What did you see there?	She asks «Что вы там видели?»
+Lesson_33	Did you see the White House?	Try to ask «Вы видели Белый дом?»
+Lesson_33	Yes, we did.	Кратко ответьте «Да».(мы видели)
+Lesson_33	We saw the White House.		Try to say «мы видели Белый дом».
+Lesson_33	And we ate at an expensive restaurant.	и поели в одном дорогом ресторане.
+Lesson_33	We spoke English with the waiter.	Мы говорили по-английски с официантом.
+Lesson_33	But we didn’t see a lot of things	Но мы не увидели многих вещей,
+Lesson_33	because	потому что
+Lesson_33	We didn’t have much time.	Try to say «у нас не было много времени».
+Lesson_33	What did you see in Washington?	She asks «что вы видели в Вашингтоне?»
+Lesson_33	We saw the White House.	Answer «мы видели Белый дом».
+Lesson_33	and we saw some American friends	и увиделись с некоторыми американскими друзьями
+Lesson_33	We spoke English with our friends.	Мы говорили по-английски с нашими друзьями
+Lesson_33	and we bought too many things	и купили слишком много вещей
+Lesson_33	Washington isn’t very big.	Вашингтон не очень большой.
+Lesson_33	City	Say in English «город».
+Lesson_33	It’s not a big city.	Try to say «это небольшой город»
+Lesson_33	Do you know Philadelphia?	Попробуйте спросить «вы знакомы с Филадельфией?»
+Lesson_33	You know Philadelphia, don’t you?	Now ask «Вы знакомы с Филадельфией, правда?»
+Lesson_33	No, I don’t know Philadelphia.	Нет, я не знаю Филадельфию.
+Lesson_33	But we want to go there.	Say «Но мы хотим туда поехать».	
+Lesson_33	Our son lives there.	Наш сын живет там.
+Lesson_33	Which son?	She asks «Который сын?»
+Lesson_33	The older one?	Старший?
+Lesson_33	Or the younger one?	Или младший?
+Lesson_33	Our younger son lives there.	Say «Наш младший сын живет там».
+Lesson_33	He lives alone, doesn’t he?	Он живет один, правда?
+Lesson_33	No, he lives with some friends.	Say that no, he lives with some friends.
+Lesson_33	Is Philadelphia a big city?	Ask if Philadelphia is a big city.
+Lesson_33	New York is bigger.	She says «Нью-Йорк больше».
+Lesson_33	And more expensive too.	А также более дорогой.
+Lesson_33	How long are you going to stay in New York?	Как долго вы собираетесь пробыть в Нью-Йорке?
+Lesson_33	For two weeks.	Answer «Две недели».
+Lesson_33	And then we’re going to Philadelphia.	А потом мы поедем в Филадельфию.
+Lesson_33	We don’t know Philadelphia	Мы не знакомы с Филадельфией
+Lesson_33	And we want to go there.	и хотим туда поехать.
+Lesson_33	We want to see our son.	Мы хотим увидеть нашего сына.
+Lesson_33	Our younger son.	Нашего младшего сына.
+Lesson_33	We want to see the city too.	А еще мы хотим посмотреть город,
+Lesson_33	But we don’t have much time	но у нас немного времени
+Lesson_33	And	И
+Lesson_33	I have a lot of work tomorrow.	Скажите, что у вас много работы завтра.
+Lesson_33	See you later.	Скажите вашей знакомой «Увидимся».
+Lesson_33	When did you arrive?	Как он спросит вас «Когда вы приехали»?
+Lesson_33	We arrived last night.	Say «Мы приехали прошлой ночью».
+Lesson_33	What did you do today?	He asks «Что вы делали сегодня?»
+Lesson_33	This morning I saw some friends.	Try to answer «Этим утром я увидела несколько друзей»
+Lesson_33	And I went to a department store.	и сходила в один универмаг.
+Lesson_33	With your husband?	С вашим мужем?
+Lesson_33	No, I went alone.	Скажите, что нет, вы были одни.
+Lesson_33	What did you buy?	Что купили?
+Lesson_33	I bought too many things.	Ответьте, что купили слишком много вещей.
+Lesson_33	Then we ate.	Потом мы поели.
+Lesson_33	At a very good restaurant.	В одном очень хорошем ресторане.
+Lesson_33	We spoke English with the waiter.	Мы говорили по-английски с официантом.
+Lesson_33	Now I’m going to buy some wine.	Сейчас я собираюсь купить немного вина.
+Lesson_33	And some Mexican beer.	И немного мексиканского пива.
+Lesson_33	You like Mexican beer, don’t you?	Вам нравится мексиканское пиво, правда?
+Lesson_33	Where did you go today?	Сейчас спросите своего знакомого, куда он ходил сегодня.
+Lesson_33	I went to Boston.	Я ездил в Бостон.
+Lesson_33	I saw a few friends there.	Я увиделся там с несколькими друзьями.
+Lesson_33	Do you know Boston?	Вы знакомы с Бостоном?
+Lesson_33	No, I don’t.	Кратко ответьте «Нет» (Я не знаю).
+Lesson_33	It's not a big city.	He says «Это небольшой город».
+Lesson_33	I’d like to go to Boston.	Say «Мне бы хотелось поехать в Бостон».
+Lesson_33	But I have a lot of work.	Но у меня много работы.
+Lesson_33	I have too much work.	Try to say «У меня слишком много работы».
+Lesson_33	Good-bye. See you tomorrow.	Say «До свидания. Увидимся завтра».

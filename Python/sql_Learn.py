@@ -1,6 +1,9 @@
 import sqlite3
 
 DB_NAME_TEMP = 'Python\\tempfor\sqlite_db.db'
+print(print.__str__())
+delattr(print, '__str__')
+print(print.__str__())
 
 # # crearte table
 # with sqlite3.connect(DB_NAME_TEMP) as sqlite_conn:
@@ -26,25 +29,25 @@ DB_NAME_TEMP = 'Python\\tempfor\sqlite_db.db'
 #     print(time)
 
 # Add records to the courses table variant 1
-courses = [
-    (351, 'JavaScript course', 415, 100),
-    (614, 'C++ course', 161, 10),
-    (721, 'Java full course', 100, 35),
-    (251, 'Python course', 100, 30),
-]
-with sqlite3.connect(DB_NAME_TEMP) as sqlite_conn:
-    sql_request = "INSERT INTO courses VALUES(?, ?, ?, ?)"
-    sql_request_check = "SELECT * FROM courses WHERE id = ?"
-    cursor = sqlite_conn.cursor()
-    for course in courses:
-        id_true = cursor.execute(sql_request_check, (course[0],)).fetchall()
-        if id_true:
-            continue
-        else:
-            cursor.execute(sql_request, course)
-    #     sqlite_conn.execute(sql_request, course)
-    # sqlite_conn.execute(sql_request, (251, "Python course", 100, 30))
-    sqlite_conn.commit()
+# courses = [
+#     (351, 'JavaScript course', 415, 100),
+#     (614, 'C++ course', 161, 10),
+#     (721, 'Java full course', 100, 35),
+#     (251, 'Python course', 100, 30),
+# ]
+# with sqlite3.connect(DB_NAME_TEMP) as sqlite_conn:
+#     sql_request = "INSERT INTO courses VALUES(?, ?, ?, ?)"
+#     sql_request_check = "SELECT * FROM courses WHERE id = ?"
+#     cursor = sqlite_conn.cursor()
+#     for course in courses:
+#         id_true = cursor.execute(sql_request_check, (course[0],)).fetchall()
+#         if id_true:
+#             continue
+#         else:
+#             cursor.execute(sql_request, course)
+#     #     sqlite_conn.execute(sql_request, course)
+#     # sqlite_conn.execute(sql_request, (251, "Python course", 100, 30))
+#     sqlite_conn.commit()
 
 # # Add records to the courses table variant 2
 # courses = [

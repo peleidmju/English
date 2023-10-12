@@ -15,8 +15,8 @@ def write_file(path, text):
         file.write('\n'.join(text))
 
 
-old_path = 'E:\English\Python\\tempfor\Pimsleur_text_2a_02.txt'
-new_path = 'E:\English\Python\\tempfor\Pimsleur_text_2b_02.txt'
+old_path = 'E:\English\Python\\tempfor\Pimsleur_text_2a_03.txt'
+new_path = 'E:\English\Python\\tempfor\Pimsleur_text_2b_03.txt'
 my_list = open_file(old_path)
 my_list_eng = my_list[0:((len(my_list))//2)]
 my_list_rus = my_list[((len(my_list))//2):]

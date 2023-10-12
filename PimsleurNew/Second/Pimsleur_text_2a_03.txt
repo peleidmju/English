@@ -1,0 +1,327 @@
+1		57	0	Третий урок английского языка по методу доктора Пимслера.
+1		28	0	Listen to this conversation.
+1		42	0	Mr. Montero is speaking with Mrs. Johnson.
+1		51	0	 Вы встретите слово «zoo» которое означает зоопарк.
+1		49	0	A - Mr. Montero, when did you arrive in New York?
+1		22	0	B - Last night at ten.
+1		23	0	A - Are you here alone?
+1		42	0	B - No, my son is with me. My younger son.
+1		39	0	A - What did you and your son do today?
+1		23	0	B - We went to the zoo.
+1		42	0	A - Really? And did your son like the zoo?
+1		39	0	B - Yes, he did. He liked it very much.
+1		13	0	Listen again.
+1		49	0	A - Mr. Montero, when did you arrive in New York?
+1		22	0	B - Last night at ten.
+1		23	0	A - Are you here alone?
+1		42	0	B - No, my son is with me. My younger son.
+1		39	0	A - What did you and your son do today?
+1		23	0	B - We went to the zoo.
+1		42	0	A - Really? And did your son like the zoo?
+1		39	0	B - Yes, he did. He liked it very much.
+1	1	144	7	Как она спросит, когда вы приехали?
+1	2	20	0	When did you arrive?
+1	1	25	9	Мы приехали прошлой ночью
+1	2	22	0	We arrived last night.
+1		10		last night
+1	1	17	12	Say «но наш сын».
+1	2	11	0	But our son
+1		7	0	our son
+1	1	15	15	Наш младший сын
+1	2	15	0	Our younger son
+1		15	0	Our younger son
+1	1	19	18	приехал этим утром.
+1	2	20	0	Arrived this morning
+1		12	0	this morning
+1	1	21	21	Он приехал этим утром
+1	2	23	0	He arrived this morning
+1	1	5	23	один.
+1	2	6	0	Alone.
+1	1	24	25	Мы приехали вчера ночью.
+1	2	22	0	We arrived last night.
+1	1	20	28	Сколько у вас детей?
+1	2	30	0	How many children do you have?
+1	1	18	30	У нас три ребенка.
+1	2	23	0	We have three children.
+1	1	24	32	Say «У нас два мальчика»
+1	2	29	0	We have two boys
+1	1	34	34	и одна девочка. Используйте число.
+1	2	12	0	and one girl
+1	1	89	35	Как она скажет «Извините меня, пожалуйста». 
+1	2	18	0	Excuse mу, please.
+1	1	28	37	Я пойду куплю кое-какие вещи
+1	2	30	0	I’m going to buy a few things.
+1	1	19	39	и не могу остаться.
+1	2	17	0	And I can’t stay.
+1	1	38	41	Она уходит. Как вы с ней попрощаетесь?
+1	2	9	0	Good-bye.
+1		20	0	Послушайте ее ответ.
+1		14	0	See you later.
+1		34	0	Это то же самое, что и «Увидимся».
+1		18	0	Listen and repeat.
+1		14	0	See you later.
+1		5	0	Later
+1		7	0	See you
+1		14	0	See you later.
+1	1	15	50	Say «увидимся».
+1	2	14	0	See you later.
+1	1	39	52	А как вы ей скажете «увидимся вечером».
+1	2	16	0	See you tonight.
+1		16	0	See you tonight.
+1	1	51	55	Сейчас Мэри вас спрашивает «что вы делали сегодня?»
+1	2	22	0	What did you do today?
+1	1	16	57	Say «этим утром»
+1	2	12	0	This morning
+1	1	24	59	мы ходили на Лонг-Айленд
+1	2	22	0	We went to Long Island
+1		7	0	We went
+1	1	25	62	с американскими друзьями.
+1	2	27	0	With some American friends.
+1	1	33	64	Мы ели в одном хорошем ресторане.
+1	2	28	0	We ate at a good restaurant.
+1	1	44	66	Вы говорили по-английски со своими друзьями?
+1	2	40	0	Did you speak English with your friends?
+1	1	23	68	Ответьте кратко, что да (мы говорили)
+1	2	12	0	Yes, we did.
+1		12	0	Yes, we did.
+1	1	24	71	Мы говорили по-английски
+1	2	17	0	We spoke English.
+1		5	0	spoke
+1		5	0	spoke
+1		8	0	We spoke
+1		17	0	We spoke English.
+1	1	30	77	Say «мы говорили по-английски»
+1	2	17	0	We spoke English.
+1	1	42	79	Мы говорили по-английски с нашими друзьями
+1	2	34	0	We spoke English with our friends.
+1		14	0	И с официантом
+1	1	8	82	Официант
+1	2	6	0	Waiter
+1		6	0	Waiter
+1	1	14	85	Say «официант»
+1	2	10	0	The waiter
+1	1	42	87	Мы говорили по-английски с нашими друзьями
+1	2	33	0	We spoke English with our friends
+1	1	15	89	и с официантом.
+1	2	20	0	And with the waiter.
+1		1	0	 
+1	1	103	91	Скажите ей «увидимся завтра».
+1	2	17	0	See you tomorrow.
+1	1	171	94	Скажите ей «вчера мы ездили в Вашингтон округ Колумбия». Указание времени используйте в начале предложения.
+1	2	36	0	Yesterday we went to Washington D.S.
+1	1	38	96	She says «я хочу поехать в Вашингтон».
+1	2	27	0	I want to go to Washington.
+1		27	0	I want to go to Washington.
+1	1	47	99	Try to say «мне бы тоже хотелось туда поехать».
+1	2	25	0	I’d like to go there too.
+1	1	27	101	Say «мы ездили в Вашингтон»
+1	2	22	0	We went to Washington.
+1	1	21	103	с нашим старшим сыном
+1	2	18	0	with our older son
+1	1	18	105	и с нашей дочерью.
+1	2	21	0	And with our daughter
+1	1	25	107	Мы купили несколько вещей
+1	2	22	0	We bought a few things
+1	1	32	109	и ели в одном хорошем ресторане.
+1	2	32	0	And we ate at a good restaurant.
+1	1	30	111	Say «мы говорили по-английски»
+1	2	17	0	We spoke English.
+1	1	13	114	с официантом.
+1	2	15	0	With the waiter
+1		15	0	With the waiter
+1	1	40	116	Ваш сын говорит по-английски, не так ли?
+1	2	36	0	Your son speaks English, doesn’t he?
+1	1	39	118	Кратко ответьте в утвердительной форме, он говорит.
+1	2	13	0	Yes, he does.
+1	1	48	120	Now try to say «но наша дочь слишком маленькая».
+1	2	31	0	But our daughter is too little.
+1	1	29	122	Say «нам нравится Вашингтон».
+1	2	20	0	 We like Washington.
+1	1	29	124	Нам очень нравится Вашингтон.
+1	2	29	0	We like Washington very much.
+1	1	22	126	Мы купили много вещей.
+1	2	26	0	We bought a lot of things.
+1	1	25	128	She asks «сколько вещей?»
+1	2	16	0	How many things?
+1		11	0	many things
+1	1	66	131	Попробуйте сказать «слишком много вещей».
+1	2	16	0	Too many things.
+1		8	0	Too many
+1		16	0	Too many things.
+1	1	36	137	Say «мы купили слишком много вещей».
+1	2	26	0	We bought too many things.
+1	1	29	139	She asks «Что вы там видели?»
+1	2	23	0	What did you see there?
+1		70	0	Мы видели Белый дом. Белый дом. Слушайте и повторяйте часть за частью.
+1		5	0	House
+1		5	0	House
+1		6	0	White 
+1		11	0	White House
+1		15	0	The White House
+1	1	33	147	Try to ask «Вы видели Белый дом?»
+1	2	28	0	Did you see the White House?
+1	1	21	149	Кратко ответьте «Да».(мы видели)
+1	2	12	0	Yes, we did.
+1		28	0	Мы видели Белый дом. Видели.
+1		18	0	Listen and repeat.
+1		6	0	We saw
+1		3	0	Saw
+1		3	0	Saw
+1		6	0	We saw
+1	1	33	157	Try to say «мы видели Белый дом».
+1	2	24	0	We saw the White House.	
+1		24	0	We saw the White House.	
+1	1	34	160	и поели в одном дорогом ресторане.
+1	2	38	0	And we ate at an expensive restaurant.
+1		26	0	at an expensive restaurant
+1	1	38	163	Мы говорили по-английски с официантом.
+1	2	33	0	We spoke English with the waiter.
+1	1	30	165	Но мы не увидели многих вещей,
+1	2	33	0	But we didn’t see a lot of things
+1		29	0	we didn’t see a lot of things
+1	1	10	168	потому что
+1	2	7	0	because
+1	1	41	170	Try to say «у нас не было много времени».
+1	2	25	0	We didn’t have much time.
+1	1	38	172	She asks «что вы видели в Вашингтоне?»
+1	2	31	0	What did you see in Washington?
+1	1	29	174	Answer «мы видели Белый дом».
+1	2	23	0	We saw the White House.
+1	1	47	176	и увиделись с некоторыми американскими друзьями
+1	2	32	0	and we saw some American friends
+1	1	42	178	Мы говорили по-английски с нашими друзьями
+1	2	34	0	We spoke English with our friends.
+1	1	28	180	и купили слишком много вещей
+1	2	29	0	and we bought too many things
+1		15	0	too many things
+1	1	27	183	Вашингтон не очень большой.
+1	2	26	0	Washington isn’t very big.
+1		19	0	Это небольшой город
+1		18	0	Listen and repeat.
+1		4	0	City
+1		4	0	City
+1		4	0	City
+1	1	23	188	Say in English «город».
+1	2	4	0	City
+1	1	32	190	Try to say «это небольшой город»
+1	2	20	0	It’s not a big city.
+1		20	0	It’s not a big city.
+1	1	114	193	Попробуйте спросить «вы знакомы с Филадельфией?»
+1	2	25	0	Do you know Philadelphia?
+1		25	0	Do you know Philadelphia?
+1	1	44	197	Now ask «Вы знакомы с Филадельфией, правда?»
+1	2	33	0	You know Philadelphia, don’t you?
+1	1	27	198	Нет, я не знаю Филадельфию.
+1	2	30	0	No, I don’t know Philadelphia.
+1	1	32	200	Say «Но мы хотим туда поехать».	
+1	2	24	0	But we want to go there.
+1	1	18	202	Наш сын живет там.
+1	2	20	0	Our son lives there.
+1	1	23	204	She asks «Который сын?»
+1	2	10	0	Which son?
+1	1	8	207	Старший?
+1	2	14	0	The older one?
+1	1	12	209	Или младший?
+1	2	19	0	Or the younger one?
+1	1	32	211	Say «Наш младший сын живет там».
+1	2	28	0	Our younger son lives there.
+1	1	22	214	Он живет один, правда?
+1	2	27	0	He lives alone, doesn’t he?
+1	1	40	216	Say that no, he lives with some friends.
+1	2	31	0	No, he lives with some friends.
+1	1	34	218	Ask if Philadelphia is a big city.
+1	2	27	0	Is Philadelphia a big city?
+1	1	27	219	She says «Нью-Йорк больше».
+1	2	19	0	New York is bigger.
+1		19	0	New York is bigger.
+1	1	22	222	А также более дорогой.
+1	2	23	0	And more expensive too.
+1		15	0	More expensive.
+1	1	45	225	Как долго вы собираетесь пробыть в Нью-Йорке?
+1	2	43	0	How long are you going to stay in New York?
+1	1	20	228	Answer «Две недели».
+1	2	14	0	For two weeks.
+1	1	32	229	А потом мы поедем в Филадельфию.
+1	2	37	0	And then we’re going to Philadelphia.
+1	1	28	231	Мы не знакомы с Филадельфией
+1	2	26	0	We don’t know Philadelphia
+1	1	21	233	и хотим туда поехать.
+1	2	24	0	And we want to go there.
+1	1	29	235	Мы хотим увидеть нашего сына.
+1	2	23	0	We want to see our son.
+1	1	21	238	Нашего младшего сына.
+1	2	16	0	Our younger son.
+1	1	32	239	А еще мы хотим посмотреть город,
+1	2	28	0	We want to see the city too.
+1		9	0	The city.
+1	1	24	242	но у нас немного времени
+1	2	27	0	But we don’t have much time
+1	1	1	244	И
+1	2	3	0	And
+1		19	0	у меня много работы
+1		18	0	Listen and repeat.
+1		21	0	I have a lot of work.
+1		4	0	Work
+1		13	0	a lot of work
+1		21	0	I have a lot of work.
+1	1	39	251	Скажите, что у вас много работы завтра.
+1	2	30	0	I have a lot of work tomorrow.
+1	1	57	254	Скажите вашей знакомой «Увидимся».
+1	2	14	0	See you later.
+1		14	0	See you later.
+1	1	163	257	Как он спросит вас «Когда вы приехали»?
+1	2	20	0	When did you arrive?
+1	1	32	258	Say «Мы приехали прошлой ночью».
+1	2	22	0	We arrived last night.
+1	1	32	261	He asks «Что вы делали сегодня?»
+1	2	22	0	What did you do today?
+1	1	53	262	Try to answer «Этим утром я увидела несколько друзей»
+1	2	32	0	This morning I saw some friends.
+1		5	0	I saw
+1	1	27	265	и сходила в один универмаг.
+1	2	33	0	And I went to a department store.
+1	1	14	268	С вашим мужем?
+1	2	18	0	With your husband?
+1	1	31	270	Скажите, что нет, вы были одни.
+1	2	17	0	No, I went alone.
+1	1	11	272	Что купили?
+1	2	17	0	What did you buy?
+1	1	41	273	Ответьте, что купили слишком много вещей.
+1	2	25	0	I bought too many things.
+1	1	15	276	Потом мы поели.
+1	2	12	0	Then we ate.
+1	1	32	278	В одном очень хорошем ресторане.
+1	2	26	0	At a very good restaurant.
+1		26	0	At a very good restaurant.
+1	1	38	281	Мы говорили по-английски с официантом.
+1	2	33	0	We spoke English with the waiter.
+1	1	39	282	Сейчас я собираюсь купить немного вина.
+1	2	31	0	Now I’m going to buy some wine.
+1	1	29	284	И немного мексиканского пива.
+1	2	22	0	And some Mexican beer.
+1	1	39	286	Вам нравится мексиканское пиво, правда?
+1	2	33	0	You like Mexican beer, don’t you?
+1		9	0	don’t you
+1	1	56	289	Сейчас спросите своего знакомого, куда он ходил сегодня.
+1	2	23	0	Where did you go today?
+1		10	0	did you go
+1	1	17	294	Я ездил в Бостон.
+1	2	17	0	I went to Boston.
+1	1	38	295	Я увиделся там с несколькими друзьями.
+1	2	26	0	I saw a few friends there.
+1	1	22	298	Вы знакомы с Бостоном?
+1	2	19	0	Do you know Boston?
+1	1	22	300	Кратко ответьте «Нет» (Я не знаю).
+1	2	12	0	No, I don’t.
+1	1	30	301	He says «Это небольшой город».
+1	2	20	0	It's not a big city.
+1	1	39	303	Say «Мне бы хотелось поехать в Бостон».
+1	2	25	0	I’d like to go to Boston.
+1	1	23	305	Но у меня много работы.
+1	2	25	0	But I have a lot of work.
+1	1	41	307	Try to say «У меня слишком много работы».
+1	2	21	0	I have too much work.
+1		21	0	I have too much work.
+1	1	35	0	Say «До свидания. Увидимся завтра».
+1	2	27	0	Good-bye. See you tomorrow.
+1		26	0	Это конец третьего урока. 
