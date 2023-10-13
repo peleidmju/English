@@ -1,9 +1,6 @@
 import sqlite3
 
 DB_NAME_TEMP = 'Python\\tempfor\sqlite_db.db'
-print(print.__str__())
-delattr(print, '__str__')
-print(print.__str__())
 
 # # crearte table
 # with sqlite3.connect(DB_NAME_TEMP) as sqlite_conn:
@@ -19,14 +16,14 @@ print(print.__str__())
 #     );"""
 #     sqlite_conn.execute(sql_request)
 
-# # get time and date
-# with sqlite3.connect(DB_NAME_TEMP) as sqlite_conn:
-#     cursor = sqlite_conn.cursor()
-#     query = "SELECT datetime('now', 'localtime');"
-#     results = cursor.execute(query)
-#     row = results.fetchone()
-#     time = row[0]
-#     print(time)
+# get time and date
+with sqlite3.connect(DB_NAME_TEMP) as sqlite_conn:
+    cursor = sqlite_conn.cursor()
+    query = "SELECT datetime('now', 'localtime');"
+    results = cursor.execute(query)
+    row = results.fetchone()
+    time = row[0]
+    print(time)
 
 # Add records to the courses table variant 1
 # courses = [

@@ -13,6 +13,96 @@ SCV_QUESTENGL_Tests = 'E:\English\Python\\tempfor\QuestEngl_Tests.csv'
 FILE_SETTINGS = 'E:\\English\\Python\\settings.json'
 
 
+def create_mp3short():  # Создаем таблицу mp3short
+    query_drop = "DROP TABLE IF EXISTS mp3short"
+    query_create = """CREATE TABLE IF NOT EXISTS mp3short(
+            id integer PRIMARY KEY,
+            lesson integer NOT NULL,
+            question text NOT NULL,
+            answer text NOT NULL,
+            path text NOT NULL,
+            length integer NOT NULL,
+            comment text,
+            FOREIGN KEY (lesson) REFERENCES courses(id)
+    )"""
+    with sqlite3.connect(BD_NAME) as conn:
+        cursor = conn.cursor()
+        cursor.execute(query_drop)
+        cursor.execute(query_create)
+
+
+# возвращает id из таблицы courses по значению lesson
+def id_lesson_from_courses(lesson_str):
+    querty = "SELECT id FROM courses WHERE lesson = ?"
+    with sqlite3.connect(BD_NAME) as conn:
+        cursor = conn.cursor()
+        id_cur = cursor.execute(querty, (lesson_str,)).fetchone()
+    return id_cur[0]
+
+
+def update_mp3short(lesson='', question='', answer='', path='', length=0, comment='', id=None):
+    """добавляет или обновляет записи в таблице mp3short
+
+    Args:
+        lesson (str, optional): _description_. Defaults to ''.
+        question (str, optional): _description_. Defaults to ''.
+        answer (str, optional): _description_. Defaults to ''.
+        path (str, optional): _description_. Defaults to ''.
+        length (int, optional): _description_. Defaults to 0.
+        comment (str, optional): _description_. Defaults to ''.
+        id (_type_, optional): _description_. Defaults to None.
+
+    Returns:
+        _type_: _description_
+    """
+    if lesson:
+        id_lesson = id_lesson_from_courses(lesson)
+    querty_add = "INSERT INTO mp3short VALUES(NULL, ?, ?, ?, ?, ?, ?)"
+    with sqlite3.connect(BD_NAME) as conn:
+        cursor = conn.cursor()
+        if id is None:
+            tuple_current = (id_lesson, question, answer,
+                             path, length, comment)
+            cursor.execute(querty_add, tuple_current)
+            id_current = cursor.execute("""SELECT id FROM mp3short WHERE lesson = ? AND question = ?
+                                        AND answer = ? AND path = ? AND length = ? AND 
+                                        comment = ?""", tuple_current).fetchone()[0]
+        else:
+            querty_update = "UPDATE mp3short SET "
+            new_values = []
+            if lesson:
+                querty_update += "lesson = ?,"
+                new_values.append(id_lesson)
+            if question:
+                querty_update += "question = ?,"
+                new_values.append(question)
+            if answer:
+                querty_update += "answer = ?,"
+                new_values.append(answer)
+            if path:
+                querty_update += "path = ?,"
+                new_values.append(path)
+            if length:
+                querty_update += "length = ?,"
+                new_values.append(length)
+            if comment:
+                querty_update += "comment = ?,"
+                new_values.append(comment)
+            if new_values:
+                querty_update = querty_update[:-1]
+            querty_update += ' WHERE id = ?'
+            new_values.append(id)
+            new_values_tuple = tuple(new_values)
+            cursor.execute(querty_update, new_values_tuple)
+            id_current = id
+    return id_current
+
+
+# create_mp3short()
+# a = update_mp3short(path='yyyyyyy', id=2)
+# print(a)
+
+
 def check_drop():
     with sqlite3.connect(BD_NAME) as conn:
         cursor = conn.cursor()
@@ -354,7 +444,7 @@ def exc_csv_Eng_English(puth_csv):
 # transf_from_testexcell_in_word_question()
 # create_sentences()
 # transf_from_testexcell_in_sentences()
-transf_from_testexcell_in_courses()
+# transf_from_testexcell_in_courses()
 
 
 def add_record_courses(record):  # add record table courses

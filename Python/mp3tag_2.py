@@ -21,9 +21,7 @@ with open('E:\English\Python\\tempfor\Pimsleur_text_2_02.csv', encoding='utf-8')
     for line in file_csv_reader:
         csv_file_list.append(line)
 print(csv_file_list)
-for i in range(coun
-               
-               t_filez):
+for i in range(count_filez):
     tracknumber = str(i+1).zfill(len(str_count_filez)) + '/' + str_count_filez
     mp3file = MP3(filez[i], ID3=EasyID3)
     mp3file['album'] = 'Lesson 32'
