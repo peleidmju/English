@@ -18,6 +18,7 @@ def create_mp3short():  # Создаем таблицу mp3short
     query_create = """CREATE TABLE IF NOT EXISTS mp3short(
             id integer PRIMARY KEY,
             lesson integer NOT NULL,
+            title text NOT NULL,
             question text NOT NULL,
             answer text NOT NULL,
             path text NOT NULL,
@@ -40,11 +41,12 @@ def id_lesson_from_courses(lesson_str):
     return id_cur[0]
 
 
-def update_mp3short(lesson='', question='', answer='', path='', length=0, comment='', id=None):
+def update_mp3short(lesson='', title='', question='', answer='', path='', length=0, comment='', id=None):
     """добавляет или обновляет записи в таблице mp3short
 
     Args:
         lesson (str, optional): _description_. Defaults to ''.
+        title (str, optional): _description_. Defaults to ''.
         question (str, optional): _description_. Defaults to ''.
         answer (str, optional): _description_. Defaults to ''.
         path (str, optional): _description_. Defaults to ''.
@@ -53,19 +55,19 @@ def update_mp3short(lesson='', question='', answer='', path='', length=0, commen
         id (_type_, optional): _description_. Defaults to None.
 
     Returns:
-        _type_: _description_
+        _type_: id mp3 file
     """
     if lesson:
         id_lesson = id_lesson_from_courses(lesson)
-    querty_add = "INSERT INTO mp3short VALUES(NULL, ?, ?, ?, ?, ?, ?)"
+    querty_add = "INSERT INTO mp3short VALUES(NULL, ?, ?, ?, ?, ?, ?, ?)"
     with sqlite3.connect(BD_NAME) as conn:
         cursor = conn.cursor()
         if id is None:
-            tuple_current = (id_lesson, question, answer,
+            tuple_current = (id_lesson, title, question, answer,
                              path, length, comment)
             cursor.execute(querty_add, tuple_current)
-            id_current = cursor.execute("""SELECT id FROM mp3short WHERE lesson = ? AND question = ?
-                                        AND answer = ? AND path = ? AND length = ? AND 
+            id_current = cursor.execute("""SELECT id FROM mp3short WHERE lesson = ? AND title = ?
+                                         AND question = ? AND answer = ? AND path = ? AND length = ? AND 
                                         comment = ?""", tuple_current).fetchone()[0]
         else:
             querty_update = "UPDATE mp3short SET "
@@ -73,6 +75,9 @@ def update_mp3short(lesson='', question='', answer='', path='', length=0, commen
             if lesson:
                 querty_update += "lesson = ?,"
                 new_values.append(id_lesson)
+            if title:
+                querty_update += "title = ?,"
+                new_values.append(title)
             if question:
                 querty_update += "question = ?,"
                 new_values.append(question)
