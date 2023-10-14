@@ -1,232 +1,116 @@
 Number,Subject,TimeQuest,Question,Answer,TimeTemp
-
-0,Lesson_31,54.55,In English how do you say слово,Word,61.81
-
-1,Lesson_31,61.81,"How do you say ""то слово""",That word,73.76
-
-2,Lesson_31,77.46,"Try to ask ""что означает то слово""",What does that word mean?,90.16
-
-3,Lesson_31,90.16,"Спросите, как у неё дела?",How are you?,112.02
-
-4,Lesson_31,112.02,"She answer ""Отлично, спасибо, как у вас?","Fine, thanks and you?",123.66
-
-5,Lesson_31,129.04,"Say ""не плохо""",Not bad.,137.1
-
-6,Lesson_31,142.97,"How do she ask ""как долго?""?",How long?,150.7
-
-7,Lesson_31,154.05,Как долго вы здесь находитесь?,How long have you been here?,164.72
-
-8,Lesson_31,170.79,"Answer ""мы здесь"".",We’ve been here.,179.67
-
-9,Lesson_31,179.67,Со вчерашнего дня.,since yesterday.,187.74
-
-10,Lesson_31,193.42,Мы приехали,we arrived,202.22
-
-11,Lesson_31,206.11,Вчера утром.,Yesterday morning.,215
-
-12,Lesson_31,225.22,Когда вы приехали?,When did you arrive?,233.03
-
-13,Lesson_31,237.32,"Answer ""Мы приехали вчера утром"".",We arrived yesterday morning.,250.7
-
-14,Lesson_31,250.7,"Say ""Мы находимся здесь""",We’ve been here,261.86
-
-15,Lesson_31,261.86,Один день. Используйте число.,For one day.,272.68
-
-16,Lesson_31,277.41,Мы здесь со вчерашнего дня.,We’ve been here since yesterday.,291.15
-
-17,Lesson_31,291.15,Нравится ли вам Нью Йорк?,Do you like New York?,303
-
-18,Lesson_31,307.7,"Кратко ответьте, что да.","Yes, I do.",317.6
-
-19,Lesson_31,322.68,"She ask ""Сколько времени вы собираетесь здесь пробыть""",How long are you going to stay?,337.11
-
-20,Lesson_31,342.83,Одну неделю.,For one week.,351.13
-
-21,Lesson_31,354.9,Чем вы занимались вчера?,What did you do yesterday?,364.7
-
-22,Lesson_31,370.23,"Answer ""Я купил"" ",I bought ,379.22
-
-23,Lesson_31,382.8,много вещей,a lot of things,391.15
-
-24,Lesson_31,395.69,Я купил американскую газету.,I bought an American newspaper.,408.2
-
-25,Lesson_31,408.2,Кое-что выпить,Something to drink,418.04
-
-26,Lesson_31,418.04,И немного вина для моей жены,And some wine for my wife.,430.45
-
-27,Lesson_31,430.45,Я купил немного вина для неё,I bought some wine for her.,443.72
-
-28,Lesson_31,447.94,А вы?,And you?,454.41
-
-29,Lesson_31,454.41,Вы купили что-нибудь?,Did you buy anything?,467.72
-
-30,Lesson_31,472.21,"Скажите, что вы ничего не купили.",I didn’t buy anything.,482.58
-
-31,Lesson_31,495.69,"Say ""я ничего не купил"".",I didn’t buy anything.,505.88
-
-32,Lesson_31,511.9,"А сейчас попробуйте сказать: ""Мне ничего не хотелось""",I didn’t want anything.,522.47
-
-33,Lesson_31,526.36,Нам ничего не хотелось.,We didn’t want anything.,537.54
-
-34,Lesson_31,541.38,И мы ничего не купили.,And we didn’t buy anything.,551.46
-
-35,Lesson_31,556.58,"Say ""Мы купили много вещей"".",We bought a lot of things.,569.55
-
-36,Lesson_31,575.56,Мы приехали вчера утром.,We arrived yesterday morning.,589.68
-
-37,Lesson_31,589.68,И купили много вещей.,And we bought a lot of things.,602.14
-
-38,Lesson_31,602.14,Мы ничего не купили.,We didn’t buy anything.,614.257
-
-39,Lesson_31,619.35,"Помните как сказать ""доброе утро"".",Good morning.,628.97
-
-40,Lesson_31,629.24,"Now try to say ""хороший ресторан""",A good restaurant,639.28
-
-41,Lesson_31,647.83,"А так будет ""мы обедали""",We ate,654.72
-
-42,Lesson_31,668,"Скажите ещё раз ""мы обедали"".",We ate.,675.71
-
-43,Lesson_31,675.71,"Try to say ""Мы обедали в одном хорошем ресторане"".",We ate at a good restaurant.,690.15
-
-44,Lesson_31,696.54,"Try to ask ""Вы обедали в хорошем ресторане?""",Did you eat at a good restaurant?,715.05
-
-45,Lesson_31,716.38,"Краткий утвердительный ответ на вопрос ""Вы обедали в хорошем ресторане?"".","Yes, we did.",731.44
-
-46,Lesson_31,734.88,"Краткий отрицательный ответ на вопрос ""Вы обедали в хорошем ресторане?"".","No, we didn’t.",746.22
-
-47,Lesson_31,750.04,"Now say: ""Мы обедали в одном хорошем ресторане"".",We ate at a good restaurant.,764.1
-
-48,Lesson_31,764.1,Вчера утром.,Yesterday morning.,773.25
-
-49,Lesson_31,776.81,"Now try to ask: ""Вы говорили по английски?""",Did you speak English?,788.36
-
-50,Lesson_31,793.29,"Try to say: ""Нет, мы не говорили по английски"".","No, we didn’t speak English.",806.77
-
-51,Lesson_31,811.69,Мы обедали.,We ate,818.98
-
-52,Lesson_31,818.98,В одном хорошем ресторане.,at a good restaurant.,828.93
-
-53,Lesson_31,833.81,Но мы не говорили по английски.,But we didn’t speak English.,846.15
-
-54,Lesson_31,872.86,"Скажите, что вы собираетесь кое-что купить.",I’m going to buy something.,883.36
-
-55,Lesson_31,888.32,"Say: ""Кое-что для моего мужа"".",Something for my husband.,898.1
-
-56,Lesson_31,898.1,Я собираюсь кое-что купить для него.,I’m going to buy something for him.,909.79
-
-57,Lesson_31,917.21,Моя дочь.,My daughter.,922.84
-
-58,Lesson_31,928.39,"Say: ""Моя дочь"".",My daughter.,934.87
-
-59,Lesson_31,934.87,Кое-что для моей дочери.,something for my daughter.,944.92
-
-60,Lesson_31,995.29,"Ask again ""Большая или маленькая""?",The big one or the little one?,1007.59
-
-61,Lesson_31,1007.59,Моя дочь Мария.,My daughter Maria.,1017.1
-
-62,Lesson_31,1021.19,Старшая.,The older one.,1027.92
-
-63,Lesson_31,1052.89,Скажите старшая.,The older one.,1060.09
-
-64,Lesson_31,1066.2,Я купила кое-что для младшей.,I bought something for the little one.,1077.72
-
-65,Lesson_31,1083.14,Вчера утром.,Yesterday morning.,1090.94
-
-66,Lesson_31,1090.94,Я купила кое-что для неё вчера утром.,I bought something for her yesterday morning.,1106.67
-
-67,Lesson_31,1106.67,"Спросите по-английски, ваша старшая дочь говорит по-английски?",Does your older daughter speak English?,1130.29
-
-68,Lesson_31,1136.04,"Да, она говорит по-английски очень хорошо.","Yes, she speaks English very well.",1152.62
-
-69,Lesson_31,1152.62,Ваш муж тоже говорит по-английски?,Does your husband speak English too.,1166.83
-
-70,Lesson_31,1207.91,"Скажите: ""Ваш муж говорит по-английски"".",Your husband speaks English.,1220.32
-
-71,Lesson_31,1220.32,"Now ask: ""Ваш муж говорит по-английски?""",Does your husband speak English?,1233.46
-
-72,Lesson_31,1233.46,"Now try to ask: ""Ваш муж говорит по-английски, не так-ли?","Your husband speaks English, doesn’t he?",1251.95
-
-73,Lesson_31,1264.08,"Answer: ""нет, он не говорит по-английски"".","No, he doesn’t speak English.",1278.07
-
-74,Lesson_31,1283.26,Вчера утром,Yesterday morning,1292.64
-
-75,Lesson_31,1292.64,мы ели в одном хорошем ресторане,we ate at a good restaurant,1303.25
-
-76,Lesson_31,1303.25,с американскими друзьями,with some American friends,1314.3
-
-77,Lesson_31,1314.3,"try to say: ""Но они не говорили по-английски""",but they didn’t speak English,1327.3
-
-78,Lesson_31,1332.71,с моим мужем,with my husband,1340.86
-
-79,Lesson_31,1340.86,Они не говорили с ним по-английски.,They didn’t speak English with him.,1352.67
-
-80,Lesson_31,1355.89,"Say: ""Ваша дочь"".",Your daughter.,1364.35
-
-81,Lesson_31,1364.35,"Try to ask: ""Ваша дочь живет в Бостоне, не так-ли?""","Your daughter lives in Boston, doesn’t she?",1380.54
-
-82,Lesson_31,1385.03,"Ask: ""Старшая?""",The older one?,1393.25
-
-83,Lesson_31,1393.25,"The older one? Как ответить кратко, что да.","Yes, she does.",1405.74
-
-84,Lesson_31,1409.56,Она живет там с друзьями.,She lives there with some friends.,1421.16
-
-85,Lesson_31,1421.16,мексиканские друзья,Some mexican friends,1432.07
-
-86,Lesson_31,1444.09,Где находится ваш отель?,Where’s your hotel?,1452.55
-
-87,Lesson_31,1452.55,"Answer: ""На парковом проспекте"".",On Park Avenue.,1462.77
-
-88,Lesson_31,1466.72,"How do you ask: ""Вам нравится отель?""",Do you like the hotel?,1477.93
-
-89,Lesson_31,1477.93,"Now try do ask: ""Вам нравится отель, не так-ли?""?","You like the hotel, don’t you?",1492.84
-
-90,Lesson_31,1509.44,"Спросите ещё раз: ""Вам нравится отель, не так-ли?""?","You like the hotel, don’t you?",1522.86
-
-91,Lesson_31,1525.59,"Try do answer: ""Он неплохой"".",It’s not bad.,1535.25
-
-92,Lesson_31,1539.04,Ванная комната большая.,The bathroom is big.,1548.8
-
-93,Lesson_31,1548.8,Вы ели в отеле?,Did you eat at the hotel?,1559.35
-
-94,Lesson_31,1566.01,"Да, вчера мы там ели.","Yes, we ate there yesterday.",1582.72
-
-95,Lesson_31,1588.27,Ресторан хороший.,The restaurant is good.,1597.09
-
-96,Lesson_31,1602.97,И не слишком дорогой.,And not too expensive.,1611.86
-
-97,Lesson_31,1611.86,Ask «Правда?» или «В самом деле?»,Really? ,1621.38
-
-98,Lesson_31,1624.32,Ask «Как долго вы собираетесь пробыть в Нью-Йорке?»,How long are you going to stay in New York?,1639.62
-
-99,Lesson_31,1639.62,Try to say «Мой муж собирается уехать»,My husband is going to leave,1654.32
-
-100,Lesson_31,1654.32,завтра утром,tomorrow morning,1664.95
-
-101,Lesson_31,1673.01,Он собирается уехать завтра утром.,He is going to leave tomorrow morning.,1685.19
-
-102,Lesson_31,1692.46,с нашей старшей дочерью,with our older daughter,1702.85
-
-103,Lesson_31,1707.11,Они вместе едут в Бостон.,They are going to Boston together.,1719.57
-
-104,Lesson_31,1727.31,"Ask «У вас есть машина, не так ли?»","You have a car, don’t you?",1739.17
-
-105,Lesson_31,1755.44,У нас маленькая машина.,We have a small car.,1764.96
-
-106,Lesson_31,1764.96,и Бостон не так уж далеко,And Boston isn’t too far,1775.57
-
-107,Lesson_31,1775.57,Я останусь здесь,I’m going to stay here,1785.37
-
-108,Lesson_31,1790.36,с младшей,with the little one,1798.52
-
-109,Lesson_31,1798.52,Мы собираемся остаться здесь на несколько недель.,We are going to stay for a few weeks.,1812.57
-
-110,Lesson_31,1812.57,и завтра утром,and tomorrow morning,1822.55
-
-111,Lesson_31,1822.55,Mы увидим много вещей.,We are going to see a lot of things.,1834.61
-
-112,Lesson_31,1834.61,Сейчас я пойду что-нибудь купить.,Now I’m going to buy something.,1847.31
-
-113,Lesson_31,1847.31,для нашей старшей дочери,for our older daughter,1857.1
-
-114,Lesson_31,1857.1,и куплю газету,And I’m going to buy a newspaper,1868.08
-
+1,Lesson_31,54.55,In English how do you say слово,Word,61.81
+2,Lesson_31,61.81,"How do you say ""то слово""",That word,73.76
+3,Lesson_31,77.46,"Try to ask ""что означает то слово""",What does that word mean?,90.16
+4,Lesson_31,90.16,"Спросите, как у неё дела?",How are you?,112.02
+5,Lesson_31,112.02,"She answer ""Отлично, спасибо, как у вас?","Fine, thanks and you?",123.66
+6,Lesson_31,129.04,"Say ""не плохо""",Not bad.,137.1
+7,Lesson_31,142.97,"How do she ask ""как долго?""?",How long?,150.7
+8,Lesson_31,154.05,Как долго вы здесь находитесь?,How long have you been here?,164.72
+9,Lesson_31,170.79,"Answer ""мы здесь"".",We’ve been here.,179.67
+10,Lesson_31,179.67,Со вчерашнего дня.,since yesterday.,187.74
+11,Lesson_31,193.42,Мы приехали,we arrived,202.22
+12,Lesson_31,206.11,Вчера утром.,Yesterday morning.,215
+13,Lesson_31,225.22,Когда вы приехали?,When did you arrive?,233.03
+14,Lesson_31,237.32,"Answer ""Мы приехали вчера утром"".",We arrived yesterday morning.,250.7
+15,Lesson_31,250.7,"Say ""Мы находимся здесь""",We’ve been here,261.86
+16,Lesson_31,261.86,Один день. Используйте число.,For one day.,272.68
+17,Lesson_31,277.41,Мы здесь со вчерашнего дня.,We’ve been here since yesterday.,291.15
+18,Lesson_31,291.15,Нравится ли вам Нью Йорк?,Do you like New York?,303
+19,Lesson_31,307.7,"Кратко ответьте, что да.","Yes, I do.",317.6
+20,Lesson_31,322.68,"She ask ""Сколько времени вы собираетесь здесь пробыть""",How long are you going to stay?,337.11
+21,Lesson_31,342.83,Одну неделю.,For one week.,351.13
+22,Lesson_31,354.9,Чем вы занимались вчера?,What did you do yesterday?,364.7
+23,Lesson_31,370.23,"Answer ""Я купил"" ",I bought ,379.22
+24,Lesson_31,382.8,много вещей,a lot of things,391.15
+25,Lesson_31,395.69,Я купил американскую газету.,I bought an American newspaper.,408.2
+26,Lesson_31,408.2,Кое-что выпить,Something to drink,418.04
+27,Lesson_31,418.04,И немного вина для моей жены,And some wine for my wife.,430.45
+28,Lesson_31,430.45,Я купил немного вина для неё,I bought some wine for her.,443.72
+29,Lesson_31,447.94,А вы?,And you?,454.41
+30,Lesson_31,454.41,Вы купили что-нибудь?,Did you buy anything?,467.72
+31,Lesson_31,472.21,"Скажите, что вы ничего не купили.",I didn’t buy anything.,482.58
+32,Lesson_31,495.69,"Say ""я ничего не купил"".",I didn’t buy anything.,505.88
+33,Lesson_31,511.9,"А сейчас попробуйте сказать: ""Мне ничего не хотелось""",I didn’t want anything.,522.47
+34,Lesson_31,526.36,Нам ничего не хотелось.,We didn’t want anything.,537.54
+35,Lesson_31,541.38,И мы ничего не купили.,And we didn’t buy anything.,551.46
+36,Lesson_31,556.58,"Say ""Мы купили много вещей"".",We bought a lot of things.,569.55
+37,Lesson_31,575.56,Мы приехали вчера утром.,We arrived yesterday morning.,589.68
+38,Lesson_31,589.68,И купили много вещей.,And we bought a lot of things.,602.14
+39,Lesson_31,602.14,Мы ничего не купили.,We didn’t buy anything.,614.257
+40,Lesson_31,619.35,"Помните как сказать ""доброе утро"".",Good morning.,628.97
+41,Lesson_31,629.24,"Now try to say ""хороший ресторан""",A good restaurant,639.28
+42,Lesson_31,647.83,"А так будет ""мы обедали""",We ate,654.72
+43,Lesson_31,668,"Скажите ещё раз ""мы обедали"".",We ate.,675.71
+44,Lesson_31,675.71,"Try to say ""Мы обедали в одном хорошем ресторане"".",We ate at a good restaurant.,690.15
+45,Lesson_31,696.54,"Try to ask ""Вы обедали в хорошем ресторане?""",Did you eat at a good restaurant?,715.05
+46,Lesson_31,716.38,"Краткий утвердительный ответ на вопрос ""Вы обедали в хорошем ресторане?"".","Yes, we did.",731.44
+47,Lesson_31,734.88,"Краткий отрицательный ответ на вопрос ""Вы обедали в хорошем ресторане?"".","No, we didn’t.",746.22
+48,Lesson_31,750.04,"Now say: ""Мы обедали в одном хорошем ресторане"".",We ate at a good restaurant.,764.1
+49,Lesson_31,764.1,Вчера утром.,Yesterday morning.,773.25
+50,Lesson_31,776.81,"Now try to ask: ""Вы говорили по английски?""",Did you speak English?,788.36
+51,Lesson_31,793.29,"Try to say: ""Нет, мы не говорили по английски"".","No, we didn’t speak English.",806.77
+52,Lesson_31,811.69,Мы обедали.,We ate,818.98
+53,Lesson_31,818.98,В одном хорошем ресторане.,at a good restaurant.,828.93
+54,Lesson_31,833.81,Но мы не говорили по английски.,But we didn’t speak English.,846.15
+55,Lesson_31,872.86,"Скажите, что вы собираетесь кое-что купить.",I’m going to buy something.,883.36
+56,Lesson_31,888.32,"Say: ""Кое-что для моего мужа"".",Something for my husband.,898.1
+57,Lesson_31,898.1,Я собираюсь кое-что купить для него.,I’m going to buy something for him.,909.79
+58,Lesson_31,917.21,Моя дочь.,My daughter.,922.84
+59,Lesson_31,928.39,"Say: ""Моя дочь"".",My daughter.,934.87
+60,Lesson_31,934.87,Кое-что для моей дочери.,something for my daughter.,944.92
+61,Lesson_31,995.29,"Ask again ""Большая или маленькая""?",The big one or the little one?,1007.59
+62,Lesson_31,1007.59,Моя дочь Мария.,My daughter Maria.,1017.1
+63,Lesson_31,1021.19,Старшая.,The older one.,1027.92
+64,Lesson_31,1052.89,Скажите старшая.,The older one.,1060.09
+65,Lesson_31,1066.2,Я купила кое-что для младшей.,I bought something for the little one.,1077.72
+66,Lesson_31,1083.14,Вчера утром.,Yesterday morning.,1090.94
+67,Lesson_31,1090.94,Я купила кое-что для неё вчера утром.,I bought something for her yesterday morning.,1106.67
+68,Lesson_31,1106.67,"Спросите по-английски, ваша старшая дочь говорит по-английски?",Does your older daughter speak English?,1130.29
+69,Lesson_31,1136.04,"Да, она говорит по-английски очень хорошо.","Yes, she speaks English very well.",1152.62
+70,Lesson_31,1152.62,Ваш муж тоже говорит по-английски?,Does your husband speak English too.,1166.83
+71,Lesson_31,1207.91,"Скажите: ""Ваш муж говорит по-английски"".",Your husband speaks English.,1220.32
+72,Lesson_31,1220.32,"Now ask: ""Ваш муж говорит по-английски?""",Does your husband speak English?,1233.46
+73,Lesson_31,1233.46,"Now try to ask: ""Ваш муж говорит по-английски, не так-ли?","Your husband speaks English, doesn’t he?",1251.95
+74,Lesson_31,1264.08,"Answer: ""нет, он не говорит по-английски"".","No, he doesn’t speak English.",1278.07
+75,Lesson_31,1283.26,Вчера утром,Yesterday morning,1292.64
+76,Lesson_31,1292.64,мы ели в одном хорошем ресторане,we ate at a good restaurant,1303.25
+77,Lesson_31,1303.25,с американскими друзьями,with some American friends,1314.3
+78,Lesson_31,1314.3,"try to say: ""Но они не говорили по-английски""",but they didn’t speak English,1327.3
+79,Lesson_31,1332.71,с моим мужем,with my husband,1340.86
+80,Lesson_31,1340.86,Они не говорили с ним по-английски.,They didn’t speak English with him.,1352.67
+81,Lesson_31,1355.89,"Say: ""Ваша дочь"".",Your daughter.,1364.35
+82,Lesson_31,1364.35,"Try to ask: ""Ваша дочь живет в Бостоне, не так-ли?""","Your daughter lives in Boston, doesn’t she?",1380.54
+83,Lesson_31,1385.03,"Ask: ""Старшая?""",The older one?,1393.25
+84,Lesson_31,1393.25,"The older one? Как ответить кратко, что да.","Yes, she does.",1405.74
+85,Lesson_31,1409.56,Она живет там с друзьями.,She lives there with some friends.,1421.16
+86,Lesson_31,1421.16,мексиканские друзья,Some mexican friends,1432.07
+87,Lesson_31,1444.09,Где находится ваш отель?,Where’s your hotel?,1452.55
+88,Lesson_31,1452.55,"Answer: ""На парковом проспекте"".",On Park Avenue.,1462.77
+89,Lesson_31,1466.72,"How do you ask: ""Вам нравится отель?""",Do you like the hotel?,1477.93
+90,Lesson_31,1477.93,"Now try do ask: ""Вам нравится отель, не так-ли?""?","You like the hotel, don’t you?",1492.84
+91,Lesson_31,1509.44,"Спросите ещё раз: ""Вам нравится отель, не так-ли?""?","You like the hotel, don’t you?",1522.86
+92,Lesson_31,1525.59,"Try do answer: ""Он неплохой"".",It’s not bad.,1535.25
+93,Lesson_31,1539.04,Ванная комната большая.,The bathroom is big.,1548.8
+94,Lesson_31,1548.8,Вы ели в отеле?,Did you eat at the hotel?,1559.35
+95,Lesson_31,1566.01,"Да, вчера мы там ели.","Yes, we ate there yesterday.",1582.72
+96,Lesson_31,1588.27,Ресторан хороший.,The restaurant is good.,1597.09
+97,Lesson_31,1602.97,И не слишком дорогой.,And not too expensive.,1611.86
+98,Lesson_31,1611.86,Ask «Правда?» или «В самом деле?»,Really? ,1621.38
+99,Lesson_31,1624.32,Ask «Как долго вы собираетесь пробыть в Нью-Йорке?»,How long are you going to stay in New York?,1639.62
+100,Lesson_31,1639.62,Try to say «Мой муж собирается уехать»,My husband is going to leave,1654.32
+101,Lesson_31,1654.32,завтра утром,tomorrow morning,1664.95
+102,Lesson_31,1673.01,Он собирается уехать завтра утром.,He is going to leave tomorrow morning.,1685.19
+103,Lesson_31,1692.46,с нашей старшей дочерью,with our older daughter,1702.85
+104,Lesson_31,1707.11,Они вместе едут в Бостон.,They are going to Boston together.,1719.57
+105,Lesson_31,1727.31,"Ask «У вас есть машина, не так ли?»","You have a car, don’t you?",1739.17
+106,Lesson_31,1755.44,У нас маленькая машина.,We have a small car.,1764.96
+107,Lesson_31,1764.96,и Бостон не так уж далеко,And Boston isn’t too far,1775.57
+108,Lesson_31,1775.57,Я останусь здесь,I’m going to stay here,1785.37
+109,Lesson_31,1790.36,с младшей,with the little one,1798.52
+110,Lesson_31,1798.52,Мы собираемся остаться здесь на несколько недель.,We are going to stay for a few weeks.,1812.57
+111,Lesson_31,1812.57,и завтра утром,and tomorrow morning,1822.55
+112,Lesson_31,1822.55,Mы увидим много вещей.,We are going to see a lot of things.,1834.61
+113,Lesson_31,1834.61,Сейчас я пойду что-нибудь купить.,Now I’m going to buy something.,1847.31
+114,Lesson_31,1847.31,для нашей старшей дочери,for our older daughter,1857.1
+115,Lesson_31,1857.1,и куплю газету,And I’m going to buy a newspaper,1868.08
