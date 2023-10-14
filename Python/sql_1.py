@@ -433,7 +433,7 @@ def transf_from_settingjson_in_courses():  # заполняем таблицу c
 
 # Преобразование листа csvEnglish в список строк
 def exc_csv_Eng_English(puth_csv):
-    with open(puth_csv, mode='r', encoding='utf-8') as file_csv:
+    with open(puth_csv, mode='r', encoding='utf-8', newline='') as file_csv:
         f_csv = csv.reader(file_csv, delimiter=';')
         name_column = next(f_csv)
         name_column[0] = 'ID'
