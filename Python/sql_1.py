@@ -17,14 +17,15 @@ def create_mp3short():  # Создаем таблицу mp3short
     query_drop = "DROP TABLE IF EXISTS mp3short"
     query_create = """CREATE TABLE IF NOT EXISTS mp3short(
             id integer PRIMARY KEY,
-            lesson integer NOT NULL,
-            title text NOT NULL,
+            id_lesson integer NOT NULL,
+            cours text NOT NULL,
+            lesson text NOT NULL,
             question text NOT NULL,
             answer text NOT NULL,
             path text NOT NULL,
             length integer NOT NULL,
             comment text,
-            FOREIGN KEY (lesson) REFERENCES courses(id)
+            FOREIGN KEY (id_lesson) REFERENCES courses(id)
     )"""
     with sqlite3.connect(BD_NAME) as conn:
         cursor = conn.cursor()
@@ -32,16 +33,19 @@ def create_mp3short():  # Создаем таблицу mp3short
         cursor.execute(query_create)
 
 
+create_mp3short()
 # возвращает id из таблицы courses по значению lesson
-def id_lesson_from_courses(lesson_str):
-    querty = "SELECT id FROM courses WHERE lesson = ?"
+
+
+def id_lesson_from_courses(cours_str, lesson_str):
+    querty = "SELECT id FROM courses WHERE cours = ? AND lesson = ?"
     with sqlite3.connect(BD_NAME) as conn:
         cursor = conn.cursor()
-        id_cur = cursor.execute(querty, (lesson_str,)).fetchone()
+        id_cur = cursor.execute(querty, (cours_str, lesson_str,)).fetchone()
     return id_cur[0]
 
 
-def update_mp3short(lesson='', title='', question='', answer='', path='', length=0, comment='', id=None):
+def update_mp3short(id_lesson='', cours='', lesson='', question='', answer='', path='', length=0, comment='', id=None):
     """добавляет или обновляет записи в таблице mp3short
 
     Args:
@@ -57,27 +61,30 @@ def update_mp3short(lesson='', title='', question='', answer='', path='', length
     Returns:
         _type_: id mp3 file
     """
-    if lesson:
-        id_lesson = id_lesson_from_courses(lesson)
-    querty_add = "INSERT INTO mp3short VALUES(NULL, ?, ?, ?, ?, ?, ?, ?)"
+    if (not id_lesson) and cours and lesson:
+        id_lesson = id_lesson_from_courses(cours, lesson)
+    querty_add = "INSERT INTO mp3short VALUES(NULL, ?, ?, ?, ?, ?, ?, ?, ?)"
     with sqlite3.connect(BD_NAME) as conn:
         cursor = conn.cursor()
         if id is None:
-            tuple_current = (id_lesson, title, question, answer,
+            tuple_current = (id_lesson, cours, lesson, question, answer,
                              path, length, comment)
             cursor.execute(querty_add, tuple_current)
-            id_current = cursor.execute("""SELECT id FROM mp3short WHERE lesson = ? AND title = ?
-                                         AND question = ? AND answer = ? AND path = ? AND length = ? AND 
-                                        comment = ?""", tuple_current).fetchone()[0]
+            id_current = cursor.execute("""SELECT id FROM mp3short WHERE id_lesson = ? AND cours = ? AND
+                                         lesson = ? AND question = ? AND answer = ? AND path = ? AND 
+                                        length = ? AND comment = ?""", tuple_current).fetchone()[0]
         else:
             querty_update = "UPDATE mp3short SET "
             new_values = []
+            if id_lesson:
+                querty_update += "id_lesson = ?,"
+                new_values.append(id_lesson)
+            if cours:
+                querty_update += "cours = ?,"
+                new_values.append(cours)
             if lesson:
                 querty_update += "lesson = ?,"
-                new_values.append(id_lesson)
-            if title:
-                querty_update += "title = ?,"
-                new_values.append(title)
+                new_values.append(lesson)
             if question:
                 querty_update += "question = ?,"
                 new_values.append(question)

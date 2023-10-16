@@ -65,7 +65,7 @@ for i, item in enumerate(dict_my_text):
 if row_old != '':
     row = (*row_old, '0')
     rows.append(row)
-with open(csv_path, mode='w', encoding='utf-8') as file:
+with open(csv_path, mode='w', encoding='utf-8', newline='') as file:
     file_csv = csv.writer(file)
     file_csv.writerow(headers)
     file_csv.writerows(rows)
