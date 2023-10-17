@@ -4,6 +4,7 @@ import csv
 import re
 
 BD_NAME = 'E:\English\Python\\tempfor\sqlite_db.db'
+# BD_NAME = 'E:\English\PimsleurNew\sqlite_db.db'
 EXC_QUESTENGL = 'E:\Learning\QuestEngl.xlsm'
 SCV_QUESTENGL_ENGLISH = 'E:\English\Python\\tempfor\QuestEngl_English.csv'
 SCV_QUESTENGL_SpeakEng = 'E:\English\Python\\tempfor\QuestEngl_SpeakEng.csv'
@@ -33,7 +34,7 @@ def create_mp3short():  # Создаем таблицу mp3short
         cursor.execute(query_create)
 
 
-create_mp3short()
+# create_mp3short()
 # возвращает id из таблицы courses по значению lesson
 
 
@@ -67,46 +68,53 @@ def update_mp3short(id_lesson='', cours='', lesson='', question='', answer='', p
     with sqlite3.connect(BD_NAME) as conn:
         cursor = conn.cursor()
         if id is None:
-            tuple_current = (id_lesson, cours, lesson, question, answer,
-                             path, length, comment)
-            cursor.execute(querty_add, tuple_current)
-            id_current = cursor.execute("""SELECT id FROM mp3short WHERE id_lesson = ? AND cours = ? AND
-                                         lesson = ? AND question = ? AND answer = ? AND path = ? AND 
-                                        length = ? AND comment = ?""", tuple_current).fetchone()[0]
-        else:
-            querty_update = "UPDATE mp3short SET "
-            new_values = []
-            if id_lesson:
-                querty_update += "id_lesson = ?,"
-                new_values.append(id_lesson)
-            if cours:
-                querty_update += "cours = ?,"
-                new_values.append(cours)
-            if lesson:
-                querty_update += "lesson = ?,"
-                new_values.append(lesson)
-            if question:
-                querty_update += "question = ?,"
-                new_values.append(question)
-            if answer:
-                querty_update += "answer = ?,"
-                new_values.append(answer)
             if path:
-                querty_update += "path = ?,"
-                new_values.append(path)
-            if length:
-                querty_update += "length = ?,"
-                new_values.append(length)
-            if comment:
-                querty_update += "comment = ?,"
-                new_values.append(comment)
-            if new_values:
-                querty_update = querty_update[:-1]
-            querty_update += ' WHERE id = ?'
-            new_values.append(id)
-            new_values_tuple = tuple(new_values)
-            cursor.execute(querty_update, new_values_tuple)
-            id_current = id
+                id_current = cursor.execute(
+                    "Select id FROM mp3short WHERE path = ?", (path,)).fetchone()
+                if id_current:
+                    id = id_current[0]
+            if id is None:
+                tuple_current = (id_lesson, cours, lesson, question, answer,
+                                 path, length, comment)
+                cursor.execute(querty_add, tuple_current)
+                conn.commit()
+                id_current = cursor.execute("""SELECT id FROM mp3short WHERE id_lesson = ? AND cours = ? AND
+                                            lesson = ? AND question = ? AND answer = ? AND path = ? AND 
+                                            length = ? AND comment = ?""", tuple_current).fetchone()[0]
+                return id_current
+        querty_update = "UPDATE mp3short SET "
+        new_values = []
+        if id_lesson:
+            querty_update += "id_lesson = ?,"
+            new_values.append(id_lesson)
+        if cours:
+            querty_update += "cours = ?,"
+            new_values.append(cours)
+        if lesson:
+            querty_update += "lesson = ?,"
+            new_values.append(lesson)
+        if question:
+            querty_update += "question = ?,"
+            new_values.append(question)
+        if answer:
+            querty_update += "answer = ?,"
+            new_values.append(answer)
+        if path:
+            querty_update += "path = ?,"
+            new_values.append(path)
+        if length:
+            querty_update += "length = ?,"
+            new_values.append(length)
+        if comment:
+            querty_update += "comment = ?,"
+            new_values.append(comment)
+        if new_values:
+            querty_update = querty_update[:-1]
+        querty_update += ' WHERE id = ?'
+        new_values.append(id)
+        new_values_tuple = tuple(new_values)
+        cursor.execute(querty_update, new_values_tuple)
+        id_current = id
     return id_current
 
 

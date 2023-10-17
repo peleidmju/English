@@ -5,11 +5,15 @@ import shutil
 import sql_1
 import datetime
 import copy
+import re
 
 
-file_csv_path = 'E:\English\Python\\tempfor\mp3\Pimsleur_text_2_02.csv'
+# file_csv_path = 'E:\English\PimsleurNew\Second\Pimsleur_text_2_03.csv'
+# file_mp3_path = 'E:\English\PimsleurNew\Second\mp3'
+# files_path = glob.glob('E:\English\PimsleurNew\Second\mp3\Pimsleur_33*')
+file_csv_path = 'E:\English\Python\\tempfor\mp3\Pimsleur_text_2_03.csv'
 file_mp3_path = 'E:\English\PimsleurNew\Second\mp3'
-files_path = glob.glob('E:\English\Python\\tempfor\mp3\Pimsleur_32*')
+files_path = glob.glob('E:\English\Python\\tempfor\mp3\Pimsleur_33*')
 """{'album': ['Vinyl #2'], 'bpm': ['Poo'], 
 'composer': ['Poo'], 'length': ['100000'], 
 'title': ['Рокки'], 'artist': ['Zivert'], 
@@ -83,9 +87,9 @@ def files_into_bd():
 
 def write_tag_csv_bd_new():
     cours_cur = Cours("Pimsler English")
-    lesson_cur = Lesson(cours_cur, 'Lesson_32')
     mp3files = get_list_mp3(files_path)
     csvlist = get_list_csv()
+    lesson_cur = Lesson(cours_cur, csvlist[0]['Subject'])
     csvlist_new = []
     dict_for_lesson = {}
     for i, mp3file in enumerate(mp3files, start=1):
@@ -95,9 +99,18 @@ def write_tag_csv_bd_new():
         dict_for_lesson[i]['csv'] = {}
         num_isrc = mp3file.isrc
         # if (not num_isrc) or (not 'isrc' in csvlist[i-1]):
-        num_zvuk = mp3file.title
-        num_zvuk = int(num_zvuk.partition(' ')[2])
-        key_scv = 'TimeQuest'
+        if re.match(re.compile(r'\w*\s\d?\d?\d'), mp3file.title):
+            num_zvuk = mp3file.title
+            num_zvuk = int(num_zvuk.partition(' ')[2])
+            key_scv = 'TimeQuest'
+        else:
+            path_cur = mp3file.mp3tag(tag='barcode')
+            if path_cur:
+                key_scv = 'NumberBD'
+                num_zvuk = path_cur
+            elif 'Path' in csvlist[0].keys():
+                key_scv = 'Path'
+                num_zvuk = mp3file.path
         # else:
         #     num_zvuk = num_isrc
         #     key_scv = 'isrc'
@@ -108,7 +121,7 @@ def write_tag_csv_bd_new():
                 dict_for_lesson[i]['tag']['album'] = lesson_cur.lesson
                 dict_for_lesson[i]['tag']['length'] = mp3file.length
                 dict_for_lesson[i]['tag']['composer'] = line['Answer']
-                dict_for_lesson[i]['tag']['tracknumber'] = i
+                dict_for_lesson[i]['tag']['tracknumber'] = str(i)
                 dict_for_lesson[i]['tag']['date'] = str(
                     datetime.datetime.now()).rpartition('.')[0]
                 dict_for_lesson[i]['csv']['Number'] = i
@@ -126,7 +139,7 @@ def write_tag_csv_bd_new():
                                                path=dict_for_lesson[i]['pathmp3'],
                                                length=dict_for_lesson[i]['tag']['length'],
                                                )
-                dict_for_lesson[i]['tag']['barcode'] = num_bd
+                dict_for_lesson[i]['tag']['barcode'] = str(num_bd)
                 dict_for_lesson[i]['csv']['NumberBD'] = num_bd
                 break
         # csvlist_new.append(copy.deepcopy(dict_for_lesson))
@@ -146,6 +159,12 @@ def write_tag_csv_bd_new():
     with open(file_csv_path, mode='w', encoding='utf-8', newline='') as file:
         csv_writer = csv.writer(file)
         csv_writer.writerows(for_file_csv)
+    for mp3file in mp3files:
+        cur_path = mp3file.path
+        for cur_tag in dict_for_lesson.values():
+            if cur_tag['pathmp3'] == cur_path:
+                mp3file.mp3tag_save(**cur_tag['tag'])
+                break
 
 
 # mp3file.isrc = str(i)
