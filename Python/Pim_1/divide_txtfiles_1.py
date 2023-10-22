@@ -9,6 +9,9 @@ def open_file(path):
         return file.read()
 
 
+pass
+
+
 def write_file(path, text):
     with open(path, 'w', encoding='utf-8') as file:
         file.write(text)
