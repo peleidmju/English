@@ -1,0 +1,322 @@
+1		60		Четвертый урок английского языка по методу доктора Пимслера.
+1		28		Listen to this conversation.
+1		75		A - Rosa, I would like to have lunch. Would you like to have lunch with me?
+1		81		B - No, thanks. I ate at the hotel with my son he arrived in New York last night.
+1		65		A - Well then, can you and your son have dinner with me tomorrow?
+1		77		B - Tomorrow we are going to Washington. My son wants to see the White House.
+1		37		A - And what are you going to do now?
+1		26		B - Now I’m going to work.
+1		27		A - Ok. See you later then.
+1		13		Listen again.
+1		75		A - Rosa, I would like to have lunch. Would you like to have lunch with me?
+1		81		B - No, thanks. I ate at the hotel with my son he arrived in New York last night.
+1		65		A - Well then, can you and your son have dinner with me tomorrow?
+1		77		B - Tomorrow we are going to Washington. My son wants to see the White House.
+1		37		A - And what are you going to do now?
+1		26		B - Now I’m going to work.
+1		27		A - Ok. See you later then.
+1	1	108	5	Сейчас вы разговариваете с одной знакомой американкой. Как вы спросите у нее «Когда вы приехали в Нью-Йорк?»
+1	2	32	0	When did you arrive in New York?
+1	1	32	0	Say that you arrived last night.
+1	2	21	0	I arrived last night.
+2	1	57	0	Your friend asks «Вы один здесь? Помните о порядке слов».
+2	2	19	0	Are you here alone?
+2		19	0	Are you here alone?
+2	1	38	0	Answer «Нет, со мной мой старший сын».
+2	2	28	0	No, my older son is with me.
+2	1	22	0	Что вы делали сегодня?
+2	2	22	0	What did you do today?
+2	1	36	0	Этим утром мы повидались с друзьями,
+2	2	32	0	This morning we saw some friends
+2		32	0	This morning we saw some friends
+2	1	16	0	посмотрели город
+2	2	15	0	we saw the city
+2		8	0	the city
+2	1	21	0	и купили много вещей,
+2	2	29	0	and we bought a lot of things
+2	1	20	0	слишком много вещей.
+2	2	15	0	Too many things
+2		15	0	Too many things
+3	1	41	0	Потом мы поели в одном хорошем ресторане.
+3	2	33	0	Then we ate at a good restaurant.
+3	1	24	0	Мы говорили по-английски
+3	2	17	0	We spoke English.
+3		17	0	We spoke English.
+3	1	13	0	с официантом.
+3	2	16	0	With the waiter.
+3		10	0	the waiter
+3	1	36	0	Your friend asks «Вы знаете Бостон?»
+3	2	19	0	Do you know Boston?
+3	1	18	0	И ответ «еще нет».
+3	2	8	0	Not yet.
+3		3	0	Yet
+3		3	0	Yet
+3		8	0	Not yet.
+3	1	14	42	Say «Еще нет».
+3	2	8	0	Not yet.
+3	1	79	0	Now try to say «Я все еще не знаю Бостон». Дословно «я не знаю Бостон все еще».
+3	2	24	0	I don’t know Boston yet.
+3		24	0	I don’t know Boston yet.
+3	1	109	0	В английском языке «все еще» обычно ставится в конец предложения. Скажите еще раз «Я все еще не знаю Бостон».
+3	2	24	0	I don’t know Boston yet.
+3	1	39	0	Say «Мне бы хотелось поехать в Бостон».
+3	2	25	0	I’d like to go to Boston.
+3	1	20	0	Это небольшой город.
+3	2	20	0	It’s not a big city.
+3		20	0	It’s not a big city.
+3	1	26	0	Наш младший сын живет там.
+3	2	28	0	Our younger son lives there.
+3	1	33	0	Your friend asks «Он живет один?»
+3	2	19	57	Does he live alone?
+3	1	46	0	Answer «Нет, он живет с несколькими друзьями».
+3	2	31	0	No, he lives with some friends.
+3	1	11	0	Ask «А вы?»
+3	2	8	0	And you?
+3	1	26	0	Вы были в Бостоне? Listen.
+3	2	24	63	Have you been to Boston?
+3		160	0	Вы помните, как задать вопрос «как долго вы здесь находитесь?» Для того чтобы спросить кого-либо о том, был ли он в данном месте нужно использовать «have been».
+3		18	0	Listen and repeat.
+3		24	0	Have you been to Boston?
+3		9	0	to Boston
+3		13	0	Have you been
+3		24	0	Have you been to Boston?
+3	1	35	70	Спросите ее, была ли она в Бостоне.
+3	2	24	0	Have you been to Boston?
+3	1	22	0	She answers «Еще нет».
+3	2	8	0	Not yet.
+3		8	0	Not yet.
+3	1	39	0	Я не была в Бостоне. Listen and repeat.
+3	2	25	0	I haven’t been to Boston.
+3		7	0	haven’t
+3		12	78	haven’t been
+3		25	0	I haven’t been to Boston.
+3	1	26	0	Say «Я не была в Бостоне».
+3	2	25	0	I haven’t been to Boston.
+3	1	111	0	А сейчас попробуйте сказать «Я все еще не была в Бостоне». Не забудьте «все еще» поставить в конец предложения.
+3	2	29	0	I haven’t been to Boston yet.
+3		29	0	I haven’t been to Boston yet.
+4	1	33	85	Мне бы хотелось поехать в Бостон.
+4	2	25	0	I’d like to go to Boston.
+4	1	25	0	Но я все еще не была там.
+4	2	29	0	But I haven’t been there yet.
+4	1	20	0	У меня много работы.
+4	2	21	0	I have a lot of work.
+4	1	23	91	И недостаточно времени.
+4	2	20	0	And not enough time.
+4	1	44	0	Now your friend asks «Вы были в Вашингтоне?»
+4	2	28	0	Have you been to Washington?
+4	1	41	0	Try to answer «Да, мы были в Вашингтоне».
+4	2	30	96	Yes, we’ve been to Washington.
+4		30	0	Yes, we’ve been to Washington.
+4	1	28	0	Мы ездили в Вашингтон вчера.
+4	2	32	0	We went to Washington yesterday.
+4	1	20	0	Мы видели Белый дом,
+4	2	23	101	We saw the White House.
+4	1	19	0	Купили много вещей,
+4	2	25	0	We bought a lot of things
+4	1	20	0	Слишком много вещей,
+4	2	15	0	Too many things
+4	1	37	106	И ели в одном мексиканском ресторане.
+4	2	35	0	And we ate at a Mexican restaurant.
+4	1	36	0	Мы говорили по-испански с официантом
+4	2	33	109	We spoke Spanish with the waiter.
+4	1	108	0	А сейчас вы разговариваете о Нью-Йорке. Как ваша подруга спросит «Вам бы хотелось посмотреть сегодня город?»
+4	2	37	0	Would you like to see the city today?
+4	1	51	0	Скажите ей, что сегодня у вас слишком много работы.
+4	2	27	113	Today I have too much work.
+4	1	24	0	She asks «Тогда завтра?»
+4	2	14	0	Then tomorrow?
+4	1	35	0	Answer «Может быть, я еще не знаю».
+4	2	24	0	Maybe. I don’t know yet.
+4		17	118	I don’t know yet.
+4	1	10	0	Вы знаете?
+4	2	12	0	Do you know?
+4		12	0	Do you know?
+4	1	33	0	Вы знаете ресторан на Парк-Авеню?
+4	2	39	0	Do you know the Park Avenue restaurant?
+4	1	13	124	Нет, еще нет.
+4	2	12	0	No, not yet.
+4		12	0	No, not yet.
+4	1	17	0	Я еще там не был.
+4	2	25	0	I haven’t been there yet.
+4		25	129	I haven’t been there yet.
+4		95	0	Сейчас вы обедаете с подругой в ресторане на Парк-Авеню, и она видит знакомого «Один мой друг».
+4		18	0	Listen and repeat.
+4		17	0	A friend of mine.
+4		4	0	Mine
+4		4	0	Mine
+4		2	0	Of
+4		7	0	of mine
+4		17	0	A friend of mine.
+4	1	31	0	Try to say «Там один мой друг».
+4	2	25	0	There’s a friend of mine.
+4		25	0	There’s a friend of mine.
+4		7	141	There’s
+4	1	41	0	Обратите внимание на сокращение «There’s» Скажите еще раз «Там один мой друг».
+4	2	25	0	There’s a friend of mine.
+4		94	0	Его зовут Питер Джонсон. На английском дословно будет «Его имя – Питер Джонсон». Сначала «имя» Listen and repeat.
+4		4	0	Name
+4		4	0	Name
+4	1	7	0	Его имя Listen and repeat again.
+4	2	8	148	His name
+4		3	0	His
+4		8	0	His name
+4	1	37	0	Try to say «Его имя – Питер Джонсон».
+4	2	26	0	His name is Peter Johnson.
+4		26	0	His name is Peter Johnson.
+4	1	51	0	Try to ask «Как его зовут?» Дословно «Как его имя?»
+4	2	17	155	What is his name?
+4		16	0	What’s his name?
+4	1	32	0	Спросите еще раз, как его зовут.
+4	2	16	0	What’s his name?
+4	1	24	0	Его зовут Питер Джонсон.
+4	2	26	160	His name is Peter Johnson.
+5	1	62	0	Вы обращаетесь к мистеру Джонсону. Как вы его поприветствуете?
+5	2	19	0	Hello, Mr. Johnson.
+5	1	39	0	Try to say «Меня зовут Карлос Монтеро».
+5	2	26	0	My name is Carlos Montero.
+5		10	165	My name is
+5		26	0	My name is Carlos Montero.
+5	1	48	0	Как ваша подруга скажет ему «Карлос - мой друг».
+5	2	27	0	Carlos is a friend of mine.
+5		14	169	friend of mine
+5		75	0	А сейчас вы должны идти. Вам нужно сказать «Сожалею, сейчас мне пора идти».
+5		18	0	Listen and repeat.
+5		16	0	I have to leave.
+5		5	0	Leave
+5		7	0	have to
+5		13	0	have to leave
+5		16	0	I have to leave.
+5	1	20	0	Say «Я должен уйти».
+5	2	16	178	I have to leave.
+5	1	30	0	Сожалею, сейчас я должен уйти.
+5	2	30	0	I’m sorry I have to leave now.
+5	1	20	0	У меня много работы.
+5	2	21	182	I have a lot of work.
+5	1	38	0	Try to say «И я должен кое-что купить»
+5	2	27	0	And I have to buy something
+5	1	24	0	для моей младшей дочери.
+5	2	23	0	For my younger daughter
+5	1	27	187	Она приехала прошлой ночью.
+5	2	23	0	She arrived last night.
+5	1	23	0	И ей нужно много вещей.
+5	2	30	0	And she needs a lot of things.
+5		26	0	She needs a lot of things.
+5	1	20	192	Слишком много вещей.
+5	2	16	0	Too many things.
+5	1	35	0	Try to ask «Вы должны сейчас уйти?»
+5	2	25	0	Do you have to leave now?
+5		14	0	Do you have to
+5		25	0	Do you have to leave now?
+5	1	36	0	Say that yes, you have to leave now.
+5	2	25	0	Yes, I have to leave now.
+5		70	0	Ваша подруга тоже должна уйти. Послушайте и повторите, что она скажет.
+5		8	201	So do I.
+5		2	0	Do
+5		4	0	do I
+5		2	0	So
+5		8	0	So do I.
+5		8	206	So do I.
+5		133	0	Это один из способов сказать «И я тоже». Вы также можете использовать это выражение, если на вопрос ответили с помощью глагола «do». 
+5		7	0	Listen.
+5		21	0	Do you have to leave? Yes, I do.
+5		21	0	So do I.
+5	1	40	211	Дословно «так делаю я». Скажите еще раз.
+5	2	8	0	So do I.
+5		8	0	So do I.
+5	1	48	214	Ваша подруга говорит Питеру Джонсону «Увидимся».
+5	2	14	0	See you later.
+5		14	0	See you later.
+5	1	93	0	Когда вы уходили, один знакомый заходит в ресторан. Скажите вашей подруге «Там Лео Мартинес».
+5	2	21	218	There’s Leo Martinez.
+5	1	18	0	Say «Он мой друг».
+5	2	22	0	He’s a friend of mine.
+5	1	56	0	Мужчина говорит вашей подруге «Меня зовут Лео Мартинес».
+5	2	24	0	My name is Leo Martinez.
+6	1	45	223	Как она скажет, что рада познакомиться с ним?
+6	2	20	0	Pleased to meet you.
+6		34	0	Pleased to meet you, Mr. Martinez.
+6	1	48	0	Try to say «Извините, но мы должны сейчас уйти».
+6	2	35	227	I’m sorry but we have to leave now.
+6		16	0	we have to leave
+6	1	17	0	Увидимся завтра. 
+6	2	17	0	See you tomorrow.
+6	1	79	0	Вы и ваша подруга уходите. Вы на улице. Как вы спросите подругу, куда она идет?
+6	2	20	0	Where are you going?
+6		20	233	Where are you going?
+6	1	49	0	Я должна пойти в центр города. Listen and repeat.
+6	2	23	0	I have to go into town.
+6		4	0	Town
+6		4	0	Town
+6		4	0	Into
+6		9	0	into town
+6		23	0	I have to go into town.
+6	1	136	241	«Town» также это может относиться к небольшому городку. Но также используется для указания центра города. Как вы скажете «идти в центр»?
+6	2	12	0	go into town
+6		4	0	into
+6		9	0	into town
+6	1	30	0	Я должна пойти в центр города.
+6	2	23	0	I have to go into town.
+6	1	21	0	Я хочу пойти в центр.
+6	2	23	0	I want to go into town.
+6	1	47	249	Say «Я тоже». Начните фразу со слова «отлично».
+6		8	0	So do I.
+6	2	14	0	Fine, so do I.
+6	1	33	0	Ask if she’d like to go with you.
+6	2	29	0	Would you like to go with me?
+6	1	43	0	Как кратко ответить в утвердительной форме?
+6	2	13	0	Yes, I would.
+6	1	37	0	Мне бы хотелось пойти в центр с Вами.
+6	2	34	257	I’d like to go into town with you.
+6	1	180	0	Скажите ему  «этим утром мы ходили на Лонг-Айленд».
+6	2	36	0	This morning we went to Long Island.
+6	1	46	0	Try to say «Мы видели нескольких моих друзей».
+6	2	28	0	We saw some friends of mine.
+6		28	262	Some friends of mine.
+6	1	31	0	И много говорили на английском.
+6	2	30	0	And we spoke a lot of English.
+6		30	0	A lot of English.
+6	1	88	0	Она говорит, что вчера ездила в Вашингтон.
+6	2	31	0	I went to Washington yesterday.
+6	1	46	0	Your friend asks «Неужели? Что вы там делали?»
+6	2	30	0	Really? What did you do there?
+6	1	19	0	Я видела Белый Дом.
+6	2	22	0	I saw the White House.
+6	1	29	0	И купила слишком много вещей.
+6	2	29	0	And I bought too many things.
+6	1	34	0	Я ела в одном испанском ресторане.
+6	2	30	0	I ate at a Spanish restaurant.
+6		30	276	A Spanish restaurant.
+6	1	38	0	Но говорила по-английски с официантом.
+6	2	36	0	But I spoke English with the waiter.
+6	1	49	0	Сейчас ваш друг спрашивает «Вы знаете Вашингтон?»
+6	2	23	0	Do you know Washington?
+6	1	34	281	Say «Нет, я не была в Вашингтоне».
+6	2	33	0	No, I haven’t been to Washington.
+6		13	0	to Washington
+6	1	34	0	He asks «Вы не были в Вашингтоне?»
+6	2	31	0	You haven’t been to Washington?
+7	1	8	0	Еще нет.
+7	2	8	0	Not yet.
+7		33	0	I haven’t been to Washington yet.
+7	1	20	0	Это небольшой город.
+7	2	20	0	It’s not a big city.
+7	1	27	291	Но у меня немного времени. 
+7	2	27	0	But I don’t have much time.
+7	1	41	0	Now say «Извините, я должна сейчас уйти».
+7	2	31	0	Excuse me, I have to leave now.
+7	1	22	295	Я должна идти в центр.
+7	2	23	0	I have to go into town.
+7	1	76	0	«Там мой друг».
+7	2	25	0	There’s a friend of mine.
+7	1	23	299	Его зовут Маркос Лопес.
+7	2	25	0	His name is Markus Lopez.
+7	1	22	301	Он очень хороший друг.
+7	2	24	0	He’s a very good friend.
+7	1	108	0	«Извините, я должна сейчас уйти».
+7	2	31	0	Excuse me, I have to leave now.
+7	1	31	0	Ваш коллега говорит «и я тоже».
+7	2	8	0	So do I.
+7	1	22	0	Увидимся завтра утром.
+7	2	25	308	See you tomorrow morning.
+7		27	0	Это конец четвертого урока.
