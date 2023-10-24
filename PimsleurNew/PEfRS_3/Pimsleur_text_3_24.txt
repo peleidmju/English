@@ -47,7 +47,7 @@ Then she says «Я слышала, что вы скоро уезжаете».
 I heard that you’re leaving soon.
 
 Answer «Да, наш проект здесь почти завершен».
-Yes, our project her у is almost finished.
+Yes, our project here is is almost finished.
 
 Я возвращаюсь в Мексику
 I’m going back to Mexico.

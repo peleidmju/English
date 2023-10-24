@@ -18,11 +18,11 @@ Listen to this conversation.
 
 A ‐ John, I’d like to have something to eat with you, ok?
 
-В ‐ Yes, but at what time? At two o’clock?
+B ‐ Yes, but at what time? At two o’clock?
 
 A ‐ No, later.
 
-В ‐ Oh, I understand. At eight o’clock or at nine o’clock?
+B ‐ Oh, I understand. At eight o’clock or at nine o’clock?
 
 A ‐ Yes, at nine o’clock.
 
@@ -848,21 +848,21 @@ And I’d like to buy two beers.
 
 A ‐ Hello
 
-В ‐ Hello
+B ‐ Hello
 
 A ‐ How are you?
 
-В ‐ I’m fine.
+B ‐ I’m fine.
 
-В ‐ I’m fine thanks.
+B ‐ I’m fine thanks.
 
 A ‐ Excuse me, would you like to have lunch with me?
 
-В ‐ Yes, thank you.
+B ‐ Yes, thank you.
 
-В ‐ Yes, I would
+B ‐ Yes, I would
 
-В ‐ Yes, I’d like to.
+B ‐ Yes, I’d like to.
 
 
 
@@ -870,21 +870,21 @@ A ‐ Excuse me, would you like to have lunch with me?
 
 A ‐ At what time would you like to eat? At eight o’clock?
 
-В ‐ No, at nine o’clock.
+B ‐ No, at nine o’clock.
 
 A ‐ No, not at nine o’clock. At two o’clock, ok?
 
-В ‐ No, not at two o’clock, at three o’clock.
+B ‐ No, not at two o’clock, at three o’clock.
 
-В ‐ No, not at two o’clock, at three o’clock.
+B ‐ No, not at two o’clock, at three o’clock.
 
 
 
 A ‐ Three o’clock? No thanks, but at four o’clock, ok?
 
-В ‐ No not at four o’clock, at five o’clock.
+B ‐ No not at four o’clock, at five o’clock.
 
-В ‐ No not at four o’clock, at five o’clock.
+B ‐ No not at four o’clock, at five o’clock.
 
 
 

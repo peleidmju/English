@@ -302,7 +302,7 @@ It used to be less expensive.
 
 По дороге в магазин вы останавливаетесь, чтобы купить газету. Что вы скажете, чтобы привлечь внимание продавца?
 Excuse me.
-Excuse mу, sir.
+Excuse me, sir.
 
 Say that you’d like to buy a newspaper.
 I’d like to buy a newspaper.
@@ -390,7 +390,7 @@ Yes, it’s really beautiful.
 I’m going to have a dish of ice-cream.
 
 В кафе Сад.
-At the Garden cafй.
+At the Garden cafe.
 
 Вам бы хотелось пойти со мной?
 Would you like to come with me?
